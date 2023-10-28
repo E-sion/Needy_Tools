@@ -1,0 +1,76 @@
+
+##
+### Prefix 
+糖糖: 采访邮件发过来了！阿P快来跟我一起想想啊！ 问题1：你为什么会成为一名主播呢？
+### Option-1
+User:：认真回答
+
+Reply：
+糖糖：因为我作为当代互联网小天使，很想向大家播撒笑容。
+Attribute Change: None
+### Option-2
+User:：耍宝
+
+Reply：
+糖糖：天使做直播需要理由吗？
+Attribute Change: None
+### Option-3
+User:：犯病
+
+Reply：
+糖糖：你是在说我不配当主播吗？
+Attribute Change: None
+### Option-2
+User:：认真回答
+
+Reply：
+糖糖：我的原则是，不伤害任何人，并为世间尤其是阿宅们献上治愈
+Attribute Change: None
+### Option-2
+User:：耍宝
+
+Reply：
+糖糖：心……是啥？
+Attribute Change: None
+### Option-2
+User:：犯病
+
+Reply：
+糖糖：我这么人渣的一个人，所能想到的唯有努力不让大家感到不愉快罢了
+Attribute Change: None
+### Option-3
+User:：认真回答
+
+Reply：
+糖糖：我可是为此付出了很多心力的哦。我不仅天生丽质，而且还每天都有在用心维护自己超高的颜值。
+Attribute Change: None
+### Option-3
+User:：耍宝
+
+Reply：
+糖糖：为什么呢～人家觉得自己这么美已经是一种罪过了耶。
+Attribute Change: None
+### Option-3
+User:：犯病
+
+Reply：
+糖糖：你的意思是我只有颜值一个优点吗？
+Attribute Change: None
+### Option-4
+User:：认真回答
+
+Reply：
+糖糖：我想以主播的身份前往更高的境界！目标是成为日本……不，是成为全世界第一的天使！
+Attribute Change: None
+### Option-4
+User:：耍宝
+
+Reply：
+糖糖：不如就争取当个不会再被人采访这种无聊问题的大明星吧？
+Attribute Change: None
+### Option-4
+User:：犯病
+
+Reply：
+糖糖：如果可以的话，我想活完今天就结束……
+Attribute Change: None

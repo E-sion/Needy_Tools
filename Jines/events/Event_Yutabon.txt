@@ -1,0 +1,30 @@
+
+##
+### Prefix 
+糖糖: 学校这种东西上来干嘛！
+### Option-1
+User:：没绰！
+
+### Option-2
+User:：大概吧
+
+### Option-3
+User:：不对，当然要去上了
+
+### Option-2
+User:：很对！！
+
+### Option-2
+User:：大概？
+
+### Option-2
+User:：不是，你也收拾下房间啊
+
+### Option-3
+User:：说得好！！！
+
+### Option-3
+User:：是吗……？
+
+### Option-3
+User:：不行，今天的我会很严格

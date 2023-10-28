@@ -1,0 +1,24 @@
+
+##
+### Prefix 
+糖糖: 今天有点想试试平时不会做的事
+### Option-1
+User:：杀人
+
+Reply：
+糖糖：如果我搞砸了……就由阿P杀了我吧
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:：相爱
+
+Reply：
+糖糖：……我们不是一直相爱的吗～？
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:：抢银行
+Reply：
+糖糖：哎呀，我又不是小丑，抢银行这种事情……
+Attribute Change: None
+Reply：
+糖糖：可以有哦！！！
+Attribute Change:  Stress: -1.0 

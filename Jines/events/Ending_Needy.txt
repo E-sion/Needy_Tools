@@ -1,0 +1,33 @@
+
+##
+### Prefix 
+糖糖: 喂，你喜欢我吗？
+### Option-3
+User:：1次
+
+### Option-3
+User:：2次
+
+### Option-3
+User:：3次
+
+### Option-3
+User:：4次
+
+### Option-3
+User:：5次
+
+### Option-4
+User:：一直被无视
+
+### Option-4
+User:：一直很穷
+
+### Option-4
+User:：一直被欺负
+
+### Option-4
+User:：一直想得到幸福美满的婚姻
+
+### Option-4
+User:：一直体弱多病

@@ -1,0 +1,22 @@
+
+##
+### Prefix 
+糖糖: 我没打招呼就把冰箱里的布丁吃了 会被判死刑吗？？？
+### Option-1
+User:：死刑
+
+Reply：
+糖糖：呜呜～我死后也会变成鬼一直缠着阿P的 你要做好心理准备哦
+Attribute Change: None
+### Option-2
+User:：原谅你
+
+Reply：
+糖糖：嗯 能被糖糖吃掉也是布丁的荣幸 所以当然没问题
+Attribute Change:  Stress: 1.0 
+### Option-3
+User:：糖糖可以随便吃哦
+
+Reply：
+糖糖：草啊你人也太好了吧 是不是发烧了？？？你这样反而让我好害怕哦！
+Attribute Change:  Stress: 2.0 

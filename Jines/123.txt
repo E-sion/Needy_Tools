@@ -1,0 +1,1124 @@
+### Prefix 
+糖糖: 我们点外卖吧我一步也不想动了可是又超想吃饭！！！
+事件名称：Event_UberEats
+
+### Option-1
+User：烦死了白痴
+Attribute Change: None
+事件名称：Event_UberEats
+
+Reply (Option-1）
+糖糖：555555555 但是我们得省钱对吧
+谢谢你阿P
+Attribute Change:  Stress：-1.0
+事件名称：Event_UberEats
+
+### Option-2
+User：吃土去吧你
+Attribute Change: None
+事件名称：Event_UberEats
+
+Reply (Option-2）
+糖糖：看来糖糖还是跟吃土更配呢……喂怎么可能啦！
+Attribute Change:  Stress：1.0
+事件名称：Event_UberEats
+
+### Option-3
+User：那我点了哦
+Attribute Change: None
+事件名称：Event_UberEats
+
+Reply (Option-3）
+糖糖：不过你不觉得乱花钱有点可怕吗？而且吃外卖会胖的……还是算了吧
+Attribute Change:  Stress：2.0
+事件名称：Event_UberEats
+
+### Prefix
+糖糖: 我没打招呼就把冰箱里的布丁吃了 会被判死刑吗？？？
+事件名称：Event_Pudding
+
+### Option-2
+User：原谅你
+Attribute Change: None
+事件名称：Event_Pudding
+
+Reply (Option-2）
+糖糖：嗯 能被糖糖吃掉也是布丁的荣幸 所以当然没问题
+Attribute Change:  Stress：1.0
+事件名称：Event_Pudding
+
+### Option-3
+User：糖糖可以随便吃哦
+Attribute Change: None
+事件名称：Event_Pudding
+
+Reply (Option-3）
+糖糖：草啊你人也太好了吧 是不是发烧了？？？你这样反而让我好害怕哦！
+Attribute Change:  Stress：2.0
+事件名称：Event_Pudding
+
+### Prefix
+糖糖: 我要出去玩！给我零花钱！！！
+事件名称：Event_Money
+
+### Option-1
+User：给10圆
+Attribute Change: None
+事件名称：Event_Money
+
+Reply (Option-1）
+糖糖：这点钱连小学生都打发不了好吧！！！真是的，看我今天赖在家黏你一整天！！！！
+Attribute Change:  Stress：-1.0
+事件名称：Event_Money
+
+### Option-2
+User：给3000圆
+Attribute Change: None
+事件名称：Event_Money
+
+Reply (Option-2）
+糖糖：好适中的金额！！回来的时候顺便给你带个晚饭好了
+Attribute Change:  Stress：-2.0
+事件名称：Event_Money
+
+### Option-3
+User：给10000圆
+Attribute Change: None
+事件名称：Event_Money
+
+Reply (Option-3）
+糖糖：等下，怎么给这么多？你是想叫我拿这钱去泡牛郎吗？？？太过分了……
+Attribute Change:  Stress：2.0
+事件名称：Event_Money
+
+### Prefix
+糖糖: 如果我要整容，你觉得整哪里比较好？
+事件名称：Event_Seikei
+
+### Option-1
+User：脸
+Attribute Change: None
+事件名称：Event_Seikei
+
+Reply (Option-1）
+糖糖：人家颜值已经是天下第一了，没什么要改动的啦！阿P，你真的很没礼貌欸
+Attribute Change:  Stress：2.0
+事件名称：Event_Seikei
+
+### Option-2
+User：胸
+Attribute Change: None
+事件名称：Event_Seikei
+
+Reply (Option-2）
+糖糖：你喜欢更大的吗？阿P你好色喔！
+Attribute Change:  Stress：-1.0
+事件名称：Event_Seikei
+
+### Option-3
+User：手腕
+Attribute Change: None
+事件名称：Event_Seikei
+
+Reply (Option-3）
+糖糖：你想让我把割腕的伤疤消除掉？好有道理……阿P真的好聪明
+Attribute Change:  Stress：-2.0
+事件名称：Event_Seikei
+
+### Prefix
+糖糖: 嗳，你来帮我打耳洞嘛 让喜欢的人给自己打耳洞很棒不是吗 有一种被支配着的感觉 鸡皮疙瘩都要起来了。我好怕我好怕我好怕。我好怕！但是来吧！
+事件名称：Event_AmePiercerd
+
+### Option-1
+User：给她打
+Attribute Change: None
+事件名称：Event_AmePiercerd
+
+Reply (Option-1）
+糖糖：哇！打好了！合适吗？合适吗？快他妈夸我合适！！！
+Attribute Change:  Stress：-1.0
+事件名称：Event_AmePiercerd
+
+### Prefix
+糖糖: 那现在有做什么蠢事咧？
+事件名称：Event_Kurorekisi
+
+### Option-3
+User：跟糖糖交往
+Attribute Change: None
+事件名称：Event_Kurorekisi
+
+Reply (Option-3）
+糖糖：QAQ……不过，算了。就用我自己纯洁无瑕的心灵来把你的黑历史抹白好了
+Attribute Change:  Stress：-1.0
+事件名称：Event_Kurorekisi
+
+### Option-3
+User：其实我有玩约约
+Attribute Change: None
+事件名称：Event_Kurorekisi
+
+Reply (Option-3）
+糖糖：就算你说那是开玩笑的我也不会原谅你！
+Attribute Change: None
+事件名称：Event_Kurorekisi
+
+Reply (Option-3）
+糖糖：把手机交出来！我马上给你砸了～！！
+Attribute Change:  Stress：-2.0
+事件名称：Event_Kurorekisi
+
+### Option-3
+User：割腕自残
+Attribute Change: None
+事件名称：Event_Kurorekisi
+
+Reply (Option-3）
+糖糖：怎么会……没想到连阿P都病得那么重……
+Attribute Change: None
+事件名称：Event_Kurorekisi
+
+Reply (Option-3）
+糖糖：草你这手腕不是平整得很吗！！！
+Attribute Change:  Stress：-2.0
+事件名称：Event_Kurorekisi
+
+### Prefix
+糖糖: 糖糖，是不是还是去死一死比较好……
+事件名称：Event_Yandeiru
+
+### Option-2
+User：要活下去啊！！！
+Attribute Change: None
+事件名称：Event_Yandeiru
+
+Reply (Option-2）
+糖糖：可是，糖糖又没有活着的价值……
+Attribute Change:  Stress：1.0
+事件名称：Event_Yandeiru
+
+### Option-3
+User：死～寂
+Attribute Change: None
+事件名称：Event_Yandeiru
+
+Reply (Option-3）
+糖糖：诶！！什么人会在这种时候玩梗啊？？？？
+Attribute Change:  Stress：-1.0
+事件名称：Event_Yandeiru
+
+### Prefix
+糖糖: 我还是觉得就算活着也没什么意义呢
+事件名称：Event_Yandeiru
+
+### Option-2
+User：你有颜值啊
+Attribute Change: None
+事件名称：Event_Yandeiru
+
+Reply (Option-2）
+糖糖：嗯～这倒是，本小姐确实长得比别人美一千倍
+Attribute Change:  Stress：-1.0
+事件名称：Event_Yandeiru
+
+### Option-2
+User：雀食
+Attribute Change: None
+事件名称：Event_Yandeiru
+
+Reply (Option-2）
+糖糖：(´・8・`)……不是，你居然还同意！
+Attribute Change: None
+事件名称：Event_Yandeiru
+
+### Prefix
+糖糖: 世界上没有一个人愿意爱糖糖
+事件名称：Event_Yandeiru
+
+### Option-3
+User：不如砍掉重练吧！
+Attribute Change: None
+事件名称：Event_Yandeiru
+
+Reply (Option-3）
+糖糖：确实！毕竟这辈子也就这样了嘛！啊喂你怎么能叫我去死啊！
+Attribute Change:  Stress：1.0
+事件名称：Event_Yandeiru
+
+### Option-3
+User：不是还有宅宅们嘛
+Attribute Change: None
+事件名称：Event_Yandeiru
+
+Reply (Option-3）
+糖糖：诶？那阿P你不爱我吗？！
+Attribute Change:  Stress：1.0
+事件名称：Event_Yandeiru
+
+### Option-3
+User：你是古独的烈人
+Attribute Change: None
+事件名称：Event_Yandeiru
+
+Reply (Option-3）
+糖糖：那我还是选达尔锡好了……
+Attribute Change:  Stress：-1.0
+事件名称：Event_Yandeiru
+
+
+### Prefix
+糖糖: 哎，你喜欢什么样的糖糖啊？
+事件名称：Event_Charahen
+
+### Option-1
+User：无情人设
+Attribute Change: None
+事件名称：Event_Charahen
+
+Reply (Option-1）
+糖糖：……我不明白，“感情”是什么
+Attribute Change: None
+事件名称：Event_Charahen
+
+Reply (Option-1）
+糖糖：但是，只要跟你在一起，胸中就暖洋洋的
+Attribute Change: None
+事件名称：Event_Charahen
+
+Reply (Option-1）
+糖糖：这就是所谓的“快乐”吗？
+Attribute Change:  Stress：-2.0
+事件名称：Event_Charahen
+
+### Option-2
+User：天才博士人设
+Attribute Change: None
+事件名称：Event_Charahen
+
+Reply (Option-2）
+糖糖：看啊，助手阿P！
+Attribute Change: None
+事件名称：Event_Charahen
+
+Reply (Option-2）
+糖糖：这就是我的新发明，“能看到对方好感度的眼镜”！
+Attribute Change: None
+事件名称：Event_Charahen
+
+Reply (Option-2）
+糖糖：只要戴上它再来看我的助手，就能知道对方有多喜欢我了！
+Attribute Change: None
+事件名称：Event_Charahen
+
+Reply (Option-2）
+糖糖：让我立刻戴上……咦，好感度居然有100～～～？！？！？
+Attribute Change:  Stress：-2.0
+事件名称：Event_Charahen
+
+### Option-3
+User：得寸进尺小萝莉
+Attribute Change: None
+事件名称：Event_Charahen
+
+Reply (Option-3）
+糖糖：嘻嘻♪
+原来成年人会对这么小的女孩感到兴奋啊～？？？
+Attribute Change: None
+事件名称：Event_Charahen
+
+Reply (Option-3）
+糖糖：你不知道搞这种是犯法的吗～？？？都是成年人了，怎么还这么丢脸哦～
+Attribute Change:  Stress：-2.0
+事件名称：Event_Charahen
+
+### Prefix
+糖糖: 哎，你会希望看到糖糖将来的样子吗？
+事件名称：Event_AmeFuture
+
+### Option-1
+User：机器人
+Attribute Change: None
+事件名称：Event_AmeFuture
+
+Reply (Option-1）
+糖糖：——“糖糖”OS，启动
+Attribute Change: None
+事件名称：Event_AmeFuture
+
+Reply (Option-1）
+糖糖：系统 一切正常
+Attribute Change: None
+事件名称：Event_AmeFuture
+
+Reply (Option-1）
+糖糖：各零部件 状态良好
+Attribute Change: None
+事件名称：Event_AmeFuture
+
+Reply (Option-1）
+糖糖：对阿P的爱 100%
+Attribute Change:  Stress：-2.0
+事件名称：Event_AmeFuture
+
+### Option-2
+User：合成怪物
+Attribute Change: None
+事件名称：Event_AmeFuture
+
+Reply (Option-2）
+糖糖：……了 我……了 我
+Attribute Change: None
+事件名称：Event_AmeFuture
+
+Reply (Option-2）
+糖糖：趁 我还 有 理 性的时 候
+Attribute Change: None
+事件名称：Event_AmeFuture
+
+Reply (Option-2）
+糖糖：赶 快动 手杀了 我 吧 阿P
+Attribute Change:  Stress：-2.0
+事件名称：Event_AmeFuture
+
+### Option-3
+User：狂战士
+Attribute Change: None
+事件名称：Event_AmeFuture
+
+Reply (Option-3）
+糖糖：呜噜噜噜噜噜噜…… 人类…… 杀
+Attribute Change: None
+事件名称：Event_AmeFuture
+
+Reply (Option-3）
+糖糖：尤其是那些认为“很有个人特征的作画都是‘画崩了’”的傻逼动画宅，
+Attribute Change: None
+事件名称：Event_AmeFuture
+
+Reply (Option-3）
+糖糖：杀无赦
+Attribute Change:  Stress：-2.0
+事件名称：Event_AmeFuture
+
+### Prefix
+糖糖: 我也想被做进那个大乱斗游戏……
+事件名称：Event_Sumabura
+
+糖糖: 哎，如果那个游戏里面有超天酱的话，阿P会用我吗？
+事件名称：Event_Sumabura
+
+### Option-1
+User：嗯啊
+Attribute Change: None
+事件名称：Event_Sumabura
+
+Reply (Option-1）
+糖糖：真的咩？！那我立刻开始练习捡信
+Attribute Change:  Stress：-1.0
+事件名称：Event_Sumabura
+
+### Option-2
+User：不打算用
+Attribute Change: None
+事件名称：Event_Sumabura
+
+Reply (Option-2）
+糖糖：也对……没有复归技的糖糖很弱的，你肯定不想选嘛……
+Attribute Change:  Stress：1.0
+事件名称：Event_Sumabura
+
+### Prefix
+糖糖: 现在无论是谁对我说什么，我肯定都会往负面方向去理解
+事件名称：Event_Negativ
+
+### Option-1
+User：我最喜欢你了
+Attribute Change: None
+事件名称：Event_Negativ
+
+Reply (Option-1）
+糖糖：你是说，你就爱看糖糖现在这种惨兮兮的蠢样？
+Attribute Change: None
+事件名称：Event_Negativ
+
+Reply (Option-1）
+糖糖：那真是恭喜你了 请尽情享用我的丑态吧
+Attribute Change: Affection：-2.0 None
+事件名称：Event_Negativ
+
+### Option-2
+User：我会帮你的哦
+Attribute Change: None
+事件名称：Event_Negativ
+
+Reply (Option-2）
+糖糖：你真贴心……不过，那种好听的话你对谁都会说吧？
+Attribute Change: None
+事件名称：Event_Negativ
+
+Reply (Option-2）
+糖糖：毕竟你根本没必要只对糖糖一个人好嘛 我现在就去死一死
+Attribute Change: Affection：-2.0 Stress：1.0
+事件名称：Event_Negativ
+
+### Prefix
+糖糖: 啊～不行了 不行不行不行不行
+事件名称：Event_DrugHolic
+
+糖糖: 无论思考什么，满脑袋都只有一个“死”字
+事件名称：Event_DrugHolic
+
+糖糖: 阿P，我该怎么办啊？
+事件名称：Event_DrugHolic
+
+### Option-1
+User：吃点药吧
+Attribute Change: None
+事件名称：Event_DrugHolic
+
+Reply (Option-1）
+糖糖：嗯，谢谢……我会去吃的
+Attribute Change:  Stress：-1.0
+事件名称：Event_DrugHolic
+
+### Option-2
+User：拿出气势支棱起来！！！
+Attribute Change: None
+事件名称：Event_DrugHolic
+
+Reply (Option-2）
+糖糖：啊呜呜呜呜呜呜呜呜呜呜呜呜呜呜呜
+Attribute Change: None
+事件名称：Event_DrugHolic
+
+Reply (Option-2）
+糖糖：害怕害怕害怕…………！！！
+Attribute Change: None
+事件名称：Event_DrugHolic
+
+Reply (Option-2）
+糖糖：……呃，这样跟你闹一下居然真的有感觉好点了
+Attribute Change:  Stress：-1.0
+事件名称：Event_DrugHolic
+
+### Prefix
+糖糖: 不行了 我现在就想立刻马上消失
+事件名称：Event_Jisatumisui
+
+糖糖: 阿P 我们一起去买炭吧……
+事件名称：Event_Jisatumisui
+
+### Option-1
+User：等超市打折的时候再去好了
+Attribute Change: None
+事件名称：Event_Jisatumisui
+
+Reply (Option-1）
+糖糖：……你为什么要在这种时候突然这么现实啊！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+Attribute Change:  Stress：-1.0
+事件名称：Event_Jisatumisui
+
+### Option-2
+User：走之前顺便刮个奖？
+Attribute Change: None
+事件名称：Event_Jisatumisui
+
+Reply (Option-2）
+糖糖：对 然后我们将一发入魂
+Attribute Change: None
+事件名称：Event_Jisatumisui
+
+Reply (Option-2）
+糖糖：中它个头奖 接着吃喝玩乐度过余生
+Attribute Change:  Stress：-1.0
+事件名称：Event_Jisatumisui
+
+### Prefix
+糖糖: 阿P，看！我买了小发发
+事件名称：Event_Flower
+
+### Option-1
+User：真好看，跟糖糖好像
+Attribute Change: None
+事件名称：Event_Flower
+
+Reply (Option-1）
+糖糖：对吧！我不在的时候，你就把小花花当成糖糖，好好疼爱它吧！
+Attribute Change: None
+事件名称：Event_Flower
+
+Reply (Option-1）
+糖糖：不行，仔细想想还是我更可爱，那你只准疼爱我
+Attribute Change:  Stress：-1.0
+事件名称：Event_Flower
+
+### Option-2
+User：又买这些没用的～
+Attribute Change: None
+事件名称：Event_Flower
+
+Reply (Option-2）
+糖糖：呃……不过在家里摆个花也确实没啥意义，阿P说的也有道理
+Attribute Change:  Stress：1.0
+事件名称：Event_Flower
+
+### Option-3
+User：不错
+Attribute Change: None
+事件名称：Event_Flower
+
+Reply (Option-3）
+糖糖：什么不错？你有在认真回答吗？？？
+Attribute Change: None
+事件名称：Event_Flower
+
+Reply (Option-3）
+糖糖：确实，一朵花而已，有什么好的
+Attribute Change: None
+事件名称：Event_Flower
+
+Reply (Option-3）
+糖糖：总觉得什么都无所谓了
+Attribute Change:  Stress：-1.0
+事件名称：Event_Flower
+
+### Prefix
+糖糖: 我正在想下次搞什么企划呢～阿P帮帮我 出出主意
+事件名称：Event_Advice
+
+### Option-1
+User：比如一直打游戏到通关？
+Attribute Change: None
+事件名称：Event_Advice
+
+Reply (Option-1）
+糖糖：那就这么办吧（超听话）
+Attribute Change:  Stress：-1.0
+事件名称：Event_Advice
+
+### Option-2
+User：比如收集观众的提问，然后录一期回答？
+Attribute Change: None
+事件名称：Event_Advice
+
+Reply (Option-2）
+糖糖：我才不想收集宅宅的提问咧～～～今天直播咕了
+Attribute Change:  Stress：-1.0
+事件名称：Event_Advice
+
+### Option-3
+User：比如坐在超他妈大的乌龟背上绕新宿一圈？
+Attribute Change: None
+事件名称：Event_Advice
+
+Reply (Option-3）
+糖糖：果然只有这个了，咱俩一起去买乌龟吧！！！
+Attribute Change:  Stress：-1.0
+事件名称：Event_Advice
+
+### Prefix
+糖糖: 我今后也会努力加油的，你要支持我哦 还有阿P你自己也要加油哦！
+事件名称：Event_Cheerup
+
+### Option-1
+User：哇 说的话跟偶像一样 好恶心哦
+Attribute Change: None
+事件名称：Event_Cheerup
+
+Reply (Option-1）
+糖糖：是哦 我怎么会说这样的话呢 我又没有很想努力……
+Attribute Change:  Stress：-1.0
+事件名称：Event_Cheerup
+
+### Option-2
+User：为什么连我也要加油啊？
+Attribute Change: None
+事件名称：Event_Cheerup
+
+Reply (Option-2）
+糖糖：确、确实……阿P还是在我身边保持阿P的样子最好了～；；
+Attribute Change:  Stress：-1.0
+事件名称：Event_Cheerup
+
+### Prefix
+糖糖: 阿P 我最喜欢你了
+事件名称：Event_LoveJINE
+
+### Option-1
+User：我也最喜欢你了
+Attribute Change: None
+事件名称：Event_LoveJINE
+
+Reply (Option-1）
+糖糖：嘿嘿 那今天肯定要做点爱做的事了吧？？？
+Attribute Change: None
+事件名称：Event_LoveJINE
+
+Reply (Option-1）
+糖糖：云雨之事~
+Attribute Change: Affection：15.0 Stress：-12.0 Darkness：-6
+事件名称：Event_LoveJINE
+
+### Option-2
+User：我一般吧
+Attribute Change: None
+事件名称：Event_LoveJINE
+
+Reply (Option-2）
+糖糖：诶诶诶诶诶诶诶诶诶诶QAQAQ
+Attribute Change:  Stress：2.0
+事件名称：Event_LoveJINE
+
+### Option-3
+User：是这样吗～
+Attribute Change: None
+事件名称：Event_LoveJINE
+
+Reply (Option-3）
+糖糖：是这样哦，所以你可要好好给我记住
+Attribute Change:  Stress：-1.0
+事件名称：Event_LoveJINE
+
+### Prefix
+糖糖: 我今天必须忘掉网上那群傻逼，跟阿P两人出门玩个痛快～～～～～～别的啥都不干了，叭好意西惹
+事件名称：Event_DateHolic
+
+糖糖: 说到笨蛋情侣，就不得不提那个段子了
+事件名称：Event_Okusan
+
+糖糖: “欢迎回家，你要先吃饭？”“还是先洗澡？”“还是……先，吃，我，呢？”
+事件名称：Event_Okusan
+
+### Option-1
+User：吃饭
+Attribute Change: None
+事件名称：Event_Okusan
+
+Reply (Option-1）
+糖糖：欧克！！！
+Attribute Change: None
+事件名称：Event_Okusan
+
+Reply (Option-1）
+糖糖：好，那咱们向着美味的大餐……冲吧！！！
+Attribute Change: Affection：6.0 Stress：-10.0 Darkness：?
+事件名称：Event_Okusan
+
+
+### Option-2
+User：洗澡
+Attribute Change: None
+事件名称：Event_Okusan
+
+Reply (Option-2）
+糖糖：洗澡水正好刚烧好呢
+Attribute Change: None
+事件名称：Event_Okusan
+
+Reply (Option-2）
+糖糖：我们今天一起久违地共浴吧？
+Attribute Change: Affection：15.0 Stress：-12.0 Darkness：-6
+事件名称：Event_Okusan
+
+### Prefix
+糖糖: 机会这么难得，要不整点富婆快乐活吧
+事件名称：Event_Copyceleb
+
+糖糖: 说不定还能用作下次的企划哦！
+事件名称：Event_Copyceleb
+
+### Option-1
+User：买头老虎在大街上放生
+Attribute Change: None
+事件名称：Event_Copyceleb
+
+Reply (Option-1）
+糖糖：好像买一头就要几百万哦……
+Attribute Change: None
+事件名称：Event_Copyceleb
+
+Reply (Option-1）
+糖糖：算了，下单了！
+Attribute Change:  Stress：-1.0
+事件名称：Event_Copyceleb
+
+### Option-2
+User：无所谓，不管你是不是富婆我都爱你
+Attribute Change: None
+事件名称：Event_Copyceleb
+
+Reply (Option-2）
+糖糖：我也爱你
+Attribute Change: None
+事件名称：Event_Copyceleb
+
+Reply (Option-2）
+糖糖：喜欢！！！
+Attribute Change:  Stress：-2.0
+事件名称：Event_Copyceleb
+
+### Option-3
+User：要不把整个筑地买下来吧
+Attribute Change: None
+事件名称：Event_Copyceleb
+
+Reply (Option-3）
+糖糖：确实，如果把筑地区买下来天天逛海鲜市场肯定爽飞
+Attribute Change: None
+事件名称：Event_Copyceleb
+
+Reply (Option-3）
+糖糖：阿P真聪明
+Attribute Change:  Stress：-1.0
+事件名称：Event_Copyceleb
+
+### Prefix
+糖糖: 有个女孩发私信找我谈人生，我该怎么办呐
+事件名称：Event_Menherafriend
+
+糖糖: 「超天酱你好，我是一名高中生。之前因为精神疾病而住院了一段时间，现在跟不上学习进度，班上还没决定好志愿的人也只剩我一个了。平时看着同学们为了各自的前程努力奋斗的样子，心里总是非常地焦虑。请你告诉我，我到底应该怎么办才好呢？」
+事件名称：Event_Menherafriend
+
+### Option-1
+User：认真
+Attribute Change: None
+事件名称：Event_Menherafriend
+
+Reply (Option-1）
+糖糖：「这种事情，光着急是没有用的。总而言之，你现在应该先休养好自己。等恢复好了，再跟父母慢慢商量吧！放心。人生是不会因为不上学就完蛋的！未来就掌握在我们的手中！！！」↑发了这些过去。
+Attribute Change:  Stress：-1.0
+事件名称：Event_Menherafriend
+
+### Option-2
+User：耍宝
+Attribute Change: None
+事件名称：Event_Menherafriend
+
+Reply (Option-2）
+糖糖：「上什么学啊来当主播啊！！！！！」↑发了这句过去。
+Attribute Change:  Stress：-1.0
+事件名称：Event_Menherafriend
+
+### Prefix
+糖糖: 睡太久了浑身无力～～……我可以就酱紫睡一辈子吗？
+事件名称：Event_Okiru_Afternoon
+
+### Option-1
+User：可以啊！
+Attribute Change: None
+事件名称：Event_Okiru_Afternoon
+
+Reply (Option-1）
+糖糖：好耶～～！！！
+Attribute Change: None
+事件名称：Event_Okiru_Afternoon
+
+Reply (Option-1）
+糖糖：原来我可以不用再活下去了
+Attribute Change: None
+事件名称：Event_Okiru_Afternoon
+
+Reply (Option-1）
+糖糖：得救了
+Attribute Change:  Stress：-1.0
+事件名称：Event_Okiru_Afternoon
+
+### Option-2
+User：请你永远不要再醒过来了哦
+Attribute Change: None
+事件名称：Event_Okiru_Afternoon
+
+Reply (Option-2）
+糖糖：好！！！
+Attribute Change: None
+事件名称：Event_Okiru_Afternoon
+
+Reply (Option-2）
+糖糖：那么你要永远我身旁守着我哦
+Attribute Change:  Stress：-1.0
+事件名称：Event_Okiru_Afternoon
+
+### Prefix
+糖糖: 你这么一说好像是哦
+事件名称：Event_Okiru_Night
+
+糖糖: 今天有点想试试平时不会做的事
+事件名称：Event_Newthings
+
+### Option-1
+User：杀人
+Attribute Change: None
+事件名称：Event_Newthings
+
+Reply (Option-1）
+糖糖：如果我搞砸了……就由阿P杀了我吧
+Attribute Change:  Stress：-1.0
+事件名称：Event_Newthings
+
+### Option-2
+User：相爱
+Attribute Change: None
+事件名称：Event_Newthings
+
+Reply (Option-2）
+糖糖：……我们不是一直相爱的吗～？
+Attribute Change:  Stress：-1.0
+事件名称：Event_Newthings
+
+### Option-3
+User：抢银行
+Attribute Change: None
+事件名称：Event_Newthings
+
+Reply (Option-3）
+糖糖：哎呀，我又不是小丑，抢银行这种事情……
+Attribute Change: None
+事件名称：Event_Newthings
+
+Reply (Option-3）
+糖糖：可以有哦！！！
+Attribute Change:  Stress：-1.0
+事件名称：Event_Newthings
+
+### Prefix
+糖糖: 小天使请安！这个开场白也说厌了啊～
+事件名称：Event_Watchword
+
+糖糖: 帮我想个别的开场白！
+事件名称：Event_Watchword
+
+### Option-1
+User：当代互联网小天使，参上！
+Attribute Change: None
+事件名称：Event_Watchword
+
+Reply (Option-1）
+糖糖：试着上超天酱的钩吧？之类的嘿嘿
+Attribute Change:  Stress：-1.0
+事件名称：Event_Watchword
+
+### Option-2
+User：我是路过的网络主播，给我记住了！
+Attribute Change: None
+事件名称：Event_Watchword
+
+Reply (Option-2）
+糖糖：要变成网络世界的破坏者啦
+Attribute Change:  Stress：-1.0
+事件名称：Event_Watchword
+
+### Option-3
+User：那么，我们开始直播吧
+Attribute Change: None
+事件名称：Event_Watchword
+
+Reply (Option-3）
+糖糖：胜利的企划已然确定了！
+Attribute Change:  Stress：-1.0
+事件名称：Event_Watchword
+
+### Prefix
+糖糖: 你以前是比现在更愿意搭理我的吧？
+
+and Darkness at 61+
+事件名称：YamiHi_SukiHi
+
+糖糖: 嗳，你真的喜欢我吗？
+
+and Darkness at 81+
+事件名称：YamiHi_SukiHi
+
+Reply (Option-1）
+糖糖：嘻嘻，你看你，这么慌张……
+Attribute Change: None
+事件名称：YamiHi_SukiHi
+
+Reply (Option-1）
+糖糖：谢谢啦
+Attribute Change: None
+事件名称：YamiHi_SukiHi
+
+Reply (Option-1）
+糖糖：谢谢你为糖糖的事情那么着急
+Attribute Change:  Stress：-2.0
+事件名称：YamiHi_SukiHi
+
+Reply (Option-2）
+糖糖：我这种人确实还是……
+Attribute Change: None
+事件名称：YamiHi_SukiHi
+
+Reply (Option-2）
+糖糖：马上死掉更好吧
+Attribute Change:  Stress：2.0
+事件名称：YamiHi_SukiHi
+
+### Prefix
+糖糖: 我问你哦，我真的可以就这样活下去吗？
+
+事件名称：Event_Dialog
+
+### Option-1
+User：怎么了啊？
+Attribute Change:  Stress：-1.0
+事件名称：Event_Dialog
+
+Reply (Option-1）
+糖糖：嗯，我想了很多，你听我说说嘛
+Attribute Change: None
+事件名称：Event_Dialog
+
+### Option-2
+User：真的可以呀
+Attribute Change:  Stress：1.0
+事件名称：Event_Dialog
+
+Reply (Option-2）
+糖糖：我还什么都没说呢，你不要这么敷衍……
+Attribute Change: None
+事件名称：Event_Dialog
+
+### Prefix
+糖糖: 大家真的需要我吗 其实谁来都可以吧 不需要是我也没关系的吧
+
+事件名称：Event_Dialog
+
+### Option-2
+User：对没错
+Attribute Change:  Stress：-1.0
+事件名称：Event_Dialog
+
+Reply (Option-2）
+糖糖：别说这样的话啊！可是，我还是喜欢愿意和这样的我在一起的阿P……
+Attribute Change: None
+事件名称：Event_Dialog
+
+### Prefix
+糖糖: 阿P，你真的是因为我是我，才会喜欢我的吗？
+
+事件名称：Event_Dialog
+
+### Option-3
+User：那还用说
+Attribute Change:  Stress：-1.0
+事件名称：Event_Dialog
+
+Reply (Option-3）
+糖糖：是吗……也对哦
+Attribute Change: None
+事件名称：Event_Dialog
+
+### Option-3
+User：其实谁都行
+Attribute Change:  Stress：1.0
+事件名称：Event_Dialog
+
+Reply (Option-3）
+糖糖：这样啊……那祝你找到比我更好看的女人
+Attribute Change: None
+事件名称：Event_Dialog
+
+### Prefix
+糖糖: 大家到底是喜欢我哪里啊？
+
+事件名称：Event_Dialog
+
+### Option-4
+User：脸
+Attribute Change:  Stress：-1.0
+事件名称：Event_Dialog
+
+Reply (Option-4）
+糖糖：我就知道。还好老娘颜值最强。你这样说我就有自信了
+Attribute Change: None
+事件名称：Event_Dialog
+
+### Option-4
+User：一切
+Attribute Change:  Stress：1.0
+事件名称：Event_Dialog
+
+Reply (Option-4）
+糖糖：不会有人喜欢我这种残次品的一切的啦
+Attribute Change: None
+事件名称：Event_Dialog
+
+### Option-5
+User：没什么不行吧？
+Attribute Change:  Stress：-1.0
+事件名称：Event_Dialog
+
+Reply (Option-5）
+糖糖：你怎么能这么敷衍……都害我笑了。用这么轻松的态度也就可以了吧。谢谢阿P，爱你
+Attribute Change: None
+事件名称：Event_Dialog
+
+### Option-5
+User：不可以
+Attribute Change:  Stress：1.0
+事件名称：Event_Dialog
+
+Reply (Option-5）
+糖糖：你这样说我好难过……活下去真的好难啊……
+Attribute Change: None
+事件名称：Event_Dialog
+
+### Option-6
+User：喜欢啊
+Attribute Change:  Stress：-1.0
+事件名称：Event_Dialog
+
+Reply (Option-6）
+糖糖：我也喜欢阿P！！！！！
+Attribute Change: None
+事件名称：Event_Dialog
+
+### Option-6
+User：喜欢吧
+Attribute Change:  Stress：1.0
+事件名称：Event_Dialog
+
+Reply (Option-6）
+糖糖：给我坚定点啊！！！！
+Attribute Change: None
+事件名称：Event_Dialog
+
+### Option-7
+User：真的超超喜欢
+Attribute Change:  Stress：-1.0
+事件名称：Event_Dialog
+
+Reply (Option-7）
+糖糖：我也超超喜欢阿P的！！！！
+Attribute Change: None
+事件名称：Event_Dialog
+
+### Option-7
+User：超超喜欢
+Attribute Change:  Stress：1.0
+事件名称：Event_Dialog
+
+Reply (Option-7）
+糖糖：「真的」俩字丢哪去了！原来你其实不是这么想的……
+Attribute Change: None
+事件名称：Event_Dialog
+
+### Option-8
+User：以当代互联网小天使的身份活下去
+Attribute Change:  Stress：-1.0
+事件名称：Event_Dialog
+
+Reply (Option-8）
+糖糖：我就知道。毕竟有这么多需要我的粉丝在嘛。我还得把网络环境变得更好才行……阿P，今后也继续一起加油吧！
+Attribute Change: None
+事件名称：Event_Dialog
+
+### Option-8
+User：真的超超喜欢
+Attribute Change: None
+事件名称：Event_Dialog
+
+Reply (Option-8）
+糖糖：不要模棱两可的！！！我根本听不懂！
+Attribute Change:  Stress：1.0
+事件名称：Event_Dialog

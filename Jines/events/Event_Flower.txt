@@ -1,0 +1,31 @@
+
+##
+### Prefix 
+糖糖: 阿P，看！我买了小发发
+### Option-1
+User:：真好看，跟糖糖好像
+
+Reply：
+糖糖：对吧！我不在的时候，你就把小花花当成糖糖，好好疼爱它吧！
+Attribute Change: None
+Reply：
+糖糖：不行，仔细想想还是我更可爱，那你只准疼爱我
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:：又买这些没用的～
+
+Reply：
+糖糖：呃……不过在家里摆个花也确实没啥意义，阿P说的也有道理
+Attribute Change:  Stress: 1.0 
+### Option-3
+User:：不错
+
+Reply：
+糖糖：什么不错？你有在认真回答吗？？？
+Attribute Change: None
+Reply：
+糖糖：确实，一朵花而已，有什么好的
+Attribute Change: None
+Reply：
+糖糖：总觉得什么都无所谓了
+Attribute Change:  Stress: -1.0 

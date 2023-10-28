@@ -1,0 +1,4 @@
+Reply (Option-8）
+糖糖：不要模棱两可的！！！我根本听不懂！
+Attribute Change:  Stress：1.0
+事件名称：Event_Dialog

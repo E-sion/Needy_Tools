@@ -1,0 +1,33 @@
+
+##
+### Prefix 
+糖糖: 机会这么难得，要不整点富婆快乐活吧
+##
+糖糖: 说不定还能用作下次的企划哦！
+### Option-1
+User:：买头老虎在大街上放生
+
+Reply：
+糖糖：好像买一头就要几百万哦……
+Attribute Change: None
+Reply：
+糖糖：算了，下单了！
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:：无所谓，不管你是不是富婆我都爱你
+
+Reply：
+糖糖：我也爱你
+Attribute Change: None
+Reply：
+糖糖：喜欢！！！
+Attribute Change:  Stress: -2.0 
+### Option-3
+User:：要不把整个筑地买下来吧
+
+Reply：
+糖糖：确实，如果把筑地区买下来天天逛海鲜市场肯定爽飞
+Attribute Change: None
+Reply：
+糖糖：阿P真聪明
+Attribute Change:  Stress: -1.0 

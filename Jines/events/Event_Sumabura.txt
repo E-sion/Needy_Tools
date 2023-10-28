@@ -1,0 +1,18 @@
+
+##
+### Prefix 
+糖糖: 我也想被做进那个大乱斗游戏……
+##
+糖糖: 哎，如果那个游戏里面有超天酱的话，阿P会用我吗？
+### Option-1
+User:：嗯啊
+
+Reply：
+糖糖：真的咩？！那我立刻开始练习捡信
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:：不打算用
+
+Reply：
+糖糖：也对……没有复归技的糖糖很弱的，你肯定不想选嘛……
+Attribute Change:  Stress: 1.0 

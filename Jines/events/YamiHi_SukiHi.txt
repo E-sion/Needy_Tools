@@ -1,0 +1,31 @@
+
+##
+### Prefix 
+糖糖: 总感觉啊，
+好像是我在单方面把你当恋人
+##
+糖糖: 再这样下去，总有一天
+我们会因为付出的爱不对等而分手吧？
+人家好怕……
+##
+糖糖: 我要怎么做，
+你才愿意多爱我一点呢？
+##
+糖糖: 你以前是比现在更愿意搭理我的吧？
+##
+糖糖: 嗳，你真的喜欢我吗？
+Reply：
+糖糖：嘻嘻，你看你，这么慌张……
+Attribute Change: None
+Reply：
+糖糖：谢谢啦
+Attribute Change: None
+Reply：
+糖糖：谢谢你为糖糖的事情那么着急
+Attribute Change:  Stress: -2.0 
+Reply：
+糖糖：我这种人确实还是……
+Attribute Change: None
+Reply：
+糖糖：马上死掉更好吧
+Attribute Change:  Stress: 2.0 

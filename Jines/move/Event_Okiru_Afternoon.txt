@@ -1,0 +1,20 @@
+
+##
+### Prefix 
+糖糖: 醒过来一看太阳都下山了 笑死
+糖糖: 睡太久了浑身无力～～……我可以就酱紫睡一辈子吗？
+### Option-1
+User:：可以啊！
+
+Reply：
+糖糖：好耶～～！！！
+糖糖：原来我可以不用再活下去了
+糖糖：得救了
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:：请你永远不要再醒过来了哦
+
+Reply：
+糖糖：好！！！
+糖糖：那么你要永远我身旁守着我哦
+Attribute Change:  Stress: -1.0 

@@ -1,0 +1,41 @@
+
+##
+### Prefix 
+糖糖: 哎，你喜欢什么样的糖糖啊？
+### Option-1
+User:：无情人设
+
+Reply：
+糖糖：……我不明白，“感情”是什么
+Attribute Change: None
+Reply：
+糖糖：但是，只要跟你在一起，胸中就暖洋洋的
+Attribute Change: None
+Reply：
+糖糖：这就是所谓的“快乐”吗？
+Attribute Change:  Stress: -2.0 
+### Option-2
+User:：天才博士人设
+
+Reply：
+糖糖：看啊，助手阿P！
+Attribute Change: None
+Reply：
+糖糖：这就是我的新发明，“能看到对方好感度的眼镜”！
+Attribute Change: None
+Reply：
+糖糖：只要戴上它再来看我的助手，就能知道对方有多喜欢我了！
+Attribute Change: None
+Reply：
+糖糖：让我立刻戴上……咦，好感度居然有100～～～？！？！？
+Attribute Change:  Stress: -2.0 
+### Option-3
+User:：得寸进尺小萝莉
+
+Reply：
+糖糖：嘻嘻♪
+原来成年人会对这么小的女孩感到兴奋啊～？？？
+Attribute Change: None
+Reply：
+糖糖：你不知道搞这种是犯法的吗～？？？都是成年人了，怎么还这么丢脸哦～
+Attribute Change:  Stress: -2.0 

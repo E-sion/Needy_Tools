@@ -1,0 +1,33 @@
+
+##
+### Prefix 
+糖糖: 说到笨蛋情侣，就不得不提那个段子了
+##
+糖糖: “欢迎回家，你要先吃饭？”“还是先洗澡？”“还是……先，吃，我，呢？”
+### Option-1
+User:：吃饭
+
+Reply：
+糖糖：欧克！！！
+Attribute Change: None
+Reply：
+糖糖：好，那咱们向着美味的大餐……冲吧！！！
+Attribute Change: NoneAttribute Change: Affection: 6.0 Stress: -10.0 Darkness: ?
+### Option-2
+User:：洗澡
+
+Reply：
+糖糖：洗澡水正好刚烧好呢
+Attribute Change: None
+Reply：
+糖糖：我们今天一起久违地共浴吧？
+Attribute Change: NoneAttribute Change: Affection: 4.0 Stress: -6.0 
+### Option-3
+User:：先，吃，你
+
+Reply：
+糖糖：呀～！！！阿P好射射哦！！！
+Attribute Change: None
+Reply：
+糖糖：当然人家是不介意的啦～……
+Attribute Change: NoneAttribute Change: Affection: 15.0 Stress: -12.0 Darkness: -6

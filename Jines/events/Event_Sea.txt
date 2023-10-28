@@ -1,0 +1,18 @@
+
+##
+### Prefix 
+糖糖: 我已经彻底疲倦了
+##
+糖糖: 不如我们结束这一切 现在就去海边吧
+### Option-1
+User:：好哦
+
+Reply：
+糖糖：大海万岁～～～～～～
+Attribute Change: NoneAttribute Change: None
+### Option-2
+User:：不行
+
+Reply：
+糖糖：阿P真的好严格……
+Attribute Change: None

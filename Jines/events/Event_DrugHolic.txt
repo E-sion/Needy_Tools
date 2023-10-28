@@ -1,0 +1,26 @@
+
+##
+### Prefix 
+糖糖: 啊～不行了 不行不行不行不行
+##
+糖糖: 无论思考什么，满脑袋都只有一个“死”字
+##
+糖糖: 阿P，我该怎么办啊？
+### Option-1
+User:：吃点药吧
+
+Reply：
+糖糖：嗯，谢谢……我会去吃的
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:：拿出气势支棱起来！！！
+
+Reply：
+糖糖：啊呜呜呜呜呜呜呜呜呜呜呜呜呜呜呜
+Attribute Change: None
+Reply：
+糖糖：害怕害怕害怕…………！！！
+Attribute Change: None
+Reply：
+糖糖：……呃，这样跟你闹一下居然真的有感觉好点了
+Attribute Change:  Stress: -1.0 
