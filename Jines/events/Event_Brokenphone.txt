@@ -1,4 +1,13 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Darkness 61+ ID:Event_Brokenphone_JINE001
+糖糖: 心情烦躁就把手机甩了出去，然后屏幕碎了……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Darkness 61+ ID:Event_Brokenphone_JINE001
+糖糖: 心情烦躁就把手机甩了出去，然后屏幕碎了……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Darkness 61+ ID:Event_Brokenphone_JINE001
+糖糖: 心情烦躁就把手机甩了出去，然后屏幕碎了……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Darkness 61+ ID:Event_Brokenphone_JINE001
 糖糖: 心情烦躁就把手机甩了出去，然后屏幕碎了……

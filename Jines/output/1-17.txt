@@ -1,0 +1,203 @@
+## 对话组一
+
+### Prefix 
+糖糖: 嘿嘿，你有没有什么好玩的游戏推荐啊？
+
+### Option-1
+User:：我推荐你玩《夜神月之谜》吧！
+
+Reply：
+糖糖：哇，这游戏听起来好刺激啊！我会去试试看的！谢谢推荐！
+Attribute Change:  Stress: -1.0 
+
+### Option-2
+User:：你应该试试《甜蜜公主物语》！
+
+Reply：
+糖糖：哈哈，我超喜欢甜蜜公主的！一定要试试看！你真是个好朋友呢～
+Attribute Change:  Stress: -1.0 
+
+### Option-3
+User:：我觉得你会喜欢玩《战争之心》这种竞技游戏。
+
+Reply：
+糖糖：战争之心？听起来好厉害啊！我要去挑战一下，看看自己的竞技实力！
+Attribute Change:  Stress: -1.0 
+
+### Option-4
+User:：你应该尝试一下《迷你农场大作战》这款休闲游戏。
+
+Reply：
+糖糖：迷你农场大作战？嘿嘿，我超喜欢种花种菜的！一定要试试看！
+Attribute Change:  Stress: -1.0 
+
+### Option-5
+User:：我推荐你玩《恐怖屋之谜》这个恐怖解谜游戏。
+
+Reply：
+糖糖：啊啊啊！恐怖屋之谜？！我好怕怕啊，但是又好期待！我要去体验一下！
+Attribute Change:  Stress: +1.0 
+
+
+## 对话组二
+
+### Prefix 
+糖糖: 最近我感觉好无聊，有什么好玩的活动吗？
+
+### Option-1
+User:：我们一起去蹦床乐园玩吧！
+
+Reply：
+糖糖：哇～蹦床乐园！好刺激呀！我超喜欢跳跳床的，一定要去试试看！
+Attribute Change:  Stress: -1.0 
+
+### Option-2
+User:：我们可以一起去参加动漫展啊！
+
+Reply：
+糖糖：动漫展！太棒了！我超喜欢二次元的！一定要去看看有没有可爱的周边！
+Attribute Change:  Stress: -1.0 
+
+### Option-3
+User:：我们可以一起去尝试滑雪运动！
+
+Reply：
+糖糖：滑雪？好酷啊！我从来没试过呢，一定要去感受一下冰雪世界！
+Attribute Change:  Stress: -1.0 
+
+### Option-4
+User:：我们可以一起去参加音乐节！
+
+Reply：
+糖糖：音乐节！太棒了！我超喜欢唱歌跳舞的，一定要去感受音乐的狂欢！
+Attribute Change:  Stress: -1.0 
+
+### Option-5
+User:：我们可以一起去做手工DIY！
+
+Reply：
+糖糖：手工DIY？听起来好有趣！我喜欢动手做东西，一定要一起尝试一下！
+Attribute Change:  Stress: -1.0 
+
+
+## 对话组三
+
+### Prefix 
+糖糖: 最近我感觉好累，有什么放松的方式吗？
+
+### Option-1
+User:：我们一起去看电影吧！
+
+Reply：
+糖糖：看电影！好棒！我超喜欢看电影的，一起去享受大银幕的魅力吧！
+Attribute Change:  Stress: -2.0 
+
+### Option-2
+User:：我们可以一起去SPA养生会所放松一下。
+
+Reply：
+糖糖：SPA养生会所？听起来好奢华啊！我要去享受一下皇室级的待遇！
+Attribute Change:  Stress: -2.0 
+
+### Option-3
+User:：我们可以一起去散步，呼吸新鲜空气。
+
+Reply：
+糖糖：散步！好清新啊！我超喜欢大自然的，一起去感受自然的美丽吧！
+Attribute Change:  Stress: -2.0 
+
+### Option-4
+User:：我们可以一起去玩桌游，放松一下心情。
+
+Reply：
+糖糖：桌游！好有趣啊！我超喜欢和朋友一起玩的，一起来开心的玩耍吧！
+Attribute Change:  Stress: -2.0 
+
+### Option-5
+User:：我们可以一起去听音乐会，享受美妙的音乐。
+
+Reply：
+糖糖：音乐会！太棒了！我超喜欢听音乐的，一起去沉浸在美妙的旋律中吧！
+Attribute Change:  Stress: -2.0 
+
+
+## 对话组四
+
+### Prefix 
+糖糖: 最近我遇到了一些困难，不知道该怎么办。
+
+### Option-1
+User:：告诉我具体情况，我来帮你想办法。
+
+Reply：
+糖糖：谢谢你的帮助，我真的很感激！你是我的超级英雄呢！
+Attribute Change:  Stress: -2.0 
+
+### Option-2
+User:：不要太担心，事情总会有解决办法的。
+
+Reply：
+糖糖：嗯嗯，你说的对！我要相信自己，相信一切都会好起来的！
+Attribute Change:  Stress: -1.0 
+
+### Option-3
+User:：先休息一下，放松一下心情，再来思考解决办法。
+
+Reply：
+糖糖：嗯嗯，你说的对！我需要好好休息一下，调整好自己的状态！
+Attribute Change:  Stress: -2.0 
+
+### Option-4
+User:：找个朋友倾诉一下，或许能得到更多的建议和支持。
+
+Reply：
+糖糖：嗯嗯，你说的对！我要找个朋友倾诉一下，或许他们有更好的建议！
+Attribute Change:  Stress: -1.0 
+
+### Option-5
+User:：不要害怕寻求专业帮助，专家会给你正确的指导。
+
+Reply：
+糖糖：嗯嗯，你说的对！我要勇敢寻求专业帮助，相信他们能给我正确的指导！
+Attribute Change:  Stress: -2.0 
+
+
+## 对话组五
+
+### Prefix 
+糖糖: 最近我觉得自己好失败，什么都做不好。
+
+### Option-1
+User:：不要这么说自己，每个人都有自己的闪光点。
+
+Reply：
+糖糖：嗯嗯，你说的对！我要相信自己，发现自己的闪光点，继续努力！
+Attribute Change:  Stress: -1.0 
+
+### Option-2
+User:：失败是成功之母，每次失败都是一次学习的机会。
+
+Reply：
+糖糖：嗯嗯，你说的对！我要从失败中学到经验，变得更加强大！
+Attribute Change:  Stress: -1.0 
+
+### Option-3
+User:：别人的成功并不代表你的失败，每个人都有自己的节奏。
+
+Reply：
+糖糖：嗯嗯，你说的对！我要按照自己的节奏前进，不要被别人左右！
+Attribute Change:  Stress: -1.0 
+
+### Option-4
+User:：失败只是暂时的，只要不放弃，成功就在前方。
+
+Reply：
+糖糖：嗯嗯，你说的对！我要坚持不懈，相信自己，坚定走下去！
+Attribute Change:  Stress: -1.0 
+
+### Option-5
+User:：给自己一些时间，相信自己会找到属于自己的成功之路。
+
+Reply：
+糖糖：嗯嗯，你说的对！我要给自己一些时间，相信自己，找到属于自己的成功！
+Attribute Change:  Stress: -1.0

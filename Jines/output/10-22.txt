@@ -1,0 +1,199 @@
+## 对话组1
+
+### Prefix
+糖糖: 嘿嘿，今天的直播好紧张啊！你觉得我应该表演什么节目呢？
+
+### Option-1
+User: 唱歌吧！你的歌声超级甜美的！
+
+Reply:
+糖糖: 哇！谢谢夸奖！我会准备一首特别好听的歌曲给大家听的！你一定要来捧场哦！
+Attribute Change: Stress: -0.5
+
+### Option-2
+User: 你可以跳舞啊！你的舞姿一定很可爱！
+
+Reply:
+糖糖: 嘿嘿，我确实会一些简单的舞蹈，不过还需要多多练习才能更好呢！我会加油的！
+Attribute Change: Stress: -0.3
+
+### Option-3
+User: 为什么不试试玩游戏呢？你可以和粉丝一起玩！
+
+Reply:
+糖糖: 哇，玩游戏的话我也可以和大家互动，听起来好有趣！我会考虑一下的！
+Attribute Change: Stress: -0.2
+
+### Option-4
+User: 你可以做个小品啊！你的幽默感一定会逗笑观众！
+
+Reply:
+糖糖: 哈哈，小品啊！我可以试试看，希望我能给大家带去欢乐！谢谢你的建议！
+Attribute Change: Stress: -0.3
+
+### Option-5
+User: 你可以办个问答环节，让粉丝提问题！
+
+Reply:
+糖糖: 啊～好主意！问答环节可以增加和观众的互动，我会准备一些有趣的问题！谢谢你的建议！
+Attribute Change: Stress: -0.2
+
+## 对话组2
+
+### Prefix
+糖糖: 最近我总是觉得很焦虑，不知道该怎么办才好。
+
+### Option-1
+User: 你可以试试冥想，放松一下心情。
+
+Reply:
+糖糖: 冥想吗？听起来不错，我会找些冥想的方法来试试看，希望能缓解焦虑。
+Attribute Change: Stress: -0.5
+
+### Option-2
+User: 为什么不找一些喜欢的事情来分散注意力呢？
+
+Reply:
+糖糖: 嗯，你说得对，我应该尝试找些喜欢的事情来做，让自己的心情变得好起来！谢谢你的建议！
+Attribute Change: Stress: -0.3
+
+### Option-3
+User: 你可以找个朋友倾诉一下，和他们分享你的焦虑。
+
+Reply:
+糖糖: 嗯，和朋友聊聊心情是个好主意，我会找个信任的朋友倾诉一下的！谢谢你的建议！
+Attribute Change: Stress: -0.2
+
+### Option-4
+User: 试试运动吧！运动可以释放压力和焦虑。
+
+Reply:
+糖糖: 运动是个好主意！我会试试看，希望能通过运动来缓解焦虑！谢谢你的建议！
+Attribute Change: Stress: -0.4
+
+### Option-5
+User: 你可以听听音乐，音乐有助于放松心情。
+
+Reply:
+糖糖: 嗯，音乐可以让人心情愉悦，我会试试听些舒缓的音乐来放松自己。谢谢你的建议！
+Attribute Change: Stress: -0.3
+
+## 对话组3
+
+### Prefix
+糖糖: 最近直播的观众数有点下降，我好担心啊。
+
+### Option-1
+User: 不要担心，你的观众一定会回来的！
+
+Reply:
+糖糖: 嗯，你说得对！我要相信自己，相信观众会一直支持我！谢谢你的鼓励！
+Attribute Change: Stress: -0.2
+
+### Option-2
+User: 或许你可以尝试一些新的内容来吸引观众。
+
+Reply:
+糖糖: 哇，新的内容吗？听起来很有趣！我会尝试一下，希望能吸引更多的观众！谢谢你的建议！
+Attribute Change: Stress: -0.3
+
+### Option-3
+User: 你可以问问观众他们想看什么内容，给他们更多参与感。
+
+Reply:
+糖糖: 嗯，听取观众的建议是个好主意，我会主动和观众互动，了解他们的需求！谢谢你的建议！
+Attribute Change: Stress: -0.2
+
+### Option-4
+User: 试试加强自己的宣传，让更多人知道你的直播。
+
+Reply:
+糖糖: 嗯，宣传是很重要的！我会想办法提高自己的知名度，让更多人了解我的直播！谢谢你的建议！
+Attribute Change: Stress: -0.3
+
+### Option-5
+User: 不要太在意观众数，只要你对自己的直播满意就好。
+
+Reply:
+糖糖: 嗯，我要相信自己的直播，不要太在意观众数，只要我对自己的表现满意就好！谢谢你的鼓励！
+Attribute Change: Stress: -0.2
+
+## 对话组4
+
+### Prefix
+糖糖: 最近总是有人在网络上喷我，我好难过啊。
+
+### Option-1
+User: 不要理会他们，他们只是在找茬而已。
+
+Reply:
+糖糖: 嗯，你说得对！我要坚强，不要被他们的言语影响到自己！谢谢你的支持！
+Attribute Change: Stress: -0.2
+
+### Option-2
+User: 试着和他们沟通，看看能不能解决误会。
+
+Reply:
+糖糖: 嗯，或许是有什么误会，我会试着和他们沟通，看看能不能解开这个纠纷。谢谢你的建议！
+Attribute Change: Stress: -0.3
+
+### Option-3
+User: 别人的言论不重要，只要你相信自己就好。
+
+Reply:
+糖糖: 嗯，我要坚信自己，不要被他人的言论所左右，只要我相信自己就好！谢谢你的鼓励！
+Attribute Change: Stress: -0.2
+
+### Option-4
+User: 把注意力放在支持你的观众身上，他们才是最重要的。
+
+Reply:
+糖糖: 是的，我要更加关注那些支持我的观众，他们才是我最重要的人！谢谢你的提醒！
+Attribute Change: Stress: -0.2
+
+### Option-5
+User: 如果他们喷你，你可以选择屏蔽他们的评论。
+
+Reply:
+糖糖: 嗯，屏蔽他们的评论是个好主意，我不想被负能量所侵袭，谢谢你的建议！
+Attribute Change: Stress: -0.3
+
+## 对话组5
+
+### Prefix
+糖糖: 最近直播的压力好大，我好害怕失败。
+
+### Option-1
+User: 失败并不可怕，只要你努力过就没有遗憾。
+
+Reply:
+糖糖: 嗯，你说得对！失败并不可怕，我要坚持努力，不给自己留下遗憾！谢谢你的鼓励！
+Attribute Change: Stress: -0.2
+
+### Option-2
+User: 相信自己，你有能力克服困难的！
+
+Reply:
+糖糖: 嗯，我要相信自己，相信自己的能力，我一定能克服这些困难！谢谢你的支持！
+Attribute Change: Stress: -0.2
+
+### Option-3
+User: 想想你之前的成就，你已经做得很好了！
+
+Reply:
+糖糖: 嗯，你说得对！我要回想一下自己之前的成就，这样会增加我战胜困难的信心！谢谢你的提醒！
+Attribute Change: Stress: -0.3
+
+### Option-4
+User: 失败只是成功的一部分，不要放弃！
+
+Reply:
+糖糖: 是的，失败只是成功的一部分，我要坚持下去，不要放弃！谢谢你的鼓励！
+Attribute Change: Stress: -0.2
+
+### Option-5
+User: 只要你尽力了，就没有什么好怕的。
+
+Reply:
+糖糖: 嗯，你说得对！只要我尽力了，就没有什么好怕的！我会全力以赴的！谢谢你的支持！
+Attribute Change: Stress: -0.2

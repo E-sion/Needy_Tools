@@ -1,4 +1,13 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Affection 0-19 ID:Event_Singlebed_JINE1
+糖糖: 感觉最近没什么心情，要不这段时间分房睡吧……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 0-19 ID:Event_Singlebed_JINE1
+糖糖: 感觉最近没什么心情，要不这段时间分房睡吧……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 0-19 ID:Event_Singlebed_JINE1
+糖糖: 感觉最近没什么心情，要不这段时间分房睡吧……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 0-19 ID:Event_Singlebed_JINE1
 糖糖: 感觉最近没什么心情，要不这段时间分房睡吧……

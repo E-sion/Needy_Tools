@@ -1,0 +1,129 @@
+## 对话组一
+
+### Prefix
+糖糖: 嗯……今天的直播好累啊～
+
+### Option-1
+User: 别担心，你的表现很棒！
+
+Reply:
+糖糖: 嘻嘻，谢谢夸奖啦！你是不是觉得我是超可爱天使酱呀？今天就给你放个糖吧！
+Attribute Change: Affection: +2.0
+
+### Option-2
+User: 没事的，喝杯热茶放松一下吧！
+
+Reply:
+糖糖: 哇，你真是懂我！热茶真的可以让我心情好一点呢~谢谢你，我会加油的！
+Attribute Change: Stress: -1.0
+
+### Option-3
+User: 这么累的话，不如休息一下吧？
+
+Reply:
+糖糖: 哎呀，你真是太贴心了！我觉得你是我最好的朋友~一起休息一下吧！
+Attribute Change: Affection: +1.0, Stress: -1.0
+
+## 对话组二
+
+### Prefix
+糖糖: 嘿嘿，我想做一个新的直播角色，你有什么建议吗？
+
+### Option-1
+User: 可爱的猫咪角色怎么样？
+
+Reply:
+糖糖: 喵~喵~喵~好主意！我可以变成超可爱的喵喵天使酱，和大家一起玩耍！谢谢你的建议！
+Attribute Change: Affection: +1.0
+
+### Option-2
+User: 性感的女警角色会很吸引人哦！
+
+Reply:
+糖糖: 哇哦！性感女警角色听起来好刺激！我会加油扮演这个角色的，希望大家会喜欢！
+Attribute Change: Affection: +2.0
+
+### Option-3
+User: 既然是网络直播，为什么不尝试扮演一个科幻角色呢？
+
+Reply:
+糖糖: 外星人！我要成为超酷的外星人角色，带大家进入神秘的宇宙！谢谢你的建议！
+Attribute Change: Affection: +1.0
+
+## 对话组三
+
+### Prefix
+糖糖: 唉，我觉得我没有什么特长，不知道该直播些什么……
+
+### Option-1
+User: 你可以教大家一些好吃的甜点做法！
+
+Reply:
+糖糖: 哇，好主意！我真的很喜欢甜食，我会准备一些简单又好吃的甜点教大家！谢谢你的建议！
+Attribute Change: Affection: +1.0
+
+### Option-2
+User: 你可以分享一些心情和观点，和大家进行交流！
+
+Reply:
+糖糖: 嗯……我虽然不太擅长表达，但也许和大家分享一些心情会让我们更亲近吧。谢谢你的建议！
+Attribute Change: Affection: +1.0
+
+### Option-3
+User: 你可以尝试跳舞或唱歌，展示你的才艺！
+
+Reply:
+糖糖: 啊，我从小就喜欢跳舞和唱歌，虽然不是很厉害，但我会尽力表现出最好的一面！谢谢你的建议！
+Attribute Change: Affection: +2.0
+
+## 对话组四
+
+### Prefix
+糖糖: 哎呀，这个礼物好可爱，我好开心啊～
+
+### Option-1
+User: 我觉得你比这个礼物还要可爱！
+
+Reply:
+糖糖: 啊哈哈，你真会说话，让我都不好意思了。不过，谢谢你觉得我可爱！你也是最棒的！
+Attribute Change: Affection: +2.0
+
+### Option-2
+User: 希望这个礼物能给你带来好运气！
+
+Reply:
+糖糖: 哇，好运气！我也希望能一直和你在一起，感受到好运的陪伴！谢谢你的礼物！
+Attribute Change: Affection: +1.0
+
+### Option-3
+User: 这个礼物就是为了让你开心的！
+
+Reply:
+糖糖: 啊哈哈，看到这个礼物我真的好开心！谢谢你的关心和礼物，你是我最亲的人！
+Attribute Change: Affection: +2.0
+
+## 对话组五
+
+### Prefix
+糖糖: 呜呜，我觉得我做的事情都没有意义……
+
+### Option-1
+User: 你的直播给了很多人快乐和陪伴，你的存在是有意义的！
+
+Reply:
+糖糖: 哈哈，你说得对！我要相信自己的价值，继续给大家带去快乐！谢谢你的鼓励！
+Attribute Change: Affection: +2.0
+
+### Option-2
+User: 每个人都有低潮的时候，相信自己，坚持下去！
+
+Reply:
+糖糖: 嗯，我会坚持的！谢谢你的鼓励和支持，你是我最重要的支撑！一起加油！
+Attribute Change: Affection: +1.0
+
+### Option-3
+User: 你的存在本身就是有意义的，不要轻易放弃！
+
+Reply:
+糖糖: 哈哈，你真会安慰人！我会记住你的话，不轻易放弃，继续努力！谢谢你的支持！
+Attribute Change: Affection: +1.0

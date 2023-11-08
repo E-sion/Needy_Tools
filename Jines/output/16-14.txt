@@ -1,0 +1,203 @@
+## 对话组 1
+
+### Prefix
+糖糖: 你觉得我适合做主播吗？
+
+### Option-1
+User: 当然适合！你有很好的表现能力和魅力。
+
+Reply：
+糖糖：真的吗？那我会更加努力的！谢谢你的支持！
+Attribute Change: Stress: -1.0 
+
+### Option-2
+User: 我觉得你还需要提升自己的技能才能成为一名优秀的主播。
+
+Reply：
+糖糖：你说得对，我会加强自己的训练，争取变得更好！
+Attribute Change: Stress: 1.0 
+
+### Option-3
+User: 主播这个行业竞争激烈，你可能会面临很多困难和压力。
+
+Reply：
+糖糖：是的，我知道这个行业不容易，但我会坚持下去的！
+Attribute Change: Stress: 0.0 
+
+### Option-4
+User: 我不太确定，你可以先试一试看看适不适合。
+
+Reply：
+糖糖：嗯，也许你说得对，我需要亲身经历才能做出决定。
+Attribute Change: Stress: 0.0 
+
+### Option-5
+User: 我不太喜欢主播这个职业，我觉得你可以考虑其他的选择。
+
+Reply：
+糖糖：哦...那你觉得我适合做什么呢？
+Attribute Change: Stress: 0.0 
+
+
+## 对话组 2
+
+### Prefix
+糖糖: 你觉得我是不是很笨啊？
+
+### Option-1
+User: 当然不是！每个人都有自己的优点和不足。
+
+Reply：
+糖糖：谢谢你的理解和支持，我会更加努力的！
+Attribute Change: Stress: -1.0 
+
+### Option-2
+User: 有时候确实有点笨，但这并不影响你的可爱和吸引力。
+
+Reply：
+糖糖：嘿嘿，你真是会说话，不过我会尽量改进的！
+Attribute Change: Stress: -1.0 
+
+### Option-3
+User: 没有人是完美的，不必太在意别人的评价。
+
+Reply：
+糖糖：嗯，你说得对，我应该更加自信一些！谢谢你的鼓励！
+Attribute Change: Stress: -1.0 
+
+### Option-4
+User: 每个人都有自己的长处和短处，不必过分苛责自己。
+
+Reply：
+糖糖：嗯，你说得对，我应该更加积极地看待自己的优点！
+Attribute Change: Stress: -1.0 
+
+### Option-5
+User: 确实有时候有点笨，但这并不影响你的魅力和个性。
+
+Reply：
+糖糖：是吗？那我会继续努力让自己变得更好！
+Attribute Change: Stress: -1.0 
+
+
+## 对话组 3
+
+### Prefix
+糖糖: 我觉得自己好像一个失败的人，一无是处。
+
+### Option-1
+User: 别这么说，你有你的优点和价值，只是还没发现而已。
+
+Reply：
+糖糖：嗯，也许你说得对，我需要更加认识自己，找到自己的闪光点！
+Attribute Change: Stress: -1.0 
+
+### Option-2
+User: 失败只是暂时的，只要你努力，一定会找到属于你的成功。
+
+Reply：
+糖糖：谢谢你的鼓励，我会坚持下去，相信自己的能力！
+Attribute Change: Stress: -1.0 
+
+### Option-3
+User: 每个人都会经历失败和挫折，但这并不代表你一无是处。
+
+Reply：
+糖糖：是的，我应该更加勇敢地面对失败，寻找新的机会！
+Attribute Change: Stress: -1.0 
+
+### Option-4
+User: 你是一个有潜力的人，只是需要找到适合自己的方向和机会。
+
+Reply：
+糖糖：嗯，我会继续努力，找到适合自己的发展方向！
+Attribute Change: Stress: -1.0 
+
+### Option-5
+User: 每个人都有自己的价值，只是有时候我们需要别人的帮助来认识自己。
+
+Reply：
+糖糖：谢谢你的支持，我会更加努力，发现自己的潜力和价值！
+Attribute Change: Stress: -1.0 
+
+
+## 对话组 4
+
+### Prefix
+糖糖: 今天直播的时候，有人说我很丑，我好难过……
+
+### Option-1
+User: 别在意那些无聊的人，他们只是出于嫉妒才这么说。
+
+Reply：
+糖糖：嗯，也许你说得对，我应该更加坚定地相信自己的美丽！
+Attribute Change: Stress: -1.0 
+
+### Option-2
+User: 他们只是一些不负责任的言论，不值得你去在意。
+
+Reply：
+糖糖：是的，我应该更加自信，不被别人的评价左右！谢谢你的支持！
+Attribute Change: Stress: -1.0 
+
+### Option-3
+User: 他们的评价只是主观看法，不一定代表真实的你。
+
+Reply：
+糖糖：嗯，我会更加相信自己，不被别人的言论打击！
+Attribute Change: Stress: -1.0 
+
+### Option-4
+User: 不要为了别人的评价而伤心，你是独一无二的，有自己的美丽。
+
+Reply：
+糖糖：谢谢你的鼓励，我会更加珍惜自己的独特之处！
+Attribute Change: Stress: -1.0 
+
+### Option-5
+User: 美丽不仅仅是外表，更重要的是内心的善良和真诚。
+
+Reply：
+糖糖：嗯，你说得对，我会更加注重自己的内在美！
+Attribute Change: Stress: -1.0 
+
+
+## 对话组 5
+
+### Prefix
+糖糖: 我觉得自己好像没有什么朋友，好孤单……
+
+### Option-1
+User: 其实你已经有我了，我们是朋友啊。
+
+Reply：
+糖糖：是的，我很开心能有你这样的朋友，谢谢你一直陪在我身边！
+Attribute Change: Stress: -1.0 
+
+### Option-2
+User: 可能是因为你一直待在家里，可以主动出去结交一些新朋友。
+
+Reply：
+糖糖：嗯，也许我应该主动一些，尝试去结交新的朋友！
+Attribute Change: Stress: -1.0 
+
+### Option-3
+User: 有时候朋友并不在数量上，而是在质量上。
+
+Reply：
+糖糖：是的，我应该更加珍惜身边的人，不在乎数量而在乎质量！
+Attribute Change: Stress: -1.0 
+
+### Option-4
+User: 可能是因为你没有主动去和别人交流，试着打开心扉和别人交朋友吧。
+
+Reply：
+糖糖：嗯，你说得对，我会尝试主动一些，积极地与人交流！
+Attribute Change: Stress: -1.0 
+
+### Option-5
+User: 朋友是可以慢慢积累的，只要你保持真诚和善良，就会有更多的朋友。
+
+Reply：
+糖糖：谢谢你的鼓励，我会保持真诚和善良，相信会有更多的朋友！
+Attribute Change: Stress: -1.0

@@ -1,0 +1,113 @@
+以下是5组不同的Galgame中的对话设计：
+
+## 对话1
+### Prefix 
+糖糖: 嘿，听说这个新游戏超好玩，你要不要试试？阿哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+### Option-1
+User:：好啊，我也想试试看
+
+Reply：
+糖糖：诶～太棒了！我们一起开黑吧！
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:：我不喜欢玩游戏
+
+Reply：
+糖糖：什么？你不喜欢玩游戏？你简直不是人类！
+Attribute Change:  Stress: 1.0 
+### Option-3
+User:：我已经玩过了，不过还不错
+
+Reply：
+糖糖：哇，你已经玩过了吗？你这个前辈！
+Attribute Change:  Stress: 0.0 
+
+## 对话2
+### Prefix 
+糖糖: 呀～我好无聊啊，你有什么好玩的事情推荐吗？阿哈哈哈哈哈哈哈
+### Option-1
+User:：我们可以一起看电影
+
+Reply：
+糖糖：哇～好主意！我超喜欢看电影的，你是我的救星！
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:：我觉得你可以去学习一些新的技能
+
+Reply：
+糖糖：学习？好累的样子，我可不想变成学霸呢！
+Attribute Change:  Stress: 2.0 
+### Option-3
+User:：我们可以一起去逛街
+
+Reply：
+糖糖：逛街！太棒了！我想买一些新的二次元周边！
+Attribute Change:  Stress: -1.0 
+
+## 对话3
+### Prefix 
+糖糖: 嘿，你认为我应该怎么样才能吸引更多的观众？帮我想想办法吧！QAQ
+### Option-1
+User:：你可以尝试做一些有趣的挑战视频啊
+
+Reply：
+糖糖：哇！好主意！我可以尝试一下，谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:：你需要提高自己的直播技术和互动能力
+
+Reply：
+糖糖：直播技术？互动能力？这听起来好难啊……我会努力的！
+Attribute Change:  Stress: 0.0 
+### Option-3
+User:：你可以尝试与其他主播合作，增加曝光度
+
+Reply：
+糖糖：哇～和其他主播合作，那一定很有趣！我会试一试的！
+Attribute Change:  Stress: -1.0 
+
+## 对话4
+### Prefix 
+糖糖: 最近总是感觉很累，好像没有动力做任何事情。你有什么建议吗？诶～
+### Option-1
+User:：你可以试着放松一下，听听音乐或者看看书
+
+Reply：
+糖糖：听音乐和看书吗？这主意不错，我会试试的，谢谢你！
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:：你可以尝试和朋友一起出去玩，放松心情
+
+Reply：
+糖糖：出去玩？好像很有趣！我会找朋友一起出去玩的！
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:：也许你需要一些新的挑战，尝试一些新的事物
+
+Reply：
+糖糖：新的挑战？新的事物？听起来有点可怕，但也很有趣！
+Attribute Change:  Stress: 0.0 
+
+## 对话5
+### Prefix 
+糖糖: 哇～今天收到了好多观众的礼物，感觉好开心啊！你有没有收到过礼物？哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+### Option-1
+User:：我也经常收到礼物呢，很开心
+
+Reply：
+糖糖：哈哈哈，我们真是一样一样的呢！大家都好喜欢我们！
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:：我很少收到礼物，有点失落
+
+Reply：
+糖糖：啊～没关系啦，你要相信自己，我相信你会收到很多礼物的！
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:：我收到过一些礼物，但不多
+
+Reply：
+糖糖：嘿～礼物虽然不多，但是每一个都是心意哦！开心就好！
+Attribute Change:  Stress: 0.0 
+
+希望以上设计的对话能符合你的要求！如有需要，可以根据实际情况进行调整和修改。

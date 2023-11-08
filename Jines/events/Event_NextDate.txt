@@ -1,15 +1,15 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_NextDate001
 糖糖: 阿P！！！！喂阿P！！！！我们下次去哪里约会啊？？？？？
 ### Option-1
-User:：由ｘ里王国
+User:　由ｘ里王国
 
 Reply：
 糖糖：我们什么时候变成她的国民了啊？
 Attribute Change: None
 ### Option-2
-User:：阿姆斯特丹
+User:　阿姆斯特丹
 
 Reply：
 糖糖：那下次企划的内容就做超天酱荷兰游记好了！
@@ -18,13 +18,16 @@ Reply：
 糖糖：……那瞬间就会被人想到我们是去吸那个的吧！
 Attribute Change: None
 ### Option-3
-User:：月球
+User:　月球
 
 Reply：
 糖糖：我俩原来是想要看看月球背面的外星人啊……
 Attribute Change: None
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_NextDate006
+糖糖: 你倒是提个更现实点的拍摄地好不好！！！
 ### Option-2
-User:：秋叶原
+User:　秋叶原
 
 Reply：
 糖糖：死宅吗你！！！
@@ -33,7 +36,7 @@ Reply：
 糖糖：不对，我们好像就是死宅……
 Attribute Change: None
 ### Option-2
-User:：吉原
+User:　吉原
 
 Reply：
 糖糖：你是想让糖糖后半生做洗浴做到死吗？！
@@ -42,16 +45,233 @@ Reply：
 糖糖：我会赚很多钱回来的……
 Attribute Change: None
 ### Option-2
-User:：池袋
+User:　池袋
 
 Reply：
 糖糖：诶！也 太 普 通 了
 Attribute Change: None
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_NextDate012
+糖糖: 不要在都内拍嘛，把眼光放远一点啊
 ### Option-3
-User:：热海
+User:　热海
 
 ### Option-3
-User:：草津
+User:　草津
 
 ### Option-3
-User:：所泽
+User:　所泽
+
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_NextDate013
+糖糖: 啊～但是交通好麻烦。还是挑个近的好了！
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_NextDate013_Optuin001
+糖糖: 滚
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_NextDate001
+糖糖: 阿P！！！！喂阿P！！！！我们下次去哪里约会啊？？？？？
+### Option-1
+User:　由ｘ里王国
+
+Reply：
+糖糖：我们什么时候变成她的国民了啊？
+Attribute Change: None
+### Option-2
+User:　阿姆斯特丹
+
+Reply：
+糖糖：那下次企划的内容就做超天酱荷兰游记好了！
+Attribute Change: None
+Reply：
+糖糖：……那瞬间就会被人想到我们是去吸那个的吧！
+Attribute Change: None
+### Option-3
+User:　月球
+
+Reply：
+糖糖：我俩原来是想要看看月球背面的外星人啊……
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_NextDate006
+糖糖: 你倒是提个更现实点的拍摄地好不好！！！
+### Option-2
+User:　秋叶原
+
+Reply：
+糖糖：死宅吗你！！！
+Attribute Change: None
+Reply：
+糖糖：不对，我们好像就是死宅……
+Attribute Change: None
+### Option-2
+User:　吉原
+
+Reply：
+糖糖：你是想让糖糖后半生做洗浴做到死吗？！
+Attribute Change: None
+Reply：
+糖糖：我会赚很多钱回来的……
+Attribute Change: None
+### Option-2
+User:　池袋
+
+Reply：
+糖糖：诶！也 太 普 通 了
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_NextDate012
+糖糖: 不要在都内拍嘛，把眼光放远一点啊
+### Option-3
+User:　热海
+
+### Option-3
+User:　草津
+
+### Option-3
+User:　所泽
+
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_NextDate013
+糖糖: 啊～但是交通好麻烦。还是挑个近的好了！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_NextDate013_Optuin001
+糖糖: 滚
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_NextDate001
+糖糖: 阿P！！！！喂阿P！！！！我们下次去哪里约会啊？？？？？
+### Option-1
+User:　由ｘ里王国
+
+Reply：
+糖糖：我们什么时候变成她的国民了啊？
+Attribute Change: None
+### Option-2
+User:　阿姆斯特丹
+
+Reply：
+糖糖：那下次企划的内容就做超天酱荷兰游记好了！
+Attribute Change: None
+Reply：
+糖糖：……那瞬间就会被人想到我们是去吸那个的吧！
+Attribute Change: None
+### Option-3
+User:　月球
+
+Reply：
+糖糖：我俩原来是想要看看月球背面的外星人啊……
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_NextDate006
+糖糖: 你倒是提个更现实点的拍摄地好不好！！！
+### Option-2
+User:　秋叶原
+
+Reply：
+糖糖：死宅吗你！！！
+Attribute Change: None
+Reply：
+糖糖：不对，我们好像就是死宅……
+Attribute Change: None
+### Option-2
+User:　吉原
+
+Reply：
+糖糖：你是想让糖糖后半生做洗浴做到死吗？！
+Attribute Change: None
+Reply：
+糖糖：我会赚很多钱回来的……
+Attribute Change: None
+### Option-2
+User:　池袋
+
+Reply：
+糖糖：诶！也 太 普 通 了
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_NextDate012
+糖糖: 不要在都内拍嘛，把眼光放远一点啊
+### Option-3
+User:　热海
+
+### Option-3
+User:　草津
+
+### Option-3
+User:　所泽
+
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_NextDate013
+糖糖: 啊～但是交通好麻烦。还是挑个近的好了！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_NextDate013_Optuin001
+糖糖: 滚
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_NextDate001
+糖糖: 阿P！！！！喂阿P！！！！我们下次去哪里约会啊？？？？？
+### Option-1
+User:　由ｘ里王国
+
+Reply：
+糖糖：我们什么时候变成她的国民了啊？
+Attribute Change: None
+### Option-2
+User:　阿姆斯特丹
+
+Reply：
+糖糖：那下次企划的内容就做超天酱荷兰游记好了！
+Attribute Change: None
+Reply：
+糖糖：……那瞬间就会被人想到我们是去吸那个的吧！
+Attribute Change: None
+### Option-3
+User:　月球
+
+Reply：
+糖糖：我俩原来是想要看看月球背面的外星人啊……
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_NextDate006
+糖糖: 你倒是提个更现实点的拍摄地好不好！！！
+### Option-2
+User:　秋叶原
+
+Reply：
+糖糖：死宅吗你！！！
+Attribute Change: None
+Reply：
+糖糖：不对，我们好像就是死宅……
+Attribute Change: None
+### Option-2
+User:　吉原
+
+Reply：
+糖糖：你是想让糖糖后半生做洗浴做到死吗？！
+Attribute Change: None
+Reply：
+糖糖：我会赚很多钱回来的……
+Attribute Change: None
+### Option-2
+User:　池袋
+
+Reply：
+糖糖：诶！也 太 普 通 了
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_NextDate012
+糖糖: 不要在都内拍嘛，把眼光放远一点啊
+### Option-3
+User:　热海
+
+### Option-3
+User:　草津
+
+### Option-3
+User:　所泽
+
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_NextDate013
+糖糖: 啊～但是交通好麻烦。还是挑个近的好了！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_NextDate013_Optuin001
+糖糖: 滚

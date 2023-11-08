@@ -1,6 +1,25 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_Suki10_JINE001
 糖糖: 问你哦，你喜欢我吗？喜欢的话，就说十个喜欢的点给我听！！！
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Suki10_JINE001
+糖糖: 问你哦，你喜欢我吗？喜欢的话，就说十个喜欢的点给我听！！！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Suki10_JINE001
+糖糖: 问你哦，你喜欢我吗？喜欢的话，就说十个喜欢的点给我听！！！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Suki10_JINE001
+糖糖: 问你哦，你喜欢我吗？喜欢的话，就说十个喜欢的点给我听！！！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:nan
 糖糖: nan

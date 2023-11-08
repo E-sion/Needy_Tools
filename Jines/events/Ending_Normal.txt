@@ -1,20 +1,163 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Ending: Utopian Parody ID:Ending_Normal_JINE001
 糖糖: 我没事的
-##
+## 对话
+### Prefix Category_temp:Ending: Utopian Parody ID:Ending_Normal_JINE002
 糖糖: 谢谢你担心我
+## 对话
+### Prefix Category_temp:Ending: Utopian Parody 
+(With Trauma Event) ID:Ending_Normal_JINE003
+糖糖: 阿P
+## 对话
+### Prefix Category_temp:Ending: Utopian Parody 
+(With Trauma Event) ID:Ending_Normal_JINE004
+糖糖: 你还记得我跟你说过的那些重要的事吗？
 ### Option-2
-User:：一直被无视
+User:　一直被无视
 
 ### Option-2
-User:：一直很穷
+User:　一直很穷
 
 ### Option-2
-User:：一直被欺负
+User:　一直被欺负
 
 ### Option-2
-User:：一直想得到幸福美满的婚姻
+User:　一直想得到幸福美满的婚姻
 
 ### Option-2
-User:：一直体弱多病
+User:　一直体弱多病
+
+## 对话
+### Prefix Category_temp:Ending: Utopian Parody 
+(With Trauma Event; answered correctly) ID:Ending_Normal_JINE005
+糖糖: 这样的我你也愿意不离不弃吗？
+## 对话
+### Prefix Category_temp:Ending: Utopian Parody 
+(With Trauma Event; answered correctly) ID:Ending_Normal_JINE006
+糖糖: 谢谢你紧紧抱住我
+## 对话
+### Prefix Category_temp:Ending: Utopian Parody 
+(With Trauma Event; answered correctly) ID:Ending_Normal_JINE007
+糖糖: 我可以就这样变成一个普通的女孩子吗
+## 对话
+### Prefix Category_temp:Ending: Utopian Parody 
+(With Trauma Event; answered correctly) ID:Ending_Normal_JINE008
+糖糖: 好开心啊
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody ID:Ending_Normal_JINE001
+糖糖: 我没事的
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody ID:Ending_Normal_JINE002
+糖糖: 谢谢你担心我
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody _(With Trauma Event) ID:Ending_Normal_JINE003
+糖糖: 阿P
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody _(With Trauma Event) ID:Ending_Normal_JINE004
+糖糖: 你还记得我跟你说过的那些重要的事吗？
+### Option-2
+User:　一直被无视
+
+### Option-2
+User:　一直很穷
+
+### Option-2
+User:　一直被欺负
+
+### Option-2
+User:　一直想得到幸福美满的婚姻
+
+### Option-2
+User:　一直体弱多病
+
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody _(With Trauma Event; answered correctly) ID:Ending_Normal_JINE005
+糖糖: 这样的我你也愿意不离不弃吗？
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody _(With Trauma Event; answered correctly) ID:Ending_Normal_JINE006
+糖糖: 谢谢你紧紧抱住我
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody _(With Trauma Event; answered correctly) ID:Ending_Normal_JINE007
+糖糖: 我可以就这样变成一个普通的女孩子吗
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody _(With Trauma Event; answered correctly) ID:Ending_Normal_JINE008
+糖糖: 好开心啊
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody ID:Ending_Normal_JINE001
+糖糖: 我没事的
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody ID:Ending_Normal_JINE002
+糖糖: 谢谢你担心我
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody _(With Trauma Event) ID:Ending_Normal_JINE003
+糖糖: 阿P
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody _(With Trauma Event) ID:Ending_Normal_JINE004
+糖糖: 你还记得我跟你说过的那些重要的事吗？
+### Option-2
+User:　一直被无视
+
+### Option-2
+User:　一直很穷
+
+### Option-2
+User:　一直被欺负
+
+### Option-2
+User:　一直想得到幸福美满的婚姻
+
+### Option-2
+User:　一直体弱多病
+
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody _(With Trauma Event; answered correctly) ID:Ending_Normal_JINE005
+糖糖: 这样的我你也愿意不离不弃吗？
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody _(With Trauma Event; answered correctly) ID:Ending_Normal_JINE006
+糖糖: 谢谢你紧紧抱住我
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody _(With Trauma Event; answered correctly) ID:Ending_Normal_JINE007
+糖糖: 我可以就这样变成一个普通的女孩子吗
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody _(With Trauma Event; answered correctly) ID:Ending_Normal_JINE008
+糖糖: 好开心啊
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody ID:Ending_Normal_JINE001
+糖糖: 我没事的
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody ID:Ending_Normal_JINE002
+糖糖: 谢谢你担心我
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody _(With Trauma Event) ID:Ending_Normal_JINE003
+糖糖: 阿P
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody _(With Trauma Event) ID:Ending_Normal_JINE004
+糖糖: 你还记得我跟你说过的那些重要的事吗？
+### Option-2
+User:　一直被无视
+
+### Option-2
+User:　一直很穷
+
+### Option-2
+User:　一直被欺负
+
+### Option-2
+User:　一直想得到幸福美满的婚姻
+
+### Option-2
+User:　一直体弱多病
+
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody _(With Trauma Event; answered correctly) ID:Ending_Normal_JINE005
+糖糖: 这样的我你也愿意不离不弃吗？
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody _(With Trauma Event; answered correctly) ID:Ending_Normal_JINE006
+糖糖: 谢谢你紧紧抱住我
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody _(With Trauma Event; answered correctly) ID:Ending_Normal_JINE007
+糖糖: 我可以就这样变成一个普通的女孩子吗
+## 对话
+### Prefix Category_temp:Ending_ Utopian Parody _(With Trauma Event; answered correctly) ID:Ending_Normal_JINE008
+糖糖: 好开心啊

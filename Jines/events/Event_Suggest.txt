@@ -1,6 +1,25 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Affection 0-19 ID:Event_Suggest_JINE001
 糖糖: 我们两个，再这样下去的话……
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Affection 0-19 ID:Event_Suggest_JINE002
+糖糖: 没有，没什么
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 0-19 ID:Event_Suggest_JINE001
+糖糖: 我们两个，再这样下去的话……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 0-19 ID:Event_Suggest_JINE002
+糖糖: 没有，没什么
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 0-19 ID:Event_Suggest_JINE001
+糖糖: 我们两个，再这样下去的话……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 0-19 ID:Event_Suggest_JINE002
+糖糖: 没有，没什么
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 0-19 ID:Event_Suggest_JINE001
+糖糖: 我们两个，再这样下去的话……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 0-19 ID:Event_Suggest_JINE002
 糖糖: 没有，没什么

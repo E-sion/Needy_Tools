@@ -1,0 +1,148 @@
+## 对话组1
+
+### Prefix
+糖糖: 嘿嘿，阿P，你相信有鬼吗？
+
+### Option-1
+User: 当然不信了，都是假的。
+
+Reply:
+糖糖: 啊哈哈，阿P好聪明，果然是现实派呢！鬼魂都是忽悠人的。
+
+Attribute Change: Stress: -1.0
+
+### Option-2
+User: 我相信，世界上有很多未解之谜。
+
+Reply:
+糖糖: 哇，阿P你好有想象力啊！也许我们身边就有一些神秘的存在呢。
+
+Attribute Change: Stress: -1.0
+
+### Option-3
+User: 我不确定，但有时候会感到害怕。
+
+Reply:
+糖糖: 哈哈，阿P你好可爱，有时候害怕也是很正常的，我们要一起勇敢面对！
+
+Attribute Change: Stress: -1.0
+
+
+## 对话组2
+
+### Prefix
+糖糖: 呜呜呜，阿P，我今天在直播中被人喷了，好难过...
+
+### Option-1
+User: 别难过啦，他们只是嫉妒你的人气。
+
+Reply:
+糖糖: 嗯嗯，阿P说得对，不要理会那些嫉妒的人，他们只是羡慕我们的火爆罢了！
+
+Attribute Change: Stress: -1.0
+
+### Option-2
+User: 别在意他们，你的粉丝一直都支持你。
+
+Reply:
+糖糖: 嗯嗯，阿P真是我最好的支持者，谢谢你一直以来的陪伴和鼓励！
+
+Attribute Change: Stress: -1.0
+
+### Option-3
+User: 那些人都是无聊的，别理他们。
+
+Reply:
+糖糖: 呀哈哈，阿P你好坚强！没错，那些人只是无聊找事，我们要继续努力做好自己！
+
+Attribute Change: Stress: -1.0
+
+
+## 对话组3
+
+### Prefix
+糖糖: 嘿嘿，阿P，我最近迷上了一款游戏，你一定要尝试！
+
+### Option-1
+User: 游戏？我没时间玩啦。
+
+Reply:
+糖糖: 呜呜，阿P好忙碌啊，那我就一个人玩吧，希望你也能找到属于自己的乐趣！
+
+Attribute Change: Stress: +1.0
+
+### Option-2
+User: 好啊，告诉我游戏名字，我去下载。
+
+Reply:
+糖糖: 哇！阿P太棒了，游戏叫《超可爱酱的冒险之旅》，希望你会喜欢！
+
+Attribute Change: Stress: -1.0
+
+### Option-3
+User: 我对游戏不感兴趣。
+
+Reply:
+糖糖: 呵呵，阿P果然有自己的喜好，没关系，我们还有其他共同的话题可以聊！
+
+Attribute Change: Stress: -1.0
+
+
+## 对话组4
+
+### Prefix
+糖糖: 阿P，最近我在直播中遇到了一个坏人，他一直在恶意刷屏...
+
+### Option-1
+User: 报警吧，这种人应该受到惩罚。
+
+Reply:
+糖糖: 对对对！阿P说得对，我应该保护自己，我会报警处理这个恶意刷屏的人！
+
+Attribute Change: Stress: -1.0
+
+### Option-2
+User: 不要理他，他只是想引起你的注意。
+
+Reply:
+糖糖: 嗯嗯，阿P你真懂我，我决定不理会他，专注于给观众带来快乐！
+
+Attribute Change: Stress: -1.0
+
+### Option-3
+User: 没关系，他只是个无聊的 troll。
+
+Reply:
+糖糖: 哈哈，阿P你真是个机智的人，他无聊的行为只能让我更有动力做得更好！
+
+Attribute Change: Stress: -1.0
+
+
+## 对话组5
+
+### Prefix
+糖糖: 阿P，我今天直播时一直出错，观众都不开心了...
+
+### Option-1
+User: 别担心，大家都会理解的。
+
+Reply:
+糖糖: 嗯嗯，阿P你真是我最棒的支持者，我会向观众道歉并努力改进！
+
+Attribute Change: Stress: -1.0
+
+### Option-2
+User: 出错是正常的，下次会更好的。
+
+Reply:
+糖糖: 对呀，阿P，我们都是人，会犯错是正常的，我会继续努力做得更好！
+
+Attribute Change: Stress: -1.0
+
+### Option-3
+User: 观众会理解的，不要太放在心上。
+
+Reply:
+糖糖: 嗯嗯，阿P你真是个明智的人，我会坦然面对，继续给观众带来欢乐！
+
+Attribute Change: Stress: -1.0

@@ -1,12 +1,61 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 0-19 ID:Event_Nickname_JINE001
 糖糖: 阿P这个称呼我也差不多叫腻了
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 0-19 ID:Event_Nickname_JINE002
 糖糖: 不如想个别的叫法吧……
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 0-19 ID:Event_Nickname_JINE003
 糖糖: ……
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 0-19 ID:Event_Nickname_JINE004
 糖糖: ……
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 0-19 ID:Event_Nickname_JINE005
+糖糖: 什么也想不到
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Nickname_JINE001
+糖糖: 阿P这个称呼我也差不多叫腻了
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Nickname_JINE002
+糖糖: 不如想个别的叫法吧……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Nickname_JINE003
+糖糖: ……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Nickname_JINE004
+糖糖: ……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Nickname_JINE005
+糖糖: 什么也想不到
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Nickname_JINE001
+糖糖: 阿P这个称呼我也差不多叫腻了
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Nickname_JINE002
+糖糖: 不如想个别的叫法吧……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Nickname_JINE003
+糖糖: ……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Nickname_JINE004
+糖糖: ……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Nickname_JINE005
+糖糖: 什么也想不到
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Nickname_JINE001
+糖糖: 阿P这个称呼我也差不多叫腻了
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Nickname_JINE002
+糖糖: 不如想个别的叫法吧……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Nickname_JINE003
+糖糖: ……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Nickname_JINE004
+糖糖: ……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Nickname_JINE005
 糖糖: 什么也想不到

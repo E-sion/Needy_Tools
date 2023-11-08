@@ -1,6 +1,25 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 61+ ID:Event_Damon_JINE001
 糖糖: 世上哪有这种瘫痪天使啊
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 61+ ID:Event_Damon_JINE002
+糖糖: 今天的我已经不是当代互联网小天使了，而是网络恶魔
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Damon_JINE001
+糖糖: 世上哪有这种瘫痪天使啊
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Damon_JINE002
+糖糖: 今天的我已经不是当代互联网小天使了，而是网络恶魔
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Damon_JINE001
+糖糖: 世上哪有这种瘫痪天使啊
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Damon_JINE002
+糖糖: 今天的我已经不是当代互联网小天使了，而是网络恶魔
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Damon_JINE001
+糖糖: 世上哪有这种瘫痪天使啊
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Damon_JINE002
 糖糖: 今天的我已经不是当代互联网小天使了，而是网络恶魔

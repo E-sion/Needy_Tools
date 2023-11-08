@@ -1,59 +1,472 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Day 1: Logged In (Before Stream) ID:Day0_JINE002
 糖糖: 看来你已经登录成功了
 从此一切即将开始……
 我们今后都要永远在一起哦
-##
+## 对话
+### Prefix Category_temp:Day 1: Logged In (Before Stream) ID:Day0_JINE003
 糖糖: 今后我在网络世界里，无论是死了还是坐牢了，还是崩溃了、被害了，可能成为过街老鼠，也可能登上神坛，甚至陷入癫狂……
 不论怎么样，你都要和我在一起哦
-##
+## 对话
+### Prefix Category_temp:Day 1: Logged In (Before Stream) ID:Day0_JINE004
 糖糖: 网络世界真的是一个充满了尸腐臭气的地方
 根本就是现代社会所催生出的地狱
-##
+## 对话
+### Prefix Category_temp:Day 1: Logged In (Before Stream) ID:Day0_JINE005
 糖糖: 可是同时，我又只能活在这样的网络世界里
-##
+## 对话
+### Prefix Category_temp:Day 1: Logged In (Before Stream) ID:Day0_JINE006
 糖糖: 我，早上起不来床！不想出门！
 没法好好上班！害怕生人！
 讨厌大人！同时人脑袋又笨！
 但又想被人捧着！！！
-##
+## 对话
+### Prefix Category_temp:Day 1: Logged In (Before Stream) ID:Day0_JINE007
 糖糖: 而现在想被追捧，最好的办法就是成为主播！
-##
+## 对话
+### Prefix Category_temp:Day 1: Logged In (Before Stream) ID:Day0_JINE008
 糖糖: 谢谢你帮我准备器材，还有设置软件哦
 阿P
-##
+## 对话
+### Prefix Category_temp:Day 1: Logged In (Before Stream) ID:Day0_JINE008_Option001
 糖糖: 阿P？
-##
+## 对话
+### Prefix Category_temp:Day 1: Logged In (Before Stream) ID:Day0_JINE008_Option002
 糖糖: P～PP！
-##
+## 对话
+### Prefix Category_temp:Day 1: Logged In (Before Stream) ID:Day0_JINE009
+糖糖: 没错！从现在开始，你就是“阿P”了！
+因为你是我喜欢的People嘛，所以就叫你“阿P”啦！
+## 对话
+### Prefix Category_temp:Day 1: Logged In (Before Stream) ID:Day0_JINE010
+糖糖: 你是愿意毫无道理地支持和理解糖糖这种烂人的人
+也是糖糖全世界第一在乎的恋人……
+还有，P也有“制作人（Producer）”的意思呢！
+## 对话
+### Prefix Category_temp:Day 1: Logged In (Before Stream) ID:Day0_JINE011
+糖糖: 因为阿P比我聪明太多了
+所以你要指导我哦
+今后请多多给糖糖指示哦
+## 对话
+### Prefix Category_temp:Day 1: Logged In (Before Stream) ID:Day0_JINE012
+糖糖: 我们一起冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭
+## 对话
+### Prefix Category_temp:Day 1: Logged In (Before Stream) ID:Day0_JINE013
+糖糖: 啊哈！
+时间快到了呢……
+## 对话
+### Prefix Category_temp:Day 1: Logged In (Before Stream) ID:Day0_JINE014
+糖糖: 化妆和假发都准备完毕了！完美！
+## 对话
+### Prefix Category_temp:Day 1: Logged In (Before Stream) ID:Day0_JINE015
+糖糖: 那么，我的初次直播……！
+## 对话
+### Prefix Category_temp:Day 1: Logged In (After Stream) ID:Day0_JINE017
 糖糖: 啊～紧张死了……
-##
+## 对话
+### Prefix Category_temp:Day 1: Logged In (After Stream) ID:Day0_JINE018
 糖糖: 我们两个一起想出来的“超天酱”
 终于，降临在这个世界上了
-##
+## 对话
+### Prefix Category_temp:Day 1: Logged In (After Stream) ID:Day0_JINE019
 糖糖: 粉丝……涨了一千啊
 这样都得不到什么被捧的感觉
 毕竟现在才刚开始呢
-##
+## 对话
+### Prefix Category_temp:Day 1: Logged In (After Stream) ID:Day0_JINE020
 糖糖: 想满足我黑洞似的认可欲求
 最少也得有一百万个宅宅围着我转呀
-##
+## 对话
+### Prefix Category_temp:Day 1: Logged In (After Stream) ID:Day0_JINE021
 糖糖: 大概一个月的时间，胜负就能见分晓吧
 因为凭我的干劲也只能坚持那么久……
-##
+## 对话
+### Prefix Category_temp:Day 1: Logged In (After Stream) ID:Day0_JINE022
 糖糖: 所以接下来的这一个月，咱们要努力奋斗咯！！
-##
+## 对话
+### Prefix Category_temp:Day 1: Logged In (After Stream) ID:Day0_JINE023
 糖糖: 我和你的话，一定能够打造厉害的主播吧？
 ### Option-0
-User:：可以的
+User:　可以的
 
 Reply：
 糖糖：阿P，喜翻你！
 Attribute Change: None
 ### Option-0
-User:：感觉不太行
+User:　感觉不太行
+Reply：
+糖糖：嗯，反正干就完了
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 1: Logged In (After Stream) ID:Day0_JINE026
+糖糖: 希望目标真的能够实现……
+就拜托你咯，阿P
+## 对话
+### Prefix Category_temp:Day 1: Logged In (After Stream) ID:Day0_JINE027
+糖糖: 如果努力过头的话，我可是会坏掉的
+不过到了那个时候，咱俩就携手毁灭网络世界好啦♪
+## 对话
+### Prefix Category_temp:Day 1: Logged In (After Stream) ID:Day0_JINE028
+糖糖: ……那
+从明天开始，请多多关照咯
+## 对话
+### Prefix Category_temp:Day 1: Logged In (After Stream) ID:Day0_JINE029
+糖糖: 晚安
+## 对话
+### Prefix Category_temp:Day 1: Logged In (After Stream) ID:Day0_JINE030
+糖糖: 啾！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE002
+糖糖: 看来你已经登录成功了
+从此一切即将开始……
+我们今后都要永远在一起哦
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE003
+糖糖: 今后我在网络世界里，无论是死了还是坐牢了，还是崩溃了、被害了，可能成为过街老鼠，也可能登上神坛，甚至陷入癫狂……
+不论怎么样，你都要和我在一起哦
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE004
+糖糖: 网络世界真的是一个充满了尸腐臭气的地方
+根本就是现代社会所催生出的地狱
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE005
+糖糖: 可是同时，我又只能活在这样的网络世界里
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE006
+糖糖: 我，早上起不来床！不想出门！
+没法好好上班！害怕生人！
+讨厌大人！同时人脑袋又笨！
+但又想被人捧着！！！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE007
+糖糖: 而现在想被追捧，最好的办法就是成为主播！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE008
+糖糖: 谢谢你帮我准备器材，还有设置软件哦
+阿P
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE008_Option001
+糖糖: 阿P？
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE008_Option002
+糖糖: P～PP！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE009
+糖糖: 没错！从现在开始，你就是“阿P”了！
+因为你是我喜欢的People嘛，所以就叫你“阿P”啦！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE010
+糖糖: 你是愿意毫无道理地支持和理解糖糖这种烂人的人
+也是糖糖全世界第一在乎的恋人……
+还有，P也有“制作人（Producer）”的意思呢！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE011
+糖糖: 因为阿P比我聪明太多了
+所以你要指导我哦
+今后请多多给糖糖指示哦
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE012
+糖糖: 我们一起冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE013
+糖糖: 啊哈！
+时间快到了呢……
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE014
+糖糖: 化妆和假发都准备完毕了！完美！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE015
+糖糖: 那么，我的初次直播……！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE017
+糖糖: 啊～紧张死了……
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE018
+糖糖: 我们两个一起想出来的“超天酱”
+终于，降临在这个世界上了
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE019
+糖糖: 粉丝……涨了一千啊
+这样都得不到什么被捧的感觉
+毕竟现在才刚开始呢
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE020
+糖糖: 想满足我黑洞似的认可欲求
+最少也得有一百万个宅宅围着我转呀
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE021
+糖糖: 大概一个月的时间，胜负就能见分晓吧
+因为凭我的干劲也只能坚持那么久……
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE022
+糖糖: 所以接下来的这一个月，咱们要努力奋斗咯！！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE023
+糖糖: 我和你的话，一定能够打造厉害的主播吧？
+### Option-0
+User:　可以的
+
+Reply：
+糖糖：阿P，喜翻你！
+Attribute Change: None
+### Option-0
+User:　感觉不太行
 
 Reply：
 糖糖：嗯，反正干就完了
 Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE026
+糖糖: 希望目标真的能够实现……
+就拜托你咯，阿P
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE027
+糖糖: 如果努力过头的话，我可是会坏掉的
+不过到了那个时候，咱俩就携手毁灭网络世界好啦♪
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE028
+糖糖: ……那
+从明天开始，请多多关照咯
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE029
+糖糖: 晚安
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE030
+糖糖: 啾！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE002
+糖糖: 看来你已经登录成功了
+从此一切即将开始……
+我们今后都要永远在一起哦
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE003
+糖糖: 今后我在网络世界里，无论是死了还是坐牢了，还是崩溃了、被害了，可能成为过街老鼠，也可能登上神坛，甚至陷入癫狂……
+不论怎么样，你都要和我在一起哦
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE004
+糖糖: 网络世界真的是一个充满了尸腐臭气的地方
+根本就是现代社会所催生出的地狱
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE005
+糖糖: 可是同时，我又只能活在这样的网络世界里
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE006
+糖糖: 我，早上起不来床！不想出门！
+没法好好上班！害怕生人！
+讨厌大人！同时人脑袋又笨！
+但又想被人捧着！！！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE007
+糖糖: 而现在想被追捧，最好的办法就是成为主播！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE008
+糖糖: 谢谢你帮我准备器材，还有设置软件哦
+阿P
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE008_Option001
+糖糖: 阿P？
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE008_Option002
+糖糖: P～PP！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE009
+糖糖: 没错！从现在开始，你就是“阿P”了！
+因为你是我喜欢的People嘛，所以就叫你“阿P”啦！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE010
+糖糖: 你是愿意毫无道理地支持和理解糖糖这种烂人的人
+也是糖糖全世界第一在乎的恋人……
+还有，P也有“制作人（Producer）”的意思呢！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE011
+糖糖: 因为阿P比我聪明太多了
+所以你要指导我哦
+今后请多多给糖糖指示哦
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE012
+糖糖: 我们一起冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE013
+糖糖: 啊哈！
+时间快到了呢……
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE014
+糖糖: 化妆和假发都准备完毕了！完美！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE015
+糖糖: 那么，我的初次直播……！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE017
+糖糖: 啊～紧张死了……
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE018
+糖糖: 我们两个一起想出来的“超天酱”
+终于，降临在这个世界上了
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE019
+糖糖: 粉丝……涨了一千啊
+这样都得不到什么被捧的感觉
+毕竟现在才刚开始呢
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE020
+糖糖: 想满足我黑洞似的认可欲求
+最少也得有一百万个宅宅围着我转呀
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE021
+糖糖: 大概一个月的时间，胜负就能见分晓吧
+因为凭我的干劲也只能坚持那么久……
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE022
+糖糖: 所以接下来的这一个月，咱们要努力奋斗咯！！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE023
+糖糖: 我和你的话，一定能够打造厉害的主播吧？
+### Option-0
+User:　可以的
+
+Reply：
+糖糖：阿P，喜翻你！
+Attribute Change: None
+### Option-0
+User:　感觉不太行
+
+Reply：
+糖糖：嗯，反正干就完了
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE026
+糖糖: 希望目标真的能够实现……
+就拜托你咯，阿P
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE027
+糖糖: 如果努力过头的话，我可是会坏掉的
+不过到了那个时候，咱俩就携手毁灭网络世界好啦♪
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE028
+糖糖: ……那
+从明天开始，请多多关照咯
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE029
+糖糖: 晚安
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE030
+糖糖: 啾！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE002
+糖糖: 看来你已经登录成功了
+从此一切即将开始……
+我们今后都要永远在一起哦
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE003
+糖糖: 今后我在网络世界里，无论是死了还是坐牢了，还是崩溃了、被害了，可能成为过街老鼠，也可能登上神坛，甚至陷入癫狂……
+不论怎么样，你都要和我在一起哦
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE004
+糖糖: 网络世界真的是一个充满了尸腐臭气的地方
+根本就是现代社会所催生出的地狱
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE005
+糖糖: 可是同时，我又只能活在这样的网络世界里
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE006
+糖糖: 我，早上起不来床！不想出门！
+没法好好上班！害怕生人！
+讨厌大人！同时人脑袋又笨！
+但又想被人捧着！！！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE007
+糖糖: 而现在想被追捧，最好的办法就是成为主播！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE008
+糖糖: 谢谢你帮我准备器材，还有设置软件哦
+阿P
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE008_Option001
+糖糖: 阿P？
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE008_Option002
+糖糖: P～PP！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE009
+糖糖: 没错！从现在开始，你就是“阿P”了！
+因为你是我喜欢的People嘛，所以就叫你“阿P”啦！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE010
+糖糖: 你是愿意毫无道理地支持和理解糖糖这种烂人的人
+也是糖糖全世界第一在乎的恋人……
+还有，P也有“制作人（Producer）”的意思呢！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE011
+糖糖: 因为阿P比我聪明太多了
+所以你要指导我哦
+今后请多多给糖糖指示哦
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE012
+糖糖: 我们一起冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭冲鸭
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE013
+糖糖: 啊哈！
+时间快到了呢……
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE014
+糖糖: 化妆和假发都准备完毕了！完美！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (Before Stream) ID:Day0_JINE015
+糖糖: 那么，我的初次直播……！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE017
+糖糖: 啊～紧张死了……
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE018
+糖糖: 我们两个一起想出来的“超天酱”
+终于，降临在这个世界上了
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE019
+糖糖: 粉丝……涨了一千啊
+这样都得不到什么被捧的感觉
+毕竟现在才刚开始呢
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE020
+糖糖: 想满足我黑洞似的认可欲求
+最少也得有一百万个宅宅围着我转呀
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE021
+糖糖: 大概一个月的时间，胜负就能见分晓吧
+因为凭我的干劲也只能坚持那么久……
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE022
+糖糖: 所以接下来的这一个月，咱们要努力奋斗咯！！
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE023
+糖糖: 我和你的话，一定能够打造厉害的主播吧？
+### Option-0
+User:　可以的
+
+Reply：
+糖糖：阿P，喜翻你！
+Attribute Change: None
+### Option-0
+User:　感觉不太行
+
+Reply：
+糖糖：嗯，反正干就完了
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE026
+糖糖: 希望目标真的能够实现……
+就拜托你咯，阿P
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE027
+糖糖: 如果努力过头的话，我可是会坏掉的
+不过到了那个时候，咱俩就携手毁灭网络世界好啦♪
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE028
+糖糖: ……那
+从明天开始，请多多关照咯
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE029
+糖糖: 晚安
+## 对话
+### Prefix Category_temp:Day 1_ Logged In (After Stream) ID:Day0_JINE030
+糖糖: 啾！

@@ -1,61 +1,289 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_Yandeiru001
 糖糖: 糖糖，是不是还是去死一死比较好……
 ### Option-1
-User:：先别死啊
+User:　先别死啊
 
 Reply：
 糖糖：你这反应好微妙啊……
 Attribute Change: None
 ### Option-2
-User:：要活下去啊！！！
+User:　要活下去啊！！！
 
 Reply：
 糖糖：可是，糖糖又没有活着的价值……
 Attribute Change:  Stress: 1.0 
 ### Option-3
-User:：死～寂
+User:　死～寂
 
 Reply：
 糖糖：诶！！什么人会在这种时候玩梗啊？？？？
 Attribute Change:  Stress: -1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_Yandeiru005
+糖糖: 我还是觉得就算活着也没什么意义呢
 ### Option-2
-User:：糖糖也是有些优点的叭 大概
+User:　糖糖也是有些优点的叭 大概
 
 Reply：
 糖糖：你会不会安慰人啊？！
 Attribute Change: None
 ### Option-2
-User:：你有颜值啊
+User:　你有颜值啊
 
 Reply：
 糖糖：嗯～这倒是，本小姐确实长得比别人美一千倍
 Attribute Change:  Stress: -1.0 
 ### Option-2
-User:：雀食
+User:　雀食
 
 Reply：
 糖糖：(´・8・`)……不是，你居然还同意！
 Attribute Change: None
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_Yandeiru009
+糖糖: 世界上没有一个人愿意爱糖糖
 ### Option-3
-User:：不如砍掉重练吧！
+User:　不如砍掉重练吧！
 
 Reply：
 糖糖：确实！毕竟这辈子也就这样了嘛！啊喂你怎么能叫我去死啊！
 Attribute Change:  Stress: 1.0 
 ### Option-3
-User:：不是还有宅宅们嘛
+User:　不是还有宅宅们嘛
 
 Reply：
 糖糖：诶？那阿P你不爱我吗？！
 Attribute Change:  Stress: 1.0 
 ### Option-3
-User:：你是古独的烈人
+User:　你是古独的烈人
 
 Reply：
 糖糖：那我还是选达尔锡好了……
 Attribute Change:  Stress: -1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_Yandeiru013
+糖糖: 哎，不要贫了，快试着说你爱我
+Reply：
+糖糖：嘿嘿
+那为了你，我就活着好啦
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：讨厌你。没有啦，还是喜欢的……
+Attribute Change:  Stress: 1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Yandeiru001
+糖糖: 糖糖，是不是还是去死一死比较好……
+### Option-1
+User:　先别死啊
+
+Reply：
+糖糖：你这反应好微妙啊……
+Attribute Change: None
+### Option-2
+User:　要活下去啊！！！
+
+Reply：
+糖糖：可是，糖糖又没有活着的价值……
+Attribute Change:  Stress: 1.0 
+### Option-3
+User:　死～寂
+
+Reply：
+糖糖：诶！！什么人会在这种时候玩梗啊？？？？
+Attribute Change:  Stress: -1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Yandeiru005
+糖糖: 我还是觉得就算活着也没什么意义呢
+### Option-2
+User:　糖糖也是有些优点的叭 大概
+
+Reply：
+糖糖：你会不会安慰人啊？！
+Attribute Change: None
+### Option-2
+User:　你有颜值啊
+
+Reply：
+糖糖：嗯～这倒是，本小姐确实长得比别人美一千倍
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:　雀食
+
+Reply：
+糖糖：(´・8・`)……不是，你居然还同意！
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Yandeiru009
+糖糖: 世界上没有一个人愿意爱糖糖
+### Option-3
+User:　不如砍掉重练吧！
+
+Reply：
+糖糖：确实！毕竟这辈子也就这样了嘛！啊喂你怎么能叫我去死啊！
+Attribute Change:  Stress: 1.0 
+### Option-3
+User:　不是还有宅宅们嘛
+
+Reply：
+糖糖：诶？那阿P你不爱我吗？！
+Attribute Change:  Stress: 1.0 
+### Option-3
+User:　你是古独的烈人
+
+Reply：
+糖糖：那我还是选达尔锡好了……
+Attribute Change:  Stress: -1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Yandeiru013
+糖糖: 哎，不要贫了，快试着说你爱我
+Reply：
+糖糖：嘿嘿
+那为了你，我就活着好啦
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：讨厌你。没有啦，还是喜欢的……
+Attribute Change:  Stress: 1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Yandeiru001
+糖糖: 糖糖，是不是还是去死一死比较好……
+### Option-1
+User:　先别死啊
+
+Reply：
+糖糖：你这反应好微妙啊……
+Attribute Change: None
+### Option-2
+User:　要活下去啊！！！
+
+Reply：
+糖糖：可是，糖糖又没有活着的价值……
+Attribute Change:  Stress: 1.0 
+### Option-3
+User:　死～寂
+
+Reply：
+糖糖：诶！！什么人会在这种时候玩梗啊？？？？
+Attribute Change:  Stress: -1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Yandeiru005
+糖糖: 我还是觉得就算活着也没什么意义呢
+### Option-2
+User:　糖糖也是有些优点的叭 大概
+
+Reply：
+糖糖：你会不会安慰人啊？！
+Attribute Change: None
+### Option-2
+User:　你有颜值啊
+
+Reply：
+糖糖：嗯～这倒是，本小姐确实长得比别人美一千倍
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:　雀食
+
+Reply：
+糖糖：(´・8・`)……不是，你居然还同意！
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Yandeiru009
+糖糖: 世界上没有一个人愿意爱糖糖
+### Option-3
+User:　不如砍掉重练吧！
+
+Reply：
+糖糖：确实！毕竟这辈子也就这样了嘛！啊喂你怎么能叫我去死啊！
+Attribute Change:  Stress: 1.0 
+### Option-3
+User:　不是还有宅宅们嘛
+
+Reply：
+糖糖：诶？那阿P你不爱我吗？！
+Attribute Change:  Stress: 1.0 
+### Option-3
+User:　你是古独的烈人
+
+Reply：
+糖糖：那我还是选达尔锡好了……
+Attribute Change:  Stress: -1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Yandeiru013
+糖糖: 哎，不要贫了，快试着说你爱我
+Reply：
+糖糖：嘿嘿
+那为了你，我就活着好啦
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：讨厌你。没有啦，还是喜欢的……
+Attribute Change:  Stress: 1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Yandeiru001
+糖糖: 糖糖，是不是还是去死一死比较好……
+### Option-1
+User:　先别死啊
+
+Reply：
+糖糖：你这反应好微妙啊……
+Attribute Change: None
+### Option-2
+User:　要活下去啊！！！
+
+Reply：
+糖糖：可是，糖糖又没有活着的价值……
+Attribute Change:  Stress: 1.0 
+### Option-3
+User:　死～寂
+
+Reply：
+糖糖：诶！！什么人会在这种时候玩梗啊？？？？
+Attribute Change:  Stress: -1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Yandeiru005
+糖糖: 我还是觉得就算活着也没什么意义呢
+### Option-2
+User:　糖糖也是有些优点的叭 大概
+
+Reply：
+糖糖：你会不会安慰人啊？！
+Attribute Change: None
+### Option-2
+User:　你有颜值啊
+
+Reply：
+糖糖：嗯～这倒是，本小姐确实长得比别人美一千倍
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:　雀食
+
+Reply：
+糖糖：(´・8・`)……不是，你居然还同意！
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Yandeiru009
+糖糖: 世界上没有一个人愿意爱糖糖
+### Option-3
+User:　不如砍掉重练吧！
+
+Reply：
+糖糖：确实！毕竟这辈子也就这样了嘛！啊喂你怎么能叫我去死啊！
+Attribute Change:  Stress: 1.0 
+### Option-3
+User:　不是还有宅宅们嘛
+
+Reply：
+糖糖：诶？那阿P你不爱我吗？！
+Attribute Change:  Stress: 1.0 
+### Option-3
+User:　你是古独的烈人
+
+Reply：
+糖糖：那我还是选达尔锡好了……
+Attribute Change:  Stress: -1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Yandeiru013
+糖糖: 哎，不要贫了，快试着说你爱我
 Reply：
 糖糖：嘿嘿
 那为了你，我就活着好啦

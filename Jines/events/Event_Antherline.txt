@@ -1,6 +1,25 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Affection 61+ ID:Event_Antherline_JINE001
 糖糖: 你看～咱俩感情这么好～
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Affection 61+ ID:Event_Antherline_JINE002
+糖糖: 开个情侣号直播秀恩爱，你觉得怎么样？！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_Antherline_JINE001
+糖糖: 你看～咱俩感情这么好～
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_Antherline_JINE002
+糖糖: 开个情侣号直播秀恩爱，你觉得怎么样？！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_Antherline_JINE001
+糖糖: 你看～咱俩感情这么好～
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_Antherline_JINE002
+糖糖: 开个情侣号直播秀恩爱，你觉得怎么样？！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_Antherline_JINE001
+糖糖: 你看～咱俩感情这么好～
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_Antherline_JINE002
 糖糖: 开个情侣号直播秀恩爱，你觉得怎么样？！

@@ -1,147 +1,624 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Day 15 Night: Breakdown ID:Event_Dialog_JINE001
 糖糖: 我问你哦，我真的可以就这样活下去吗？
 ### Option-1
-User:：怎么了啊？
+User:　怎么了啊？
 Attribute Change:  Stress: -1.0 
 Reply：
 糖糖：嗯，我想了很多，你听我说说嘛
 Attribute Change: None
 ### Option-2
-User:：真的可以呀
+User:　真的可以呀
 Attribute Change:  Stress: 1.0 
 Reply：
 糖糖：我还什么都没说呢，你不要这么敷衍……
 Attribute Change: None
 ### Option-3
-User:：还是死了比较好
+User:　还是死了比较好
 
 Reply：
 糖糖：我就知道……
 Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 15 Night: Breakdown ID:Event_Dialog_JINE002
+糖糖: 大家真的需要我吗 其实谁来都可以吧 不需要是我也没关系的吧
 ### Option-2
-User:：对没错
+User:　对没错
 Attribute Change:  Stress: -1.0 
 Reply：
 糖糖：别说这样的话啊！可是，我还是喜欢愿意和这样的我在一起的阿P……
 Attribute Change: None
 ### Option-2
-User:：没这回事
+User:　没这回事
 
 Reply：
 糖糖：你又只是嘴上说说……
 Attribute Change: None
 ### Option-2
-User:：还是死了比较好
+User:　还是死了比较好
 
 Reply：
 糖糖：果然啊。虽然我不会去死啦。。。……
 Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 15 Night: Breakdown ID:Event_Dialog_JINE003
+糖糖: 阿P，你真的是因为我是我，才会喜欢我的吗？
 ### Option-3
-User:：那还用说
+User:　那还用说
 Attribute Change:  Stress: -1.0 
 Reply：
 糖糖：是吗……也对哦
 Attribute Change: None
 ### Option-3
-User:：其实谁都行
+User:　其实谁都行
 Attribute Change:  Stress: 1.0 
 Reply：
 糖糖：这样啊……那祝你找到比我更好看的女人
 Attribute Change: None
 ### Option-3
-User:：或许是吧
+User:　或许是吧
 
 Reply：
 糖糖：我会让你更有底气的！所以你要一直看着我啊
 Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 15 Night: Breakdown ID:Event_Dialog_JINE004
+糖糖: 大家到底是喜欢我哪里啊？
 ### Option-4
-User:：脸
+User:　脸
 Attribute Change:  Stress: -1.0 
 Reply：
 糖糖：我就知道。还好老娘颜值最强。你这样说我就有自信了
 Attribute Change: None
 ### Option-4
-User:：一切
+User:　一切
 Attribute Change:  Stress: 1.0 
 Reply：
 糖糖：不会有人喜欢我这种残次品的一切的啦
 Attribute Change: None
 ### Option-4
-User:：下半身
+User:　下半身
 
 Reply：
 糖糖：来骗炮的guna？！！！
 Attribute Change: None
 ### Option-5
-User:：没什么不行吧？
+User:　没什么不行吧？
 Attribute Change:  Stress: -1.0 
 Reply：
 糖糖：你怎么能这么敷衍……都害我笑了。用这么轻松的态度也就可以了吧。谢谢阿P，爱你
 Attribute Change: None
 ### Option-5
-User:：不可以
+User:　不可以
 Attribute Change:  Stress: 1.0 
 Reply：
 糖糖：是吗……活在世上真是对不起。我会用死来表达歉意的
 Attribute Change: None
 ### Option-5
-User:：活下去
+User:　活下去
 
 Reply：
 糖糖：你这样说我好难过……活下去真的好难啊……
 Attribute Change: None
 ### Option-6
-User:：喜欢啊
+User:　喜欢啊
 Attribute Change:  Stress: -1.0 
 Reply：
 糖糖：我也喜欢阿P！！！！！
 Attribute Change: None
 ### Option-6
-User:：喜欢吧
+User:　喜欢吧
 Attribute Change:  Stress: 1.0 
 Reply：
 糖糖：给我坚定点啊！！！！
 Attribute Change: None
 ### Option-6
-User:：讨厌
+User:　讨厌
 
 Reply：
 糖糖：喂喂喂喂喂？！！！！
 Attribute Change: None
 ### Option-7
-User:：真的超超喜欢
+User:　真的超超喜欢
 Attribute Change:  Stress: -1.0 
 Reply：
 糖糖：我也超超喜欢阿P的！！！！
 Attribute Change: None
 ### Option-7
-User:：超超喜欢
+User:　超超喜欢
 Attribute Change:  Stress: 1.0 
 Reply：
 糖糖：「真的」俩字丢哪去了！原来你其实不是这么想的……
 Attribute Change: None
 ### Option-7
-User:：真的喜欢
+User:　真的喜欢
 
 Reply：
 糖糖：怎么没有超字！！！！
 Attribute Change: None
 ### Option-8
-User:：以当代互联网小天使的身份活下去
+User:　以当代互联网小天使的身份活下去
 Attribute Change:  Stress: -1.0 
 Reply：
 糖糖：我就知道。毕竟有这么多需要我的粉丝在嘛。我还得把网络环境变得更好才行……阿P，今后也继续一起加油吧！
 Attribute Change: None
 ### Option-8
-User:：真的超超喜欢
+User:　真的超超喜欢
 
 Reply：
 糖糖：不要模棱两可的！！！我根本听不懂！
 Attribute Change:  Stress: 1.0 
 ### Option-8
-User:：自杀
+User:　自杀
+
+Reply：
+糖糖：……都说到这一步了居然叫我自杀吗喂——？！！！笨蛋！！
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 15 Night_ Breakdown ID:Event_Dialog_JINE001
+糖糖: 我问你哦，我真的可以就这样活下去吗？
+### Option-1
+User:　怎么了啊？
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：嗯，我想了很多，你听我说说嘛
+Attribute Change: None
+### Option-2
+User:　真的可以呀
+Attribute Change:  Stress: 1.0 
+Reply：
+糖糖：我还什么都没说呢，你不要这么敷衍……
+Attribute Change: None
+### Option-3
+User:　还是死了比较好
+
+Reply：
+糖糖：我就知道……
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 15 Night_ Breakdown ID:Event_Dialog_JINE002
+糖糖: 大家真的需要我吗 其实谁来都可以吧 不需要是我也没关系的吧
+### Option-2
+User:　对没错
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：别说这样的话啊！可是，我还是喜欢愿意和这样的我在一起的阿P……
+Attribute Change: None
+### Option-2
+User:　没这回事
+
+Reply：
+糖糖：你又只是嘴上说说……
+Attribute Change: None
+### Option-2
+User:　还是死了比较好
+
+Reply：
+糖糖：果然啊。虽然我不会去死啦。。。……
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 15 Night_ Breakdown ID:Event_Dialog_JINE003
+糖糖: 阿P，你真的是因为我是我，才会喜欢我的吗？
+### Option-3
+User:　那还用说
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：是吗……也对哦
+Attribute Change: None
+### Option-3
+User:　其实谁都行
+Attribute Change:  Stress: 1.0 
+Reply：
+糖糖：这样啊……那祝你找到比我更好看的女人
+Attribute Change: None
+### Option-3
+User:　或许是吧
+
+Reply：
+糖糖：我会让你更有底气的！所以你要一直看着我啊
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 15 Night_ Breakdown ID:Event_Dialog_JINE004
+糖糖: 大家到底是喜欢我哪里啊？
+### Option-4
+User:　脸
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：我就知道。还好老娘颜值最强。你这样说我就有自信了
+Attribute Change: None
+### Option-4
+User:　一切
+Attribute Change:  Stress: 1.0 
+Reply：
+糖糖：不会有人喜欢我这种残次品的一切的啦
+Attribute Change: None
+### Option-4
+User:　下半身
+
+Reply：
+糖糖：来骗炮的guna？！！！
+Attribute Change: None
+### Option-5
+User:　没什么不行吧？
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：你怎么能这么敷衍……都害我笑了。用这么轻松的态度也就可以了吧。谢谢阿P，爱你
+Attribute Change: None
+### Option-5
+User:　不可以
+Attribute Change:  Stress: 1.0 
+Reply：
+糖糖：是吗……活在世上真是对不起。我会用死来表达歉意的
+Attribute Change: None
+### Option-5
+User:　活下去
+
+Reply：
+糖糖：你这样说我好难过……活下去真的好难啊……
+Attribute Change: None
+### Option-6
+User:　喜欢啊
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：我也喜欢阿P！！！！！
+Attribute Change: None
+### Option-6
+User:　喜欢吧
+Attribute Change:  Stress: 1.0 
+Reply：
+糖糖：给我坚定点啊！！！！
+Attribute Change: None
+### Option-6
+User:　讨厌
+
+Reply：
+糖糖：喂喂喂喂喂？！！！！
+Attribute Change: None
+### Option-7
+User:　真的超超喜欢
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：我也超超喜欢阿P的！！！！
+Attribute Change: None
+### Option-7
+User:　超超喜欢
+Attribute Change:  Stress: 1.0 
+Reply：
+糖糖：「真的」俩字丢哪去了！原来你其实不是这么想的……
+Attribute Change: None
+### Option-7
+User:　真的喜欢
+
+Reply：
+糖糖：怎么没有超字！！！！
+Attribute Change: None
+### Option-8
+User:　以当代互联网小天使的身份活下去
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：我就知道。毕竟有这么多需要我的粉丝在嘛。我还得把网络环境变得更好才行……阿P，今后也继续一起加油吧！
+Attribute Change: None
+### Option-8
+User:　坚强地活下去
+
+Reply：
+糖糖：不要模棱两可的！！！我根本听不懂！
+Attribute Change:  Stress: 1.0 
+### Option-8
+User:　自杀
+
+Reply：
+糖糖：……都说到这一步了居然叫我自杀吗喂——？！！！笨蛋！！
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 15 Night_ Breakdown ID:Event_Dialog_JINE001
+糖糖: 我问你哦，我真的可以就这样活下去吗？
+### Option-1
+User:　怎么了啊？
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：嗯，我想了很多，你听我说说嘛
+Attribute Change: None
+### Option-2
+User:　真的可以呀
+Attribute Change:  Stress: 1.0 
+Reply：
+糖糖：我还什么都没说呢，你不要这么敷衍……
+Attribute Change: None
+### Option-3
+User:　还是死了比较好
+
+Reply：
+糖糖：我就知道……
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 15 Night_ Breakdown ID:Event_Dialog_JINE002
+糖糖: 大家真的需要我吗 其实谁来都可以吧 不需要是我也没关系的吧
+### Option-2
+User:　对没错
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：别说这样的话啊！可是，我还是喜欢愿意和这样的我在一起的阿P……
+Attribute Change: None
+### Option-2
+User:　没这回事
+
+Reply：
+糖糖：你又只是嘴上说说……
+Attribute Change: None
+### Option-2
+User:　还是死了比较好
+
+Reply：
+糖糖：果然啊。虽然我不会去死啦。。。……
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 15 Night_ Breakdown ID:Event_Dialog_JINE003
+糖糖: 阿P，你真的是因为我是我，才会喜欢我的吗？
+### Option-3
+User:　那还用说
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：是吗……也对哦
+Attribute Change: None
+### Option-3
+User:　其实谁都行
+Attribute Change:  Stress: 1.0 
+Reply：
+糖糖：这样啊……那祝你找到比我更好看的女人
+Attribute Change: None
+### Option-3
+User:　或许是吧
+
+Reply：
+糖糖：我会让你更有底气的！所以你要一直看着我啊
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 15 Night_ Breakdown ID:Event_Dialog_JINE004
+糖糖: 大家到底是喜欢我哪里啊？
+### Option-4
+User:　脸
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：我就知道。还好老娘颜值最强。你这样说我就有自信了
+Attribute Change: None
+### Option-4
+User:　一切
+Attribute Change:  Stress: 1.0 
+Reply：
+糖糖：不会有人喜欢我这种残次品的一切的啦
+Attribute Change: None
+### Option-4
+User:　下半身
+
+Reply：
+糖糖：来骗炮的guna？！！！
+Attribute Change: None
+### Option-5
+User:　没什么不行吧？
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：你怎么能这么敷衍……都害我笑了。用这么轻松的态度也就可以了吧。谢谢阿P，爱你
+Attribute Change: None
+### Option-5
+User:　不可以
+Attribute Change:  Stress: 1.0 
+Reply：
+糖糖：是吗……活在世上真是对不起。我会用死来表达歉意的
+Attribute Change: None
+### Option-5
+User:　活下去
+
+Reply：
+糖糖：你这样说我好难过……活下去真的好难啊……
+Attribute Change: None
+### Option-6
+User:　喜欢啊
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：我也喜欢阿P！！！！！
+Attribute Change: None
+### Option-6
+User:　喜欢吧
+Attribute Change:  Stress: 1.0 
+Reply：
+糖糖：给我坚定点啊！！！！
+Attribute Change: None
+### Option-6
+User:　讨厌
+
+Reply：
+糖糖：喂喂喂喂喂？！！！！
+Attribute Change: None
+### Option-7
+User:　真的超超喜欢
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：我也超超喜欢阿P的！！！！
+Attribute Change: None
+### Option-7
+User:　超超喜欢
+Attribute Change:  Stress: 1.0 
+Reply：
+糖糖：「真的」俩字丢哪去了！原来你其实不是这么想的……
+Attribute Change: None
+### Option-7
+User:　真的喜欢
+
+Reply：
+糖糖：怎么没有超字！！！！
+Attribute Change: None
+### Option-8
+User:　以当代互联网小天使的身份活下去
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：我就知道。毕竟有这么多需要我的粉丝在嘛。我还得把网络环境变得更好才行……阿P，今后也继续一起加油吧！
+Attribute Change: None
+### Option-8
+User:　坚强地活下去
+
+Reply：
+糖糖：不要模棱两可的！！！我根本听不懂！
+Attribute Change:  Stress: 1.0 
+### Option-8
+User:　自杀
+
+Reply：
+糖糖：……都说到这一步了居然叫我自杀吗喂——？！！！笨蛋！！
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 15 Night_ Breakdown ID:Event_Dialog_JINE001
+糖糖: 我问你哦，我真的可以就这样活下去吗？
+### Option-1
+User:　怎么了啊？
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：嗯，我想了很多，你听我说说嘛
+Attribute Change: None
+### Option-2
+User:　真的可以呀
+Attribute Change:  Stress: 1.0 
+Reply：
+糖糖：我还什么都没说呢，你不要这么敷衍……
+Attribute Change: None
+### Option-3
+User:　还是死了比较好
+
+Reply：
+糖糖：我就知道……
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 15 Night_ Breakdown ID:Event_Dialog_JINE002
+糖糖: 大家真的需要我吗 其实谁来都可以吧 不需要是我也没关系的吧
+### Option-2
+User:　对没错
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：别说这样的话啊！可是，我还是喜欢愿意和这样的我在一起的阿P……
+Attribute Change: None
+### Option-2
+User:　没这回事
+
+Reply：
+糖糖：你又只是嘴上说说……
+Attribute Change: None
+### Option-2
+User:　还是死了比较好
+
+Reply：
+糖糖：果然啊。虽然我不会去死啦。。。……
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 15 Night_ Breakdown ID:Event_Dialog_JINE003
+糖糖: 阿P，你真的是因为我是我，才会喜欢我的吗？
+### Option-3
+User:　那还用说
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：是吗……也对哦
+Attribute Change: None
+### Option-3
+User:　其实谁都行
+Attribute Change:  Stress: 1.0 
+Reply：
+糖糖：这样啊……那祝你找到比我更好看的女人
+Attribute Change: None
+### Option-3
+User:　或许是吧
+
+Reply：
+糖糖：我会让你更有底气的！所以你要一直看着我啊
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Day 15 Night_ Breakdown ID:Event_Dialog_JINE004
+糖糖: 大家到底是喜欢我哪里啊？
+### Option-4
+User:　脸
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：我就知道。还好老娘颜值最强。你这样说我就有自信了
+Attribute Change: None
+### Option-4
+User:　一切
+Attribute Change:  Stress: 1.0 
+Reply：
+糖糖：不会有人喜欢我这种残次品的一切的啦
+Attribute Change: None
+### Option-4
+User:　下半身
+
+Reply：
+糖糖：来骗炮的guna？！！！
+Attribute Change: None
+### Option-5
+User:　没什么不行吧？
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：你怎么能这么敷衍……都害我笑了。用这么轻松的态度也就可以了吧。谢谢阿P，爱你
+Attribute Change: None
+### Option-5
+User:　不可以
+Attribute Change:  Stress: 1.0 
+Reply：
+糖糖：是吗……活在世上真是对不起。我会用死来表达歉意的
+Attribute Change: None
+### Option-5
+User:　活下去
+
+Reply：
+糖糖：你这样说我好难过……活下去真的好难啊……
+Attribute Change: None
+### Option-6
+User:　喜欢啊
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：我也喜欢阿P！！！！！
+Attribute Change: None
+### Option-6
+User:　喜欢吧
+Attribute Change:  Stress: 1.0 
+Reply：
+糖糖：给我坚定点啊！！！！
+Attribute Change: None
+### Option-6
+User:　讨厌
+
+Reply：
+糖糖：喂喂喂喂喂？！！！！
+Attribute Change: None
+### Option-7
+User:　真的超超喜欢
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：我也超超喜欢阿P的！！！！
+Attribute Change: None
+### Option-7
+User:　超超喜欢
+Attribute Change:  Stress: 1.0 
+Reply：
+糖糖：「真的」俩字丢哪去了！原来你其实不是这么想的……
+Attribute Change: None
+### Option-7
+User:　真的喜欢
+
+Reply：
+糖糖：怎么没有超字！！！！
+Attribute Change: None
+### Option-8
+User:　以当代互联网小天使的身份活下去
+Attribute Change:  Stress: -1.0 
+Reply：
+糖糖：我就知道。毕竟有这么多需要我的粉丝在嘛。我还得把网络环境变得更好才行……阿P，今后也继续一起加油吧！
+Attribute Change: None
+### Option-8
+User:　坚强地活下去
+
+Reply：
+糖糖：不要模棱两可的！！！我根本听不懂！
+Attribute Change:  Stress: 1.0 
+### Option-8
+User:　自杀
 
 Reply：
 糖糖：……都说到这一步了居然叫我自杀吗喂——？！！！笨蛋！！

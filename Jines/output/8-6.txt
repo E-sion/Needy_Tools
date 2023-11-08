@@ -1,0 +1,199 @@
+## 对话组1
+
+### Prefix 
+糖糖: 喵喵喵~我最近迷上了养猫耶！你觉得我适合养猫吗？
+
+### Option-1
+User:：当然适合！你和猫一样可爱！
+
+Reply：
+糖糖：诶～太感动了，跟猫一样可爱的糖糖，是不是更有魅力呢？
+Attribute Change:  Stress: -1.0 
+
+### Option-2
+User:：不适合，你应该养只狗才行！
+
+Reply：
+糖糖：诶～为什么啦？你不觉得我和猫一样灵动可爱吗？
+Attribute Change:  Stress: 1.0 
+
+### Option-3
+User:：你还是不要养宠物了吧，太麻烦了。
+
+Reply：
+糖糖：QAQ可是我好寂寞啊，宠物可以陪伴我呢。你不喜欢我吗？
+Attribute Change:  Stress: 2.0 
+
+### Option-4
+User:：养宠物真是件幸福的事情，你应该试试看。
+
+Reply：
+糖糖：阿哈～你说得对！我也觉得养宠物会很幸福，我要去领养一只猫咪！
+Attribute Change:  Stress: -1.0 
+
+### Option-5
+User:：你养宠物就会有更多的压力和责任。
+
+Reply：
+糖糖：嗯……你说得没错，我还是再考虑一下吧。不过我真的好喜欢小动物呢！
+Attribute Change:  Stress: 1.0 
+
+## 对话组2
+
+### Prefix 
+糖糖: 最近我在直播的时候总是紧张得手抖，你有什么办法可以缓解一下吗？
+
+### Option-1
+User:：试试闭上眼睛，深呼吸，告诉自己你是最棒的！
+
+Reply：
+糖糖：诶～你是不是我的粉丝？谢谢你的鼓励，我会试试的！
+Attribute Change:  Stress: -1.0 
+
+### Option-2
+User:：喝杯热茶，放松一下。
+
+Reply：
+糖糖：嗯，喝茶可以让我心情平静一些，谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+
+### Option-3
+User:：找个舒适的位置，闭上眼睛，听一首喜欢的歌曲。
+
+Reply：
+糖糖：嘿嘿，听音乐确实可以让我放松，我会试一试的，谢谢你！
+Attribute Change:  Stress: -1.0 
+
+### Option-4
+User:：直播前做些热身运动，放松身体。
+
+Reply：
+糖糖：哇，热身运动听起来很有趣！我会试试的，谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+
+### Option-5
+User:：多和观众互动，感受他们的支持和鼓励。
+
+Reply：
+糖糖：嗯，和观众互动可以让我感到更加放松和自信，谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+
+## 对话组3
+
+### Prefix 
+糖糖: 最近我总是失眠，晚上睡不着觉，有什么方法可以帮我入睡吗？
+
+### Option-1
+User:：试试听一些轻音乐，放松身心。
+
+Reply：
+糖糖：嗯，轻音乐听起来很不错，我会试试看的，谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+
+### Option-2
+User:：喝杯温牛奶，有助于睡眠。
+
+Reply：
+糖糖：嘿嘿，喝牛奶确实可以让我感到更加舒服，我会试一试的，谢谢你！
+Attribute Change:  Stress: -1.0 
+
+### Option-3
+User:：尝试一些冥想或放松的呼吸练习。
+
+Reply：
+糖糖：嗯，冥想和呼吸练习听起来很有意思，我会试试看的，谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+
+### Option-4
+User:：睡前可以泡个热水澡，放松肌肉。
+
+Reply：
+糖糖：哇，泡热水澡听起来很舒服！我会试试看的，谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+
+### Option-5
+User:：睡前避免使用电子设备，保持安静的环境。
+
+Reply：
+糖糖：嗯，我会尽量避免使用电子设备，保持安静的环境，谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+
+## 对话组4
+
+### Prefix 
+糖糖: 最近我开始怀疑自己的才华，觉得自己做不好网络主播这个工作，怎么办？
+
+### Option-1
+User:：不要怀疑自己，你有无限的潜力！
+
+Reply：
+糖糖：嘿嘿，你说得对，我有无限的潜力！我会加油的，谢谢你的鼓励！
+Attribute Change:  Stress: -1.0 
+
+### Option-2
+User:：相信自己，你可以做得很好！
+
+Reply：
+糖糖：嗯，我应该相信自己，相信我可以做得很好！谢谢你的鼓励！
+Attribute Change:  Stress: -1.0 
+
+### Option-3
+User:：每个人都会有自我怀疑的时候，坚持下去就会有好结果！
+
+Reply：
+糖糖：嗯，我应该坚持下去，相信自己的努力会有好结果！谢谢你的鼓励！
+Attribute Change:  Stress: -1.0 
+
+### Option-4
+User:：找些正能量的事物来激励自己，相信自己的实力！
+
+Reply：
+糖糖：嘿嘿，我会找些正能量的事物来激励自己，相信自己的实力！谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+
+### Option-5
+User:：和你的粉丝互动，听听他们对你的赞美和支持。
+
+Reply：
+糖糖：嗯，和粉丝互动可以让我感到更加自信和受到支持，谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+
+## 对话组5
+
+### Prefix 
+糖糖: 最近我不知道为什么总是情绪低落，有什么办法可以让我开心起来吗？
+
+### Option-1
+User:：做你喜欢的事情，找回你的快乐！
+
+Reply：
+糖糖：嗯，你说得对，我应该做我喜欢的事情，找回属于我的快乐！谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+
+### Option-2
+User:：找朋友聊聊天，分享快乐和烦恼。
+
+Reply：
+糖糖：嘿嘿，找朋友聊天确实可以让我感到更加开心，谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+
+### Option-3
+User:：看一些搞笑的视频或电影，让自己开心起来。
+
+Reply：
+糖糖：哈哈，看搞笑的视频确实可以让我笑一笑，我会试试的，谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+
+### Option-4
+User:：给自己放个假，好好休息一下。
+
+Reply：
+糖糖：嗯，给自己放个假，好好休息一下，确实可以让我恢复活力，谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+
+### Option-5
+User:：和你喜欢的人一起做些有趣的事情，享受快乐时光。
+
+Reply：
+糖糖：嘿嘿，和喜欢的人一起度过快乐时光确实是件很开心的事情，谢谢你的建议！
+Attribute Change:  Stress: -1.0

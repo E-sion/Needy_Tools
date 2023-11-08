@@ -1,15 +1,73 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_Hairstyle_JINE001
 糖糖: 想换个发型了，阿P喜欢什么样子的糖糖？
 ### Option-1
-User:：侧马尾
+User:　侧马尾
 
 ### Option-2
-User:：单马尾
+User:　单马尾
 
 ### Option-3
-User:：散发
+User:　散发
 
 ### Option-4
-User:：钻头发型
+User:　钻头发型
+
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Hairstyle_JINE001
+糖糖: 想换个发型了，阿P喜欢什么样子的糖糖？
+### Option-1
+User:　侧马尾
+
+### Option-2
+User:　单马尾
+
+### Option-3
+User:　散发
+
+### Option-4
+User:　钻头发型
+
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Hairstyle_JINE001
+糖糖: 想换个发型了，阿P喜欢什么样子的糖糖？
+### Option-1
+User:　侧马尾
+
+### Option-2
+User:　单马尾
+
+### Option-3
+User:　散发
+
+### Option-4
+User:　钻头发型
+
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Hairstyle_JINE001
+糖糖: 想换个发型了，阿P喜欢什么样子的糖糖？
+### Option-1
+User:　侧马尾
+
+### Option-2
+User:　单马尾
+
+### Option-3
+User:　散发
+
+### Option-4
+User:　钻头发型
+
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:nan
+糖糖: nan

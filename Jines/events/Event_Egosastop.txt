@@ -1,8 +1,37 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 61+ ID:Event_Egosastop_JINE001
 糖糖: 昨天搜自己的时候看到别人喷我，到了今天突然难受起来了…………
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 61+ ID:Event_Egosastop_JINE002
 糖糖: 好难过好难过
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 61+ ID:Event_Egosastop_JINE003
+糖糖: 这些傻逼黑子明明只是一群家里蹲恶心死宅……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Egosastop_JINE001
+糖糖: 昨天搜自己的时候看到别人喷我，到了今天突然难受起来了…………
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Egosastop_JINE002
+糖糖: 好难过好难过
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Egosastop_JINE003
+糖糖: 这些傻逼黑子明明只是一群家里蹲恶心死宅……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Egosastop_JINE001
+糖糖: 昨天搜自己的时候看到别人喷我，到了今天突然难受起来了…………
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Egosastop_JINE002
+糖糖: 好难过好难过
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Egosastop_JINE003
+糖糖: 这些傻逼黑子明明只是一群家里蹲恶心死宅……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Egosastop_JINE001
+糖糖: 昨天搜自己的时候看到别人喷我，到了今天突然难受起来了…………
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Egosastop_JINE002
+糖糖: 好难过好难过
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Egosastop_JINE003
 糖糖: 这些傻逼黑子明明只是一群家里蹲恶心死宅……

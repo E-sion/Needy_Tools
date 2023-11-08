@@ -1,17 +1,72 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Day 5: Wishlist ID:Event_Wishlist_JINE001
 糖糖: 我要搞自己的心愿单了
-##
+## 对话
+### Prefix Category_temp:Day 5: Wishlist ID:Event_Wishlist_JINE002
 糖糖: 然后本糖允许阿P来想要往里加什么东西
 ### Option-1
-User:：沐浴球
+User:　沐浴球
 
 ### Option-2
-User:：cos服
+User:　cos服
 
 ### Option-3
-User:：很贵的话筒
+User:　很贵的话筒
 
 ### Option-4
-User:：媚药
+User:　媚药
+
+## 对话
+### Prefix Category_temp:Day 5_ Wishlist ID:Event_Wishlist_JINE001
+糖糖: 我要搞自己的心愿单了
+## 对话
+### Prefix Category_temp:Day 5_ Wishlist ID:Event_Wishlist_JINE002
+糖糖: 然后本糖允许阿P来想要往里加什么东西
+### Option-1
+User:　沐浴球
+
+### Option-2
+User:　cos服
+
+### Option-3
+User:　很贵的话筒
+
+### Option-4
+User:　媚药
+
+## 对话
+### Prefix Category_temp:Day 5_ Wishlist ID:Event_Wishlist_JINE001
+糖糖: 我要搞自己的心愿单了
+## 对话
+### Prefix Category_temp:Day 5_ Wishlist ID:Event_Wishlist_JINE002
+糖糖: 然后本糖允许阿P来想要往里加什么东西
+### Option-1
+User:　沐浴球
+
+### Option-2
+User:　cos服
+
+### Option-3
+User:　很贵的话筒
+
+### Option-4
+User:　媚药
+
+## 对话
+### Prefix Category_temp:Day 5_ Wishlist ID:Event_Wishlist_JINE001
+糖糖: 我要搞自己的心愿单了
+## 对话
+### Prefix Category_temp:Day 5_ Wishlist ID:Event_Wishlist_JINE002
+糖糖: 然后本糖允许阿P来想要往里加什么东西
+### Option-1
+User:　沐浴球
+
+### Option-2
+User:　cos服
+
+### Option-3
+User:　很贵的话筒
+
+### Option-4
+User:　媚药

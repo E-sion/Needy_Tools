@@ -1,10 +1,49 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 61+ ID:Event_Limit_JINE001
 糖糖: 事到如今真的想休息一下了……
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 61+ ID:Event_Limit_JINE002
 糖糖: 无论阿P说什么，我都受不了了！！
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 61+ ID:Event_Limit_JINE003
 糖糖: 到极限了
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 61+ ID:Event_Limit_JINE004
+糖糖: 我今天什～～～么都不想干
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Limit_JINE001
+糖糖: 事到如今真的想休息一下了……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Limit_JINE002
+糖糖: 无论阿P说什么，我都受不了了！！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Limit_JINE003
+糖糖: 到极限了
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Limit_JINE004
+糖糖: 我今天什～～～么都不想干
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Limit_JINE001
+糖糖: 事到如今真的想休息一下了……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Limit_JINE002
+糖糖: 无论阿P说什么，我都受不了了！！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Limit_JINE003
+糖糖: 到极限了
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Limit_JINE004
+糖糖: 我今天什～～～么都不想干
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Limit_JINE001
+糖糖: 事到如今真的想休息一下了……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Limit_JINE002
+糖糖: 无论阿P说什么，我都受不了了！！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Limit_JINE003
+糖糖: 到极限了
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Limit_JINE004
 糖糖: 我今天什～～～么都不想干

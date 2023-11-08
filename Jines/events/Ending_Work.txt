@@ -1,45 +1,204 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Ending: Labor Is Evil ID:Ending_Futaride_JINE001
 糖糖: 虽然我们俩已经很努力了，但我好像还是成不了一个合格的主播
-##
+## 对话
+### Prefix Category_temp:Ending: Labor Is Evil ID:Ending_Futaride_JINE002
 糖糖: 以后我们俩就靠着认真工作一起过日子吧
-##
+## 对话
+### Prefix Category_temp:Ending: Labor Is Evil ID:Ending_Futaride_JINE003
 糖糖: 你愿意对我这样的废物不离不弃吗？
-##
+## 对话
+### Prefix Category_temp:Ending: Labor Is Evil ID:Ending_Futaride_JINE004
 糖糖: 打工好累啊~
 ### Option-1
-User:：辛苦了
+User:　辛苦了
 
 ### Option-2
-User:：有碎碎冰哦
+User:　有碎碎冰哦
 
 ### Option-3
-User:：肚子饿了吧
+User:　肚子饿了吧
+
+## 对话
+### Prefix Category_temp:Ending: Labor Is Evil ID:Ending_Futaride_JINE005
+糖糖: 今天会晚点到家~
+### Option-2
+User:　给你下碗拉面吧
 
 ### Option-2
-User:：给你下碗拉面吧
+User:　我来煮咖喱吧
 
 ### Option-2
-User:：我来煮咖喱吧
-
-### Option-2
-User:：你顺便买点菜回来
+User:　你顺便买点菜回来
 
 ### Option-3
-User:：什么时候回家？
+User:　什么时候回家？
 
 ### Option-3
-User:：不早了吧？
+User:　不早了吧？
 
 ### Option-3
-User:：出什么事了吗？
+User:　出什么事了吗？
 
 ### Option-4
-User:：喂～
+User:　喂～
 
 ### Option-4
-User:：真的有点晚了哦
+User:　真的有点晚了哦
 
 ### Option-4
-User:：喂，你回来啊
+User:　喂，你回来啊
+
+## 对话
+### Prefix Category_temp:Ending_ Labor Is Evil ID:Ending_Futaride_JINE001
+糖糖: 虽然我们俩已经很努力了，但我好像还是成不了一个合格的主播
+## 对话
+### Prefix Category_temp:Ending_ Labor Is Evil ID:Ending_Futaride_JINE002
+糖糖: 以后我们俩就靠着认真工作一起过日子吧
+## 对话
+### Prefix Category_temp:Ending_ Labor Is Evil ID:Ending_Futaride_JINE003
+糖糖: 你愿意对我这样的废物不离不弃吗？
+## 对话
+### Prefix Category_temp:Ending_ Labor Is Evil ID:Ending_Futaride_JINE004
+糖糖: 打工好累啊~
+### Option-1
+User:　辛苦了
+
+### Option-2
+User:　有碎碎冰哦
+
+### Option-3
+User:　肚子饿了吧
+
+## 对话
+### Prefix Category_temp:Ending_ Labor Is Evil ID:Ending_Futaride_JINE005
+糖糖: 今天会晚点到家~
+### Option-2
+User:　给你下碗拉面吧
+
+### Option-2
+User:　我来煮咖喱吧
+
+### Option-2
+User:　你顺便买点菜回来
+
+### Option-3
+User:　什么时候回家？
+
+### Option-3
+User:　不早了吧？
+
+### Option-3
+User:　出什么事了吗？
+
+### Option-4
+User:　喂～
+
+### Option-4
+User:　真的有点晚了哦
+
+### Option-4
+User:　喂，你回来啊
+
+## 对话
+### Prefix Category_temp:Ending_ Labor Is Evil ID:Ending_Futaride_JINE001
+糖糖: 虽然我们俩已经很努力了，但我好像还是成不了一个合格的主播
+## 对话
+### Prefix Category_temp:Ending_ Labor Is Evil ID:Ending_Futaride_JINE002
+糖糖: 以后我们俩就靠着认真工作一起过日子吧
+## 对话
+### Prefix Category_temp:Ending_ Labor Is Evil ID:Ending_Futaride_JINE003
+糖糖: 你愿意对我这样的废物不离不弃吗？
+## 对话
+### Prefix Category_temp:Ending_ Labor Is Evil ID:Ending_Futaride_JINE004
+糖糖: 打工好累啊~
+### Option-1
+User:　辛苦了
+
+### Option-2
+User:　有碎碎冰哦
+
+### Option-3
+User:　肚子饿了吧
+
+## 对话
+### Prefix Category_temp:Ending_ Labor Is Evil ID:Ending_Futaride_JINE005
+糖糖: 今天会晚点到家~
+### Option-2
+User:　给你下碗拉面吧
+
+### Option-2
+User:　我来煮咖喱吧
+
+### Option-2
+User:　你顺便买点菜回来
+
+### Option-3
+User:　什么时候回家？
+
+### Option-3
+User:　不早了吧？
+
+### Option-3
+User:　出什么事了吗？
+
+### Option-4
+User:　喂～
+
+### Option-4
+User:　真的有点晚了哦
+
+### Option-4
+User:　喂，你回来啊
+
+## 对话
+### Prefix Category_temp:Ending_ Labor Is Evil ID:Ending_Futaride_JINE001
+糖糖: 虽然我们俩已经很努力了，但我好像还是成不了一个合格的主播
+## 对话
+### Prefix Category_temp:Ending_ Labor Is Evil ID:Ending_Futaride_JINE002
+糖糖: 以后我们俩就靠着认真工作一起过日子吧
+## 对话
+### Prefix Category_temp:Ending_ Labor Is Evil ID:Ending_Futaride_JINE003
+糖糖: 你愿意对我这样的废物不离不弃吗？
+## 对话
+### Prefix Category_temp:Ending_ Labor Is Evil ID:Ending_Futaride_JINE004
+糖糖: 打工好累啊~
+### Option-1
+User:　辛苦了
+
+### Option-2
+User:　有碎碎冰哦
+
+### Option-3
+User:　肚子饿了吧
+
+## 对话
+### Prefix Category_temp:Ending_ Labor Is Evil ID:Ending_Futaride_JINE005
+糖糖: 今天会晚点到家~
+### Option-2
+User:　给你下碗拉面吧
+
+### Option-2
+User:　我来煮咖喱吧
+
+### Option-2
+User:　你顺便买点菜回来
+
+### Option-3
+User:　什么时候回家？
+
+### Option-3
+User:　不早了吧？
+
+### Option-3
+User:　出什么事了吗？
+
+### Option-4
+User:　喂～
+
+### Option-4
+User:　真的有点晚了哦
+
+### Option-4
+User:　喂，你回来啊

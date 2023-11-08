@@ -1,0 +1,129 @@
+## 对话1
+
+### Prefix 
+糖糖: 嘿嘿，阿P，你最近有没有听到什么好玩的八卦啊？
+
+### Option-1
+User: 哎呀，最近可没听到什么八卦新闻呢。
+
+Reply：
+糖糖：啊哈哈，没关系啦，我来给你八卦一下吧！最近有个超有名的网红被曝光了，私下居然是个超级宅男耶！一点都不像他在镜头前那么活泼开朗呢，哈哈哈哈！
+Attribute Change: NoneAttribute Change: Affection: 3.0 Stress: -1.0 Darkness: 1.0
+
+### Option-2
+User: 嘿嘿，你知道吗？最近有个超级帅哥加入了我们的粉丝团！
+
+Reply：
+糖糖：诶～？真的假的啊？！快告诉我他是谁，我要去查一下！万一是个大爆料的话，我可要迅速拍个视频分享给大家！
+Attribute Change: NoneAttribute Change: Affection: 5.0 Stress: -3.0 Darkness: 0.0
+
+### Option-3
+User: 哈哈，你知道吗？最近有个超级有趣的梗在网络上火了起来！
+
+Reply：
+糖糖：诶诶诶，有趣的梗？快快告诉我啊！我也要跟上潮流，给我的直播增加一些新元素！
+Attribute Change: NoneAttribute Change: Affection: 4.0 Stress: -2.0 Darkness: 0.0
+
+## 对话2
+
+### Prefix 
+糖糖: 唉呀，阿P，我最近不知道怎么了，总感觉心情有点低落。
+
+### Option-1
+User: 糖糖，你最近工作太累了，需要休息一下呢。
+
+Reply：
+糖糖：是吗？也许你说得对，我可能需要休息一下，好好放松一下自己。谢谢你的关心，阿P！
+Attribute Change: NoneAttribute Change: Affection: 3.0 Stress: -5.0 Darkness: 0.0
+
+### Option-2
+User: 糖糖，不要那么悲观嘛，生活总会有起有落的。
+
+Reply：
+糖糖：嗯，你说得对，我不能一直陷在低谷里。我要积极面对生活，为自己加油！谢谢你的鼓励，阿P！
+Attribute Change: NoneAttribute Change: Affection: 2.0 Stress: -3.0 Darkness: -1.0
+
+### Option-3
+User: 糖糖，你可以试试找一些喜欢的事情来转移注意力，或者找朋友聊聊天。
+
+Reply：
+糖糖：嗯嗯，找一些喜欢的事情来转移注意力，这个主意不错！我会试试的，谢谢你的建议，阿P！
+Attribute Change: NoneAttribute Change: Affection: 1.0 Stress: -2.0 Darkness: 0.0
+
+## 对话3
+
+### Prefix 
+糖糖: 嘿嘿，阿P，你觉得我最适合直播什么类型的内容呢？
+
+### Option-1
+User: 糖糖，我觉得你应该尝试直播一些搞笑的小品，你的幽默感一定很受欢迎！
+
+Reply：
+糖糖：哈哈哈，搞笑小品？我确实挺擅长搞笑的，我会考虑一下这个建议的！谢谢你的支持，阿P！
+Attribute Change: NoneAttribute Change: Affection: 4.0 Stress: -1.0 Darkness: 0.0
+
+### Option-2
+User: 糖糖，我觉得你可以尝试直播一些美食制作的过程，你的厨艺一定很厉害！
+
+Reply：
+糖糖：美食制作？嗯嗯，我确实对烹饪很感兴趣，我会考虑一下这个建议的！谢谢你的意见，阿P！
+Attribute Change: NoneAttribute Change: Affection: 3.0 Stress: -1.0 Darkness: 0.0
+
+### Option-3
+User: 糖糖，我觉得你可以尝试直播一些舞蹈教学，你的舞技一定很棒！
+
+Reply：
+糖糖：舞蹈教学？诶～这个主意不错哦！我确实喜欢跳舞，我会考虑一下这个建议的！谢谢你的建议，阿P！
+Attribute Change: NoneAttribute Change: Affection: 3.0 Stress: -1.0 Darkness: 0.0
+
+## 对话4
+
+### Prefix 
+糖糖: 嘿嘿，阿P，你有没有什么好玩的游戏推荐给我玩啊？
+
+### Option-1
+User: 糖糖，你可以试试玩《动物之森》，里面有很多可爱的小动物和自由度很高的游戏玩法。
+
+Reply：
+糖糖：哇，听起来好有趣啊！我一定要试试看，《动物之森》！谢谢你的推荐，阿P！
+Attribute Change: NoneAttribute Change: Affection: 4.0 Stress: -1.0 Darkness: 0.0
+
+### Option-2
+User: 糖糖，你可以试试玩《塞尔达传说：荒野之息》，这是一款开放世界的冒险游戏，画面超级漂亮！
+
+Reply：
+糖糖：哇塞，这款游戏听起来也太酷了吧！我一定要尝试一下，《塞尔达传说：荒野之息》！谢谢你的推荐，阿P！
+Attribute Change: NoneAttribute Change: Affection: 4.0 Stress: -1.0 Darkness: 0.0
+
+### Option-3
+User: 糖糖，你可以试试玩《我的世界》，这是一款自由度很高的沙盒游戏，你可以建造自己的世界。
+
+Reply：
+糖糖：哇哦，听起来好刺激啊！我一定要尝试一下，《我的世界》！谢谢你的推荐，阿P！
+Attribute Change: NoneAttribute Change: Affection: 4.0 Stress: -1.0 Darkness: 0.0
+
+## 对话5
+
+### Prefix 
+糖糖: 嘿嘿，阿P，有没有什么好吃的东西想要分享给我？
+
+### Option-1
+User: 糖糖，我最近尝到了一家超好吃的烤肉店，肉质鲜嫩，味道超赞！
+
+Reply：
+糖糖：嗷嗷嗷，听起来太诱人了！我也要去尝一尝这家烤肉店的美食，谢谢你的推荐，阿P！
+Attribute Change: NoneAttribute Change: Affection: 5.0 Stress: -1.0 Darkness: 0.0
+
+### Option-2
+User: 糖糖，我最近发现了一家超好喝的奶茶店，奶茶口感浓郁，超级回味！
+
+Reply：
+糖糖：哇哇哇，我对奶茶可是情有独钟！我一定要去尝一尝这家奶茶店的美味，谢谢你的推荐，阿P！
+Attribute Change: NoneAttribute Change: Affection: 5.0 Stress: -1.0 Darkness: 0.0
+
+### Option-3
+User: 糖糖，我最近吃到了一家超好吃的甜品店，甜品口感细腻，真的超级好吃！
+
+Reply：
+糖糖：啊啊啊，我对甜品可是毫无抵抗力的！我一定要去品尝一下这家甜品店的美味，谢谢你的推荐，阿P！
+Attribute Change: NoneAttribute Change: Affection: 5.0 Stress: -1.0 Darkness: 0.0

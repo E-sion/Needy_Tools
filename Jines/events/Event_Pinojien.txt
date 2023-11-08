@@ -1,6 +1,25 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Followers 1-99999 ID:Event_Pinojien_JINE001
 糖糖: 阿P，你替我写点发在匿名版上的超天酱软文吧！我自己写的肯定会被人看出来的！
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Followers 1-99999 ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Followers 1-99999 ID:Event_Pinojien_JINE001
+糖糖: 阿P，你替我写点发在匿名版上的超天酱软文吧！我自己写的肯定会被人看出来的！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Followers 1-99999 ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Followers 1-99999 ID:Event_Pinojien_JINE001
+糖糖: 阿P，你替我写点发在匿名版上的超天酱软文吧！我自己写的肯定会被人看出来的！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Followers 1-99999 ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Followers 1-99999 ID:Event_Pinojien_JINE001
+糖糖: 阿P，你替我写点发在匿名版上的超天酱软文吧！我自己写的肯定会被人看出来的！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Followers 1-99999 ID:nan
 糖糖: nan

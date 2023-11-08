@@ -1,8 +1,37 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Affection 61+ ID:Event_MentalCare_JINE001
 糖糖: 我最近是不是好拼？是不是好拼啊？允许你摸摸我的头哦
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Affection 61+ ID:nan
 糖糖: nan
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Affection 61+ ID:Event_MentalCare_JINE002
+糖糖: 嘿嘿
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_MentalCare_JINE001
+糖糖: 我最近是不是好拼？是不是好拼啊？允许你摸摸我的头哦
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_MentalCare_JINE002
+糖糖: 嘿嘿
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_MentalCare_JINE001
+糖糖: 我最近是不是好拼？是不是好拼啊？允许你摸摸我的头哦
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_MentalCare_JINE002
+糖糖: 嘿嘿
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_MentalCare_JINE001
+糖糖: 我最近是不是好拼？是不是好拼啊？允许你摸摸我的头哦
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_MentalCare_JINE002
 糖糖: 嘿嘿

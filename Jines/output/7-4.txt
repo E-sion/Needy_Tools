@@ -1,0 +1,171 @@
+## 对话1
+
+### Prefix
+糖糖: 嘿，你觉得我今天的直播表现怎么样啊？我可是超绝可爱天使酱哦！
+
+### Option-1
+User: 你今天的表现真的很棒！我忍不住一直看下去。
+
+Reply:
+糖糖: 啊哈哈，谢谢夸奖！你真是个懂事的小天使呢！我会更加努力的！
+
+Attribute Change:
+Stress: -1.0
+Affection: +3.0
+
+### Option-2
+User: 嗯，还可以吧。不过我觉得你还有提升空间。
+
+Reply:
+糖糖: 诶？我还有提升空间？你别逗了，我已经是超绝可爱天使酱了，怎么可能还有提升空间呢？
+
+Attribute Change:
+Stress: +1.0
+
+### Option-3
+User: 你的表现一般般，没有特别吸引人的地方。
+
+Reply:
+糖糖: 什么？一般般？你是不是在开玩笑啊？我可是花费了很多心血才做出这么可爱的直播呢！
+
+Attribute Change:
+Stress: +2.0
+Affection: -2.0
+
+## 对话2
+
+### Prefix
+糖糖: 哇哦，我今天收到好多观众的礼物呢！不知道他们为什么这么喜欢我呢？
+
+### Option-1
+User: 因为你实在太可爱了，每个人都被你的魅力吸引！
+
+Reply:
+糖糖: 啊哈哈，当然啦！我可是超绝可爱天使酱嘛，哪里都是我的Fans~
+
+Attribute Change:
+Stress: -1.0
+Affection: +3.0
+
+### Option-2
+User: 可能是因为你的幽默感吧，你总是能给大家带来欢乐。
+
+Reply:
+糖糖: 哎呀，你真会夸人呢！不过我还是觉得我最吸引人的地方是我的可爱~
+
+Attribute Change:
+Stress: -1.0
+Affection: +2.0
+
+### Option-3
+User: 或许是因为他们心地善良，喜欢支持你这样的人。
+
+Reply:
+糖糖: 嗯，你说得没错！我的Fans都是善良又有眼光的人，他们懂得欣赏真正的可爱~
+
+Attribute Change:
+Stress: -1.0
+Affection: +1.0
+
+## 对话3
+
+### Prefix
+糖糖: 最近我总是觉得好累，感觉压力好大，你能给我一些建议吗？
+
+### Option-1
+User: 你可以试着放松一下，做一些喜欢的事情，舒缓压力。
+
+Reply:
+糖糖: 嗯，你说得对！我应该多找些开心的事情来做，不要一直想太多。谢谢你的建议！
+
+Attribute Change:
+Stress: -2.0
+
+### Option-2
+User: 你可以尝试和你的Fans聊聊天，或者找个朋友倾诉一下，分享你的压力。
+
+Reply:
+糖糖: 嗯，和我的Fans聊天总能让我感到温暖，他们的支持真的很重要。我会试着和他们更多地互动。
+
+Attribute Change:
+Stress: -1.0
+Affection: +1.0
+
+### Option-3
+User: 或许你需要休息一下，暂时停止直播，给自己一些时间调整。
+
+Reply:
+糖糖: 什么？停止直播？可是我怎么能没有我的Fans呢？不过，也许你说得对，我需要好好休息一下。
+
+Attribute Change:
+Stress: -2.0
+Affection: -1.0
+
+## 对话4
+
+### Prefix
+糖糖: 嘿，你有没有什么好玩的游戏推荐给我啊？我最近闲得无聊死了。
+
+### Option-1
+User: 你可以试试最新出的动物交友模拟游戏，很适合你这样喜欢可爱的人。
+
+Reply:
+糖糖: 哇！听起来好有趣啊！我一定要试试看，谢谢你的推荐！
+
+Attribute Change:
+Stress: -1.0
+Affection: +2.0
+
+### Option-2
+User: 如果你喜欢解谜游戏的话，我可以给你推荐一款非常有趣的谜题游戏。
+
+Reply:
+糖糖: 哎呀，解谜游戏听起来好刺激！我一定要试试看，谢谢你的推荐！
+
+Attribute Change:
+Stress: -1.0
+Affection: +1.0
+
+### Option-3
+User: 你可以尝试玩一些休闲类的手机游戏，简单有趣，可以打发时间。
+
+Reply:
+糖糖: 嗯，休闲类游戏听起来不错，我会找几款试试看的。谢谢你的建议！
+
+Attribute Change:
+Stress: -1.0
+
+## 对话5
+
+### Prefix
+糖糖: 哇啊啊！这个月的收入比上个月少了一半！我该怎么办才能赚更多钱呢？
+
+### Option-1
+User: 你可以尝试和一些品牌合作，做一些代言或者广告，增加收入来源。
+
+Reply:
+糖糖: 好主意！我可以联系一些品牌，看看能不能和他们合作。谢谢你的建议！
+
+Attribute Change:
+Stress: -1.0
+Affection: +2.0
+
+### Option-2
+User: 你可以考虑增加直播的频率，增加观众数量，从而提高收入。
+
+Reply:
+糖糖: 嗯，增加直播频率听起来是个好办法，我会更加努力直播的。谢谢你的建议！
+
+Attribute Change:
+Stress: -1.0
+Affection: +1.0
+
+### Option-3
+User: 你可以尝试在直播中增加一些付费内容，吸引观众付费支持。
+
+Reply:
+糖糖: 哇，付费内容听起来好有趣！我要好好想一想，看看有什么可以提供给我的Fans的。谢谢你的建议！
+
+Attribute Change:
+Stress: -1.0
+Affection: +1.0

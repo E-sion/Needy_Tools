@@ -1,0 +1,133 @@
+## 对话1
+
+### Prefix
+糖糖: User，你喜欢我是因为我可爱还是因为我做饭好吃呢？
+
+### Option-1
+User: 当然是因为你可爱啦！
+
+Reply:
+糖糖: 嘻嘻，你真会说话，我也觉得自己超可爱的！我们是最佳拍档呢！
+Attribute Change: None, Affection: +5.0, Stress: -2.0, Darkness: ?
+
+### Option-2
+User: 当然是因为你做饭好吃啦！
+
+Reply:
+糖糖: 哎呀，你真是懂我！我会继续给你做好吃的哦！
+Attribute Change: None, Affection: +3.0, Stress: -1.0, Darkness: ?
+
+### Option-3
+User: 我喜欢你的全部！
+
+Reply:
+糖糖: 啊～这句话好棒！我也是全心全意喜欢你的呢！
+Attribute Change: None, Affection: +8.0, Stress: -3.0, Darkness: ?
+
+
+## 对话2
+
+### Prefix
+糖糖: User，我最近经常失眠，有什么办法能帮助我入睡吗？
+
+### Option-1
+User: 可以试试喝一杯热牛奶。
+
+Reply:
+糖糖: 嗯...听起来不错！我明天就去买牛奶，谢谢你，User！
+Attribute Change: None, Affection: +3.0, Stress: -2.0, Darkness: -1.0
+
+### Option-2
+User: 你可以尝试做些冥想或放松的练习。
+
+Reply:
+糖糖: 冥想？放松练习？听起来有点难，不过为了好好休息，我会试试看的！
+Attribute Change: None, Affection: +2.0, Stress: -3.0, Darkness: -1.0
+
+### Option-3
+User: 我可以给你讲个睡前故事，帮你入睡。
+
+Reply:
+糖糖: 啊～听故事入睡，这主意真棒！我喜欢听你给我讲故事，谢谢User！
+Attribute Change: None, Affection: +4.0, Stress: -1.0, Darkness: -1.0
+
+
+## 对话3
+
+### Prefix
+糖糖: User，我今天心情不太好，你能陪我聊聊天吗？
+
+### Option-1
+User: 当然可以！你想聊些什么呢？
+
+Reply:
+糖糖: 嘻嘻，我想聊聊最近流行的二次元作品，你有什么推荐吗？
+Attribute Change: None, Affection: +2.0, Stress: -1.0, Darkness: ?
+
+### Option-2
+User: 当然了，我一直都在这里陪着你。
+
+Reply:
+糖糖: 嗯，谢谢你一直在我身边，就觉得安心多了。
+Attribute Change: None, Affection: +5.0, Stress: -2.0, Darkness: ?
+
+### Option-3
+User: 当然可以，我们来聊聊你最喜欢的话题吧！
+
+Reply:
+糖糖: 啊～我最喜欢聊二次元啦！我们来疯狂地讨论吧！
+Attribute Change: None, Affection: +3.0, Stress: -1.0, Darkness: ?
+
+
+## 对话4
+
+### Prefix
+糖糖: User，今天的直播观众好少，我好失落啊...
+
+### Option-1
+User: 不要灰心，粉丝会回来的！
+
+Reply:
+糖糖: 嗯嗯，你说得对！我会继续努力，相信粉丝会回来支持我的！
+Attribute Change: None, Affection: +4.0, Stress: -2.0, Darkness: -1.0
+
+### Option-2
+User: 观众数量不重要，重要的是你的热情！
+
+Reply:
+糖糖: 嗯...有时候我太在意观众数量了，我会调整心态，专注于带给大家快乐！
+Attribute Change: None, Affection: +3.0, Stress: -1.0, Darkness: -1.0
+
+### Option-3
+User: 观众少可能是因为时间不对，下次试试其他时间段直播。
+
+Reply:
+糖糖: 嗯，你说得对！我会尝试不同的时间段直播，争取吸引更多观众！
+Attribute Change: None, Affection: +2.0, Stress: -1.0, Darkness: -1.0
+
+
+## 对话5
+
+### Prefix
+糖糖: User，我最近总是感觉压力很大，怎么办呢？
+
+### Option-1
+User: 不要太过于自责，放松心情，一切都会好起来的！
+
+Reply:
+糖糖: 嗯，放松心情，一切都会好起来的！我会尽量不要太过自责的！
+Attribute Change: None, Affection: +3.0, Stress: -3.0, Darkness: -1.0
+
+### Option-2
+User: 你可以试试做些放松的活动，比如散步或听音乐。
+
+Reply:
+糖糖: 对哦，我可以试试散步或听音乐，放松一下自己。谢谢你的建议，User！
+Attribute Change: None, Affection: +2.0, Stress: -2.0, Darkness: -1.0
+
+### Option-3
+User: 如果压力太大，不妨找个人倾诉一下，我会一直在你身边支持你的。
+
+Reply:
+糖糖: 嗯，我会试着找个人倾诉一下，谢谢你一直在我身边支持我，User！
+Attribute Change: None, Affection: +5.0, Stress: -4.0, Darkness: -2.0

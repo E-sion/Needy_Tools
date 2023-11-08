@@ -1,33 +1,180 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Ending: Needy Girl Overdose ID:Ending_Kyouizon_JINE001
 糖糖: 喂，你喜欢我吗？
+## 对话
+### Prefix Category_temp:Ending: Needy Girl Overdose ID:Ending_Kyouizon_JINE002
+糖糖: 口头说说谁都会
+## 对话
+### Prefix Category_temp:Ending: Needy Girl Overdose ID:Ending_Kyouizon_JINE003
+糖糖: 你还记得我们的第一次约会是去了哪里吗？
+## 对话
+### Prefix Category_temp:Ending: Needy Girl Overdose ID:Ending_Kyouizon_JINE004
+糖糖: 你还记得我们在这个家里做过了多少次吧？
 ### Option-3
-User:：1次
+User:　1次
 
 ### Option-3
-User:：2次
+User:　2次
 
 ### Option-3
-User:：3次
+User:　3次
 
 ### Option-3
-User:：4次
+User:　4次
 
 ### Option-3
-User:：5次
+User:　5次
+
+## 对话
+### Prefix Category_temp:Ending: Needy Girl Overdose ID:Ending_Kyouizon_JINE005
+糖糖: 阿P，你还记得我跟你说过的重要的事吗？
+### Option-4
+User:　一直被无视
 
 ### Option-4
-User:：一直被无视
+User:　一直很穷
 
 ### Option-4
-User:：一直很穷
+User:　一直被欺负
 
 ### Option-4
-User:：一直被欺负
+User:　一直想得到幸福美满的婚姻
 
 ### Option-4
-User:：一直想得到幸福美满的婚姻
+User:　一直体弱多病
+
+## 对话
+### Prefix Category_temp:Ending_ Needy Girl Overdose ID:Ending_Kyouizon_JINE001
+糖糖: 喂，你喜欢我吗？
+## 对话
+### Prefix Category_temp:Ending_ Needy Girl Overdose ID:Ending_Kyouizon_JINE002
+糖糖: 口头说说谁都会
+## 对话
+### Prefix Category_temp:Ending_ Needy Girl Overdose ID:Ending_Kyouizon_JINE003
+糖糖: 你还记得我们的第一次约会是去了哪里吗？
+## 对话
+### Prefix Category_temp:Ending_ Needy Girl Overdose ID:Ending_Kyouizon_JINE004
+糖糖: 你还记得我们在这个家里做过了多少次吧？
+### Option-3
+User:　1次
+
+### Option-3
+User:　2次
+
+### Option-3
+User:　3次
+
+### Option-3
+User:　4次
+
+### Option-3
+User:　5次
+
+## 对话
+### Prefix Category_temp:Ending_ Needy Girl Overdose ID:Ending_Kyouizon_JINE005
+糖糖: 阿P，你还记得我跟你说过的重要的事吗？
+### Option-4
+User:　一直被无视
 
 ### Option-4
-User:：一直体弱多病
+User:　一直很穷
+
+### Option-4
+User:　一直被欺负
+
+### Option-4
+User:　一直想得到幸福美满的婚姻
+
+### Option-4
+User:　一直体弱多病
+
+## 对话
+### Prefix Category_temp:Ending_ Needy Girl Overdose ID:Ending_Kyouizon_JINE001
+糖糖: 喂，你喜欢我吗？
+## 对话
+### Prefix Category_temp:Ending_ Needy Girl Overdose ID:Ending_Kyouizon_JINE002
+糖糖: 口头说说谁都会
+## 对话
+### Prefix Category_temp:Ending_ Needy Girl Overdose ID:Ending_Kyouizon_JINE003
+糖糖: 你还记得我们的第一次约会是去了哪里吗？
+## 对话
+### Prefix Category_temp:Ending_ Needy Girl Overdose ID:Ending_Kyouizon_JINE004
+糖糖: 你还记得我们在这个家里做过了多少次吧？
+### Option-3
+User:　1次
+
+### Option-3
+User:　2次
+
+### Option-3
+User:　3次
+
+### Option-3
+User:　4次
+
+### Option-3
+User:　5次
+
+## 对话
+### Prefix Category_temp:Ending_ Needy Girl Overdose ID:Ending_Kyouizon_JINE005
+糖糖: 阿P，你还记得我跟你说过的重要的事吗？
+### Option-4
+User:　一直被无视
+
+### Option-4
+User:　一直很穷
+
+### Option-4
+User:　一直被欺负
+
+### Option-4
+User:　一直想得到幸福美满的婚姻
+
+### Option-4
+User:　一直体弱多病
+
+## 对话
+### Prefix Category_temp:Ending_ Needy Girl Overdose ID:Ending_Kyouizon_JINE001
+糖糖: 喂，你喜欢我吗？
+## 对话
+### Prefix Category_temp:Ending_ Needy Girl Overdose ID:Ending_Kyouizon_JINE002
+糖糖: 口头说说谁都会
+## 对话
+### Prefix Category_temp:Ending_ Needy Girl Overdose ID:Ending_Kyouizon_JINE003
+糖糖: 你还记得我们的第一次约会是去了哪里吗？
+## 对话
+### Prefix Category_temp:Ending_ Needy Girl Overdose ID:Ending_Kyouizon_JINE004
+糖糖: 你还记得我们在这个家里做过了多少次吧？
+### Option-3
+User:　1次
+
+### Option-3
+User:　2次
+
+### Option-3
+User:　3次
+
+### Option-3
+User:　4次
+
+### Option-3
+User:　5次
+
+## 对话
+### Prefix Category_temp:Ending_ Needy Girl Overdose ID:Ending_Kyouizon_JINE005
+糖糖: 阿P，你还记得我跟你说过的重要的事吗？
+### Option-4
+User:　一直被无视
+
+### Option-4
+User:　一直很穷
+
+### Option-4
+User:　一直被欺负
+
+### Option-4
+User:　一直想得到幸福美满的婚姻
+
+### Option-4
+User:　一直体弱多病

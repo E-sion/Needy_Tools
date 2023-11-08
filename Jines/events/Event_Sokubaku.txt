@@ -1,8 +1,40 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Affection 
+and Darkness at 81+ ID:Event_Sokubaku_JINE001
 糖糖: 你不要再到任何地方去了哦……
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Affection 
+and Darkness at 81+ ID:Event_Sokubaku_JINE002
 糖糖: 昨天你对我那么好
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Affection 
+and Darkness at 81+ ID:Event_Sokubaku_JINE003
+糖糖: 不要再丢下我一个人了……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection _and Darkness at 81+ ID:Event_Sokubaku_JINE001
+糖糖: 你不要再到任何地方去了哦……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection _and Darkness at 81+ ID:Event_Sokubaku_JINE002
+糖糖: 昨天你对我那么好
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection _and Darkness at 81+ ID:Event_Sokubaku_JINE003
+糖糖: 不要再丢下我一个人了……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection _and Darkness at 81+ ID:Event_Sokubaku_JINE001
+糖糖: 你不要再到任何地方去了哦……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection _and Darkness at 81+ ID:Event_Sokubaku_JINE002
+糖糖: 昨天你对我那么好
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection _and Darkness at 81+ ID:Event_Sokubaku_JINE003
+糖糖: 不要再丢下我一个人了……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection _and Darkness at 81+ ID:Event_Sokubaku_JINE001
+糖糖: 你不要再到任何地方去了哦……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection _and Darkness at 81+ ID:Event_Sokubaku_JINE002
+糖糖: 昨天你对我那么好
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection _and Darkness at 81+ ID:Event_Sokubaku_JINE003
 糖糖: 不要再丢下我一个人了……

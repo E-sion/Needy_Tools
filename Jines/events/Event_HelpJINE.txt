@@ -1,6 +1,25 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 61+ ID:Event_HelpJINE_JINE001
 糖糖: 那如果我抛下一切，就这么消失了，你会怎么办？
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 61+ ID:Event_HelpJINE_JINE002
+糖糖: 凉拌是吗……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_HelpJINE_JINE001
+糖糖: 那如果我抛下一切，就这么消失了，你会怎么办？
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_HelpJINE_JINE002
+糖糖: 凉拌是吗……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_HelpJINE_JINE001
+糖糖: 那如果我抛下一切，就这么消失了，你会怎么办？
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_HelpJINE_JINE002
+糖糖: 凉拌是吗……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_HelpJINE_JINE001
+糖糖: 那如果我抛下一切，就这么消失了，你会怎么办？
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_HelpJINE_JINE002
 糖糖: 凉拌是吗……

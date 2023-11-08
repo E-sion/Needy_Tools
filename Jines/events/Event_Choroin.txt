@@ -1,10 +1,49 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Affection 61+ ID:Event_Choroin001
 糖糖: 那些动画男主角都很喜欢摸摸女主角的头，
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Affection 61+ ID:Event_Choroin002
 糖糖: 然后被摸的女孩子就会马上“诶嘿嘿……///”的对吧？
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Affection 61+ ID:Event_Choroin003
 糖糖: 我每次看到这种桥段都会担心，担心死宅会误以为女人是种一摸头就开心的单纯生物！！！
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Affection 61+ ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_Choroin001
+糖糖: 那些动画男主角都很喜欢摸摸女主角的头，
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_Choroin002
+糖糖: 然后被摸的女孩子就会马上“诶嘿嘿……///”的对吧？
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_Choroin003
+糖糖: 我每次看到这种桥段都会担心，担心死宅会误以为女人是种一摸头就开心的单纯生物！！！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_Choroin001
+糖糖: 那些动画男主角都很喜欢摸摸女主角的头，
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_Choroin002
+糖糖: 然后被摸的女孩子就会马上“诶嘿嘿……///”的对吧？
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_Choroin003
+糖糖: 我每次看到这种桥段都会担心，担心死宅会误以为女人是种一摸头就开心的单纯生物！！！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_Choroin001
+糖糖: 那些动画男主角都很喜欢摸摸女主角的头，
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_Choroin002
+糖糖: 然后被摸的女孩子就会马上“诶嘿嘿……///”的对吧？
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_Choroin003
+糖糖: 我每次看到这种桥段都会担心，担心死宅会误以为女人是种一摸头就开心的单纯生物！！！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:nan
 糖糖: nan

@@ -1,23 +1,96 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Followers 500k+ ID:Event_Menherafriend_JINE001
 糖糖: 有个女孩发私信找我谈人生，我该怎么办呐
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Followers 500k+ ID:Event_Menherafriend_JINE002
 糖糖: 「超天酱你好，我是一名高中生。之前因为精神疾病而住院了一段时间，现在跟不上学习进度，班上还没决定好志愿的人也只剩我一个了。平时看着同学们为了各自的前程努力奋斗的样子，心里总是非常地焦虑。请你告诉我，我到底应该怎么办才好呢？」
 ### Option-1
-User:：认真
+User:　认真
 
 Reply：
 糖糖：「这种事情，光着急是没有用的。总而言之，你现在应该先休养好自己。等恢复好了，再跟父母慢慢商量吧！放心。人生是不会因为不上学就完蛋的！未来就掌握在我们的手中！！！」↑发了这些过去。
 Attribute Change:  Stress: -1.0 
 ### Option-2
-User:：耍宝
+User:　耍宝
 
 Reply：
 糖糖：「上什么学啊来当主播啊！！！！！」↑发了这句过去。
 Attribute Change:  Stress: -1.0 
 ### Option-3
-User:：无视
+User:　无视
+
+Reply：
+糖糖：直接无视好了！
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Random Noon Event_ Followers 500k+ ID:Event_Menherafriend_JINE001
+糖糖: 有个女孩发私信找我谈人生，我该怎么办呐
+## 对话
+### Prefix Category_temp:Random Noon Event_ Followers 500k+ ID:Event_Menherafriend_JINE002
+糖糖: 「超天酱你好，我是一名高中生。之前因为精神疾病而住院了一段时间，现在跟不上学习进度，班上还没决定好志愿的人也只剩我一个了。平时看着同学们为了各自的前程努力奋斗的样子，心里总是非常地焦虑。请你告诉我，我到底应该怎么办才好呢？」
+### Option-1
+User:　认真
+
+Reply：
+糖糖：「这种事情，光着急是没有用的。总而言之，你现在应该先休养好自己。等恢复好了，再跟父母慢慢商量吧！放心。人生是不会因为不上学就完蛋的！未来就掌握在我们的手中！！！」↑发了这些过去。
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:　耍宝
+
+Reply：
+糖糖：「上什么学啊来当主播啊！！！！！」↑发了这句过去。
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:　无视
+
+Reply：
+糖糖：直接无视好了！
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Random Noon Event_ Followers 500k+ ID:Event_Menherafriend_JINE001
+糖糖: 有个女孩发私信找我谈人生，我该怎么办呐
+## 对话
+### Prefix Category_temp:Random Noon Event_ Followers 500k+ ID:Event_Menherafriend_JINE002
+糖糖: 「超天酱你好，我是一名高中生。之前因为精神疾病而住院了一段时间，现在跟不上学习进度，班上还没决定好志愿的人也只剩我一个了。平时看着同学们为了各自的前程努力奋斗的样子，心里总是非常地焦虑。请你告诉我，我到底应该怎么办才好呢？」
+### Option-1
+User:　认真
+
+Reply：
+糖糖：「这种事情，光着急是没有用的。总而言之，你现在应该先休养好自己。等恢复好了，再跟父母慢慢商量吧！放心。人生是不会因为不上学就完蛋的！未来就掌握在我们的手中！！！」↑发了这些过去。
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:　耍宝
+
+Reply：
+糖糖：「上什么学啊来当主播啊！！！！！」↑发了这句过去。
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:　无视
+
+Reply：
+糖糖：直接无视好了！
+Attribute Change: None
+## 对话
+### Prefix Category_temp:Random Noon Event_ Followers 500k+ ID:Event_Menherafriend_JINE001
+糖糖: 有个女孩发私信找我谈人生，我该怎么办呐
+## 对话
+### Prefix Category_temp:Random Noon Event_ Followers 500k+ ID:Event_Menherafriend_JINE002
+糖糖: 「超天酱你好，我是一名高中生。之前因为精神疾病而住院了一段时间，现在跟不上学习进度，班上还没决定好志愿的人也只剩我一个了。平时看着同学们为了各自的前程努力奋斗的样子，心里总是非常地焦虑。请你告诉我，我到底应该怎么办才好呢？」
+### Option-1
+User:　认真
+
+Reply：
+糖糖：「这种事情，光着急是没有用的。总而言之，你现在应该先休养好自己。等恢复好了，再跟父母慢慢商量吧！放心。人生是不会因为不上学就完蛋的！未来就掌握在我们的手中！！！」↑发了这些过去。
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:　耍宝
+
+Reply：
+糖糖：「上什么学啊来当主播啊！！！！！」↑发了这句过去。
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:　无视
 
 Reply：
 糖糖：直接无视好了！

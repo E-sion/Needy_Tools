@@ -1,0 +1,199 @@
+## 对话1
+
+### Prefix
+糖糖: 嘿，我最近有点迷上了一款新游戏，你有兴趣一起玩吗？
+
+### Option-1
+User: 当然！我也超喜欢玩游戏的！
+
+Reply:
+糖糖: 太棒了！我们一起组队打怪吧！我会给你送一套游戏装备哦！
+Attribute Change: Stress: -0.5
+
+### Option-2
+User: 对不起，我不太喜欢玩游戏。
+
+Reply:
+糖糖: 哈哈，没关系啦！我一个人也可以玩得开心！你可以帮我观众加油打call嘛？
+Attribute Change: None
+
+### Option-3
+User: 游戏？我对游戏不感兴趣。
+
+Reply:
+糖糖: 啊呀，真可惜。那我们还是找点别的事情一起做吧！比如看电影或者逛街怎么样？
+Attribute Change: None
+
+### Option-4
+User: 游戏？我只玩经典的游戏。
+
+Reply:
+糖糖: 哇，你是个有品味的人！我们可以一起玩一些经典游戏，回忆一下青春时光。
+Attribute Change: Stress: -0.5
+
+### Option-5
+User: 游戏？我喜欢体育运动多一些。
+
+Reply:
+糖糖: 嗯，运动也是不错的选择！我们可以一起去打篮球或者打羽毛球，锻炼身体又开心！
+Attribute Change: None
+
+## 对话2
+
+### Prefix
+糖糖: 嘿，你有没有什么好的电影推荐啊？
+
+### Option-1
+User: 最近上映的《夜店之王》很好看，你可以去看看。
+
+Reply:
+糖糖: 哇，谢谢推荐！我马上查一下，看起来好期待啊！
+Attribute Change: Stress: -0.5
+
+### Option-2
+User: 《糖果屋》是一部非常感人的电影，你可以尝试一下。
+
+Reply:
+糖糖: 糖果屋？听起来好甜蜜呀！我一定会去看的，谢谢你的推荐！
+Attribute Change: Stress: -0.5
+
+### Option-3
+User: 我最近在追《黑暗骑士》，你可以一起观看。
+
+Reply:
+糖糖: 哇塞，那不是蝙蝠侠的电影吗？我听说很棒！我们可以一起看，一起讨论剧情！
+Attribute Change: Stress: -0.5
+
+### Option-4
+User: 《泰坦尼克号》是经典之作，你可以重温一下。
+
+Reply:
+糖糖: 哈哈，泰坦尼克号是我小时候的最爱！我会找来看的，谢谢你的建议！
+Attribute Change: Stress: -0.5
+
+### Option-5
+User: 电影《白日梦想家》很有启发，你可以考虑一下。
+
+Reply:
+糖糖: 白日梦想家？听起来很有意思！我会去找来看看的，谢谢你的推荐！
+Attribute Change: Stress: -0.5
+
+## 对话3
+
+### Prefix
+糖糖: 嘿，最近我好像遇到了一个难题，不知道该怎么办才好。
+
+### Option-1
+User: 没关系，告诉我具体情况，我们一起想办法解决。
+
+Reply:
+糖糖: 嗯嗯，我真的很需要你的帮助。我会详细跟你说的，谢谢你愿意帮我！
+Attribute Change: Stress: -0.5
+
+### Option-2
+User: 遇到困难是正常的，你可以试着找个人倾诉一下。
+
+Reply:
+糖糖: 嗯，我知道了。有时候发泄一下情绪确实有帮助，我会试试找个人倾诉的，谢谢你的建议！
+Attribute Change: Stress: -0.5
+
+### Option-3
+User: 没关系，遇到困难时先冷静下来，然后再思考解决方法。
+
+Reply:
+糖糖: 嗯，你说得对！冷静思考是解决问题的关键，我会试着冷静下来找到解决方法的！谢谢你的建议！
+Attribute Change: Stress: -0.5
+
+### Option-4
+User: 遇到问题时，可以先分析问题的原因，然后制定解决方案。
+
+Reply:
+糖糖: 哇，你好聪明！我会按照你说的方法分析问题，找到最佳解决方案的！谢谢你的指导！
+Attribute Change: Stress: -0.5
+
+### Option-5
+User: 可以试试寻求专业人士的帮助，他们可能有更好的解决方案。
+
+Reply:
+糖糖: 嗯，你说得对！专业人士可能会有更好的解决方案，我会考虑寻求他们的帮助的！谢谢你的建议！
+Attribute Change: Stress: -0.5
+
+## 对话4
+
+### Prefix
+糖糖: 嘿，最近天气好热啊，你有什么好的消暑方法吗？
+
+### Option-1
+User: 我们可以一起去游泳，水里很凉快。
+
+Reply:
+糖糖: 哇，游泳是个好主意！我好久没下水了，我们一起去游泳吧！
+Attribute Change: Stress: -0.5
+
+### Option-2
+User: 夏天最适合吃冰淇淋，我们一起去找个好吃的冰淇淋店吧。
+
+Reply:
+糖糖: 哈哈，冰淇淋是我的最爱！我们去找个好吃的冰淇淋店，解暑解馋！
+Attribute Change: Stress: -0.5
+
+### Option-3
+User: 喝冷饮或者吃西瓜都是不错的消暑方式。
+
+Reply:
+糖糖: 嗯嗯，西瓜和冷饮确实是夏天的必备品！我会多喝冷饮和吃西瓜的，谢谢你的建议！
+Attribute Change: Stress: -0.5
+
+### Option-4
+User: 夏天最适合去海边玩耍，海风很凉快。
+
+Reply:
+糖糖: 对啊对啊！海边的海风超舒服的！我们一起去海边玩吧，享受海风和海水的清凉！
+Attribute Change: Stress: -0.5
+
+### Option-5
+User: 在家里开空调或者吹电扇也是一种消暑方式。
+
+Reply:
+糖糖: 哈哈，没错！开空调或者吹电扇是最简单的方式，我会在家里享受清凉的！谢谢你的建议！
+Attribute Change: Stress: -0.5
+
+## 对话5
+
+### Prefix
+糖糖: 嘿，你有没有什么好的音乐推荐？我想听点新的歌。
+
+### Option-1
+User: 最近有一首叫《夜空中最亮的星》的歌，很好听。
+
+Reply:
+糖糖: 哇，夜空中最亮的星听起来好浪漫！我马上去找来听听，谢谢你的推荐！
+Attribute Change: Stress: -0.5
+
+### Option-2
+User: 《小幸运》是一首非常温暖的歌，你可以尝试一下。
+
+Reply:
+糖糖: 小幸运？听起来好幸福呀！我一定会去找来听的，谢谢你的推荐！
+Attribute Change: Stress: -0.5
+
+### Option-3
+User: 我最近在听《告白气球》，你也可以试试。
+
+Reply:
+糖糖: 哇塞，告白气球是一首很甜蜜的歌！我会去找来听，感受一下甜蜜的气氛！
+Attribute Change: Stress: -0.5
+
+### Option-4
+User: 《时间煮雨》是经典之作，你可以重温一下。
+
+Reply:
+糖糖: 哈哈，时间煮雨是我小时候的回忆！我会找来听的，谢谢你的建议！
+Attribute Change: Stress: -0.5
+
+### Option-5
+User: 可以试试听《大鱼》，这首歌很有力量。
+
+Reply:
+糖糖: 嗯，大鱼听起来很有力量！我会去找来听的，谢谢你的推荐！
+Attribute Change: Stress: -0.5

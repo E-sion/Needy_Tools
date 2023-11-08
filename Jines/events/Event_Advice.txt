@@ -1,21 +1,84 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Darkness 0-39 ID:Event_Advice_JINE001
 糖糖: 我正在想下次搞什么企划呢～阿P帮帮我 出出主意
 ### Option-1
-User:：比如一直打游戏到通关？
+User:　比如一直打游戏到通关？
 
 Reply：
 糖糖：那就这么办吧（超听话）
 Attribute Change:  Stress: -1.0 
 ### Option-2
-User:：比如收集观众的提问，然后录一期回答？
+User:　比如收集观众的提问，然后录一期回答？
 
 Reply：
 糖糖：我才不想收集宅宅的提问咧～～～今天直播咕了
 Attribute Change:  Stress: -1.0 
 ### Option-3
-User:：比如坐在超他妈大的乌龟背上绕新宿一圈？
+User:　比如坐在超他妈大的乌龟背上绕新宿一圈？
+
+Reply：
+糖糖：果然只有这个了，咱俩一起去买乌龟吧！！！
+Attribute Change:  Stress: -1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Darkness 0-39 ID:Event_Advice_JINE001
+糖糖: 我正在想下次搞什么企划呢～阿P帮帮我 出出主意
+### Option-1
+User:　比如一直打游戏到通关？
+
+Reply：
+糖糖：那就这么办吧（超听话）
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:　比如收集观众的提问，然后录一期回答？
+
+Reply：
+糖糖：我才不想收集宅宅的提问咧～～～今天直播咕了
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:　比如坐在超他妈大的乌龟背上绕新宿一圈？
+
+Reply：
+糖糖：果然只有这个了，咱俩一起去买乌龟吧！！！
+Attribute Change:  Stress: -1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Darkness 0-39 ID:Event_Advice_JINE001
+糖糖: 我正在想下次搞什么企划呢～阿P帮帮我 出出主意
+### Option-1
+User:　比如一直打游戏到通关？
+
+Reply：
+糖糖：那就这么办吧（超听话）
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:　比如收集观众的提问，然后录一期回答？
+
+Reply：
+糖糖：我才不想收集宅宅的提问咧～～～今天直播咕了
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:　比如坐在超他妈大的乌龟背上绕新宿一圈？
+
+Reply：
+糖糖：果然只有这个了，咱俩一起去买乌龟吧！！！
+Attribute Change:  Stress: -1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Darkness 0-39 ID:Event_Advice_JINE001
+糖糖: 我正在想下次搞什么企划呢～阿P帮帮我 出出主意
+### Option-1
+User:　比如一直打游戏到通关？
+
+Reply：
+糖糖：那就这么办吧（超听话）
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:　比如收集观众的提问，然后录一期回答？
+
+Reply：
+糖糖：我才不想收集宅宅的提问咧～～～今天直播咕了
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:　比如坐在超他妈大的乌龟背上绕新宿一圈？
 
 Reply：
 糖糖：果然只有这个了，咱俩一起去买乌龟吧！！！

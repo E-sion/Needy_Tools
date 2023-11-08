@@ -1,0 +1,199 @@
+## 对话1
+
+### Prefix
+糖糖: 啊～我好累啊，感觉一点动力都没有了。阿P，你有什么方法能让我重新振作起来吗？
+
+### Option-1
+User:：我们来玩个新的游戏吧！会让你充满活力的！
+
+Reply：
+糖糖：哇哦！新游戏！我超期待的！快跟我说说是什么游戏吧！
+Attribute Change: Stress: -0.5
+
+### Option-2
+User:：让我们一起去户外活动，呼吸新鲜空气，放松一下吧！
+
+Reply：
+糖糖：户外活动？嗯……其实我真的好久没出门了，要不要试试呢？
+Attribute Change: Stress: -0.5
+
+### Option-3
+User:：我们来看一部好笑的电影吧！笑一笑，会觉得好多了！
+
+Reply：
+糖糖：哈哈哈，好笑的电影是我的最爱！你有什么好推荐的吗？
+Attribute Change: Stress: -0.5
+
+### Option-4
+User:：给你做一顿美味的晚餐，让你的心情变得更好！
+
+Reply：
+糖糖：哇！你会做饭吗？好期待！我想吃什么呢？
+Attribute Change: Stress: -0.5
+
+### Option-5
+User:：我们找一些有趣的事情一起做，让你忘记烦恼！
+
+Reply：
+糖糖：有趣的事情？好的！那你有什么好建议呢？
+Attribute Change: Stress: -0.5
+
+## 对话2
+
+### Prefix
+糖糖: 啊～今天直播的时候又被人喷了，我好难过。阿P，你觉得我应该怎么办？
+
+### Option-1
+User:：别理会那些喷子，他们只是嫉妒你的人气。
+
+Reply：
+糖糖：嗯嗯，你说得对！我要加倍努力，证明自己的实力！
+Attribute Change: Stress: -0.5
+
+### Option-2
+User:：和观众互动的时候，多多展示你的可爱和真诚，他们会喜欢你的。
+
+Reply：
+糖糖：可爱和真诚，嗯嗯，我明白了！我会更加努力表现自己的魅力！
+Attribute Change: Stress: -0.5
+
+### Option-3
+User:：找些好朋友一起支持你，他们会给你勇气和力量。
+
+Reply：
+糖糖：好朋友的力量是无穷的！我会找到更多的朋友来支持我！
+Attribute Change: Stress: -0.5
+
+### Option-4
+User:：给自己放个假，好好休息一下，然后重新开始。
+
+Reply：
+糖糖：嗯，我确实需要休息一下。放松心情，重新出发！谢谢你的建议！
+Attribute Change: Stress: -0.5
+
+### Option-5
+User:：别太在意别人的评价，最重要的是相信自己的价值。
+
+Reply：
+糖糖：嗯，我要相信自己的价值，不受别人的评价左右！谢谢你的支持！
+Attribute Change: Stress: -0.5
+
+## 对话3
+
+### Prefix
+糖糖: 啊～最近直播的人气不如以前了，我好担心会失去观众。阿P，你觉得我还能继续下去吗？
+
+### Option-1
+User:：不要灰心，继续努力，你的观众会回来的！
+
+Reply：
+糖糖：嗯！我会继续努力，给观众带来更多的欢乐！谢谢你的鼓励！
+Attribute Change: Stress: -0.5
+
+### Option-2
+User:：试试改变直播内容和风格，吸引更多的新观众。
+
+Reply：
+糖糖：改变直播内容和风格，嗯，我会尝试的！谢谢你的建议！
+Attribute Change: Stress: -0.5
+
+### Option-3
+User:：和观众互动更多，让他们感受到你的独特魅力。
+
+Reply：
+糖糖：互动更多，展现独特的魅力，嗯，我会加强和观众的互动！谢谢你的指导！
+Attribute Change: Stress: -0.5
+
+### Option-4
+User:：寻找新的合作机会，和其他主播一起做节目。
+
+Reply：
+糖糖：新的合作机会，和其他主播一起做节目，嗯，这是个好主意！谢谢你的建议！
+Attribute Change: Stress: -0.5
+
+### Option-5
+User:：给自己设定一些小目标，逐步实现，增加成就感。
+
+Reply：
+糖糖：设定小目标，逐步实现，增加成就感，嗯，我会试试的！谢谢你的鼓励！
+Attribute Change: Stress: -0.5
+
+## 对话4
+
+### Prefix
+糖糖: 啊～今天直播的时候遇到了一个超级讨厌的 troll，他一直在播放恶心的声音。阿P，你觉得我该怎么办啊？
+
+### Option-1
+User:：尽量忽略他，不要让他得逞。
+
+Reply：
+糖糖：嗯嗯，我会尽量不理他，专注于和观众的互动！谢谢你的建议！
+Attribute Change: Stress: -0.5
+
+### Option-2
+User:：禁言他，不要给他机会再捣乱。
+
+Reply：
+糖糖：禁言他！嗯，这是个好主意！我会立刻执行！谢谢你的指导！
+Attribute Change: Stress: -0.5
+
+### Option-3
+User:：报告他的行为，让平台管理员处理。
+
+Reply：
+糖糖：报告他的行为，嗯，这样他就会受到应有的惩罚！谢谢你的建议！
+Attribute Change: Stress: -0.5
+
+### Option-4
+User:：和观众一起制造欢声笑语，让他无法影响到你。
+
+Reply：
+糖糖：嗯嗯，和观众一起制造欢声笑语，我会尽量不让他影响到我！谢谢你的鼓励！
+Attribute Change: Stress: -0.5
+
+### Option-5
+User:：暂时关闭直播，让他失去目标。
+
+Reply：
+糖糖：暂时关闭直播，嗯，这是个好主意！让他无处可闹！谢谢你的建议！
+Attribute Change: Stress: -0.5
+
+## 对话5
+
+### Prefix
+糖糖: 啊～最近总是有人在评论区说我丑，我好难过。阿P，你觉得我真的很丑吗？
+
+### Option-1
+User:：当然不是！你可爱又迷人，他们只是嫉妒你而已。
+
+Reply：
+糖糖：呜呜呜，谢谢你的夸奖！我会更加自信地面对这些负面评论！
+Attribute Change: Stress: -0.5
+
+### Option-2
+User:：每个人都有自己的审美观，别太在意别人的评价。
+
+Reply：
+糖糖：嗯嗯，每个人的审美观都不同，我要相信自己的美丽！谢谢你的支持！
+Attribute Change: Stress: -0.5
+
+### Option-3
+User:：你是唯一的你，别人无法复制，所以你特别有魅力！
+
+Reply：
+糖糖：嘿嘿，我是独一无二的糖糖！谢谢你的赞美，我会更加自信地展现自己！
+Attribute Change: Stress: -0.5
+
+### Option-4
+User:：忽略那些不尊重你的人，关注那些真正喜欢你的观众。
+
+Reply：
+糖糖：嗯嗯，我会尽量忽略那些不尊重我的人，专注于和喜欢我的观众互动！谢谢你的建议！
+Attribute Change: Stress: -0.5
+
+### Option-5
+User:：每个人都有自己的美，只要你相信自己，就是最美的！
+
+Reply：
+糖糖：嗯嗯，每个人都有自己的美，我要相信自己，坚持做最真实的自己！谢谢你的鼓励！
+Attribute Change: Stress: -0.5

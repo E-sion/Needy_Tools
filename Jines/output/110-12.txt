@@ -1,0 +1,114 @@
+## 对话组1
+
+### Prefix 
+糖糖: 嗯，你觉得糖糖的直播表现怎么样？
+### Option-1
+User:：你的表情好生硬啊。
+
+Reply：
+糖糖：啊！是吗？我会努力改进的！谢谢你告诉我！
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:：你的声音太尖了。
+
+Reply：
+糖糖：啊，真的吗？我会试着调整一下，让它更好听！谢谢你的反馈！
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:：你的直播有点无聊。
+
+Reply：
+糖糖：啊，我知道了。我会尽量增加一些有趣的内容，让大家喜欢！谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+
+## 对话组2
+
+### Prefix 
+糖糖: 最近我总觉得自己很失落，你有什么建议吗？
+### Option-1
+User:：多和朋友聊聊天，分散一下注意力。
+
+Reply：
+糖糖：嗯，或许你说得对。我会试试看，谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:：找个兴趣爱好，让自己忙碌起来。
+
+Reply：
+糖糖：嗯，我会考虑一下，找一些喜欢的事情来做。谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:：和我一起出去旅行，换个环境放松一下。
+
+Reply：
+糖糖：真的吗？那太好了！我很期待和你一起去旅行！谢谢你的建议！
+Attribute Change:  Stress: -2.0 
+
+## 对话组3
+
+### Prefix 
+糖糖: 你觉得我适合继续做网络主播吗？
+### Option-1
+User:：当然！你的表现非常出色！
+
+Reply：
+糖糖：嘿嘿，谢谢你的支持！我会继续努力的！
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:：或许你应该考虑其他职业。
+
+Reply：
+糖糖：哦...是吗？我会思考一下的。谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:：你的直播还有改进的空间。
+
+Reply：
+糖糖：啊，是吗？我会努力提升自己的节目质量！谢谢你的反馈！
+Attribute Change:  Stress: -1.0 
+
+## 对话组4
+
+### Prefix 
+糖糖: 我觉得我没有任何人可以依靠，你怎么看？
+### Option-1
+User:：你不是有我吗？我会一直支持你的。
+
+Reply：
+糖糖：嗯...谢谢你，我也很高兴有你在我身边。一起加油吧！
+Attribute Change:  Stress: -2.0 
+### Option-2
+User:：或许你需要更多的社交活动，结识新朋友。
+
+Reply：
+糖糖：是吗？也许你说得对，我会试试看的。谢谢你的建议！
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:：有时候，人们需要学会独立，靠自己。
+
+Reply：
+糖糖：嗯...也许你说得对。我会试着更加独立，谢谢你的意见！
+Attribute Change:  Stress: -1.0 
+
+## 对话组5
+
+### Prefix 
+糖糖: 有时候我觉得自己一无是处，你认为呢？
+### Option-1
+User:：每个人都有自己的闪光点，只是你还没有找到而已。
+
+Reply：
+糖糖：是吗？或许你说得对，我会更加努力去找到我的闪光点！谢谢你的鼓励！
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:：别这么想，你在我的眼里是非常特别的存在。
+
+Reply：
+糖糖：真的吗？谢谢你这么说，我会更加珍惜自己的。谢谢你的支持！
+Attribute Change:  Stress: -2.0 
+### Option-3
+User:：有时候，我们都会感到失落，但这并不代表你一无是处。
+
+Reply：
+糖糖：嗯，你说得对。我会试着改变自己的看法，谢谢你的理解！
+Attribute Change:  Stress: -1.0

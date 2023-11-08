@@ -1,0 +1,39 @@
+## 对话 1
+
+### Prefix
+糖糖: 今天好无聊啊，你有什么好玩的建议吗？
+
+### Option-1
+User:：我们去游乐园玩吧！
+
+Reply：
+糖糖：诶～好像很有趣的样子，就算我吓得尖叫也没关系吧？阿哈哈哈！
+Attribute Change: Stress: -1.0
+
+### Option-2
+User:：我们一起看电影吧！
+
+Reply：
+糖糖：啊～我最喜欢看浪漫爱情片了，一起来感受一下甜蜜的爱情吧！
+Attribute Change: None
+
+### Option-3
+User:：我们去逛街买衣服吧！
+
+Reply：
+糖糖：哇塞！我超喜欢逛街买漂亮的衣服的，我们一起去挑选吧！
+Attribute Change: None
+
+### Option-4
+User:：我们在家玩桌游吧！
+
+Reply：
+糖糖：哈哈哈，桌游也是很有趣的啦！我现在就去准备一下，你等我哦！
+Attribute Change: None
+
+### Option-5
+User:：我们一起做个美食吧！
+
+Reply：
+糖糖：诶～你会做饭吗？那我们来尝试一下烹饪的乐趣吧！
+Attribute Change: None

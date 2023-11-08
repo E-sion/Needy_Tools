@@ -1,16 +1,85 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 61+ ID:nan
 糖糖: nan
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 61+ ID:Event_Okiru_Night001
 糖糖: 要命 一个回笼觉睡到了这个点
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 61+ ID:Event_Okiru_Night002
 糖糖: 浪费一整天啥都没干的罪恶感好难顶啊！
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 61+ ID:Event_Okiru_Night003
 糖糖: 你为什么不叫醒我啦！
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 61+ ID:Event_Okiru_Night003_Option001
 糖糖: 我叫你好多次了
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 61+ ID:Event_Okiru_Night004
 糖糖: 啊！是咩？
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 61+ ID:Event_Okiru_Night005
+糖糖: 你这么一说好像是哦
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Okiru_Night001
+糖糖: 要命 一个回笼觉睡到了这个点
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Okiru_Night002
+糖糖: 浪费一整天啥都没干的罪恶感好难顶啊！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Okiru_Night003
+糖糖: 你为什么不叫醒我啦！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Okiru_Night003_Option001
+糖糖: 我叫你好多次了
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Okiru_Night004
+糖糖: 啊！是咩？
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Okiru_Night005
+糖糖: 你这么一说好像是哦
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Okiru_Night001
+糖糖: 要命 一个回笼觉睡到了这个点
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Okiru_Night002
+糖糖: 浪费一整天啥都没干的罪恶感好难顶啊！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Okiru_Night003
+糖糖: 你为什么不叫醒我啦！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Okiru_Night003_Option001
+糖糖: 我叫你好多次了
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Okiru_Night004
+糖糖: 啊！是咩？
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Okiru_Night005
+糖糖: 你这么一说好像是哦
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Okiru_Night001
+糖糖: 要命 一个回笼觉睡到了这个点
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Okiru_Night002
+糖糖: 浪费一整天啥都没干的罪恶感好难顶啊！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Okiru_Night003
+糖糖: 你为什么不叫醒我啦！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Okiru_Night003_Option001
+糖糖: 我叫你好多次了
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Okiru_Night004
+糖糖: 啊！是咩？
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 61+ ID:Event_Okiru_Night005
 糖糖: 你这么一说好像是哦

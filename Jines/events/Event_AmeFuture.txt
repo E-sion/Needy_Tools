@@ -1,9 +1,9 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_AmeFuture001
 糖糖: 哎，你会希望看到糖糖将来的样子吗？
 ### Option-1
-User:：机器人
+User:　机器人
 
 Reply：
 糖糖：——“糖糖”OS，启动
@@ -18,7 +18,7 @@ Reply：
 糖糖：对阿P的爱 100%
 Attribute Change:  Stress: -2.0 
 ### Option-2
-User:：合成怪物
+User:　合成怪物
 
 Reply：
 糖糖：……了 我……了 我
@@ -30,7 +30,133 @@ Reply：
 糖糖：赶 快动 手杀了 我 吧 阿P
 Attribute Change:  Stress: -2.0 
 ### Option-3
-User:：狂战士
+User:　狂战士
+
+Reply：
+糖糖：呜噜噜噜噜噜噜…… 人类…… 杀
+Attribute Change: None
+Reply：
+糖糖：尤其是那些认为“很有个人特征的作画都是‘画崩了’”的傻逼动画宅，
+Attribute Change: None
+Reply：
+糖糖：杀无赦
+Attribute Change:  Stress: -2.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_AmeFuture001
+糖糖: 哎，你会希望看到糖糖将来的样子吗？
+### Option-1
+User:　机器人
+
+Reply：
+糖糖：——“糖糖”OS，启动
+Attribute Change: None
+Reply：
+糖糖：系统 一切正常
+Attribute Change: None
+Reply：
+糖糖：各零部件 状态良好
+Attribute Change: None
+Reply：
+糖糖：对阿P的爱 100%
+Attribute Change:  Stress: -2.0 
+### Option-2
+User:　合成怪物
+
+Reply：
+糖糖：……了 我……了 我
+Attribute Change: None
+Reply：
+糖糖：趁 我还 有 理 性的时 候
+Attribute Change: None
+Reply：
+糖糖：赶 快动 手杀了 我 吧 阿P
+Attribute Change:  Stress: -2.0 
+### Option-3
+User:　狂战士
+
+Reply：
+糖糖：呜噜噜噜噜噜噜…… 人类…… 杀
+Attribute Change: None
+Reply：
+糖糖：尤其是那些认为“很有个人特征的作画都是‘画崩了’”的傻逼动画宅，
+Attribute Change: None
+Reply：
+糖糖：杀无赦
+Attribute Change:  Stress: -2.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_AmeFuture001
+糖糖: 哎，你会希望看到糖糖将来的样子吗？
+### Option-1
+User:　机器人
+
+Reply：
+糖糖：——“糖糖”OS，启动
+Attribute Change: None
+Reply：
+糖糖：系统 一切正常
+Attribute Change: None
+Reply：
+糖糖：各零部件 状态良好
+Attribute Change: None
+Reply：
+糖糖：对阿P的爱 100%
+Attribute Change:  Stress: -2.0 
+### Option-2
+User:　合成怪物
+
+Reply：
+糖糖：……了 我……了 我
+Attribute Change: None
+Reply：
+糖糖：趁 我还 有 理 性的时 候
+Attribute Change: None
+Reply：
+糖糖：赶 快动 手杀了 我 吧 阿P
+Attribute Change:  Stress: -2.0 
+### Option-3
+User:　狂战士
+
+Reply：
+糖糖：呜噜噜噜噜噜噜…… 人类…… 杀
+Attribute Change: None
+Reply：
+糖糖：尤其是那些认为“很有个人特征的作画都是‘画崩了’”的傻逼动画宅，
+Attribute Change: None
+Reply：
+糖糖：杀无赦
+Attribute Change:  Stress: -2.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_AmeFuture001
+糖糖: 哎，你会希望看到糖糖将来的样子吗？
+### Option-1
+User:　机器人
+
+Reply：
+糖糖：——“糖糖”OS，启动
+Attribute Change: None
+Reply：
+糖糖：系统 一切正常
+Attribute Change: None
+Reply：
+糖糖：各零部件 状态良好
+Attribute Change: None
+Reply：
+糖糖：对阿P的爱 100%
+Attribute Change:  Stress: -2.0 
+### Option-2
+User:　合成怪物
+
+Reply：
+糖糖：……了 我……了 我
+Attribute Change: None
+Reply：
+糖糖：趁 我还 有 理 性的时 候
+Attribute Change: None
+Reply：
+糖糖：赶 快动 手杀了 我 吧 阿P
+Attribute Change:  Stress: -2.0 
+### Option-3
+User:　狂战士
 
 Reply：
 糖糖：呜噜噜噜噜噜噜…… 人类…… 杀

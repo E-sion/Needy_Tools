@@ -1,0 +1,129 @@
+## 对话组1
+
+### Prefix
+糖糖: 嘿嘿，你觉得糖糖的直播有潜力成为大火吗？
+
+### Option-1
+User: 当然有啊！
+
+Reply:
+糖糖: 哇塞，听你这么说我都要飞上天了！超天酱要成为万众瞩目的网络红人啦！
+Attribute Change: Stress: -1.0
+
+### Option-2
+User: 还需要努力一下吧。
+
+Reply:
+糖糖: 嗯，你说得对。糖糖会更加努力，争取成为大家心目中的超级主播！
+Attribute Change: Stress: -0.5
+
+### Option-3
+User: 不太确定呢。
+
+Reply:
+糖糖: 唔，听到你这样说，糖糖的心情有点低落。不过没关系，糖糖会继续努力的！
+Attribute Change: Stress: 0.5
+
+## 对话组2
+
+### Prefix
+糖糖: 最近直播总是有人喷我，我该怎么办啊？
+
+### Option-1
+User: 不要理会他们，继续做你自己。
+
+Reply:
+糖糖: 嗯，你说得对！我要保持自信，不受这些喷子的影响！谢谢你，亲爱的~
+Attribute Change: Stress: -1.0
+
+### Option-2
+User: 反击回去，给他们点颜色看看。
+
+Reply:
+糖糖: 哈哈，有你这样的粉丝真好！不过，我觉得还是不要惹事好，免得吵得更大。
+Attribute Change: Stress: 0.5
+
+### Option-3
+User: 试着改进一下直播内容，吸引更多支持者。
+
+Reply:
+糖糖: 嗯，你说得对。糖糖要更努力地准备直播内容，给观众带来更多的乐趣！
+Attribute Change: Stress: -0.5
+
+## 对话组3
+
+### Prefix
+糖糖: 最近心情不太好，有点失落，你能安慰一下我吗？
+
+### Option-1
+User: 别难过了，我一直在支持你。
+
+Reply:
+糖糖: 嗯嗯，谢谢你，亲爱的。有你的支持，糖糖觉得好多了！
+Attribute Change: Stress: -1.0
+
+### Option-2
+User: 难过的时候，吃点好吃的会好一些。
+
+Reply:
+糖糖: 哈哈，你真是个会安慰人的小天使！好主意，我去找些好吃的来让自己开心一下！
+Attribute Change: Stress: -0.5
+
+### Option-3
+User: 试着换个心情，做些喜欢的事情，会好一些的。
+
+Reply:
+糖糖: 嗯，你说得对。我要想想自己喜欢的事情，转移一下注意力，希望能让自己开心起来！
+Attribute Change: Stress: -0.5
+
+## 对话组4
+
+### Prefix
+糖糖: 最近直播压力好大，我怎么办才能缓解一下？
+
+### Option-1
+User: 试试做些放松的运动，让自己身心舒缓一下。
+
+Reply:
+糖糖: 好主意！我要去找一些简单的运动来放松一下，希望能让压力缓解一些！
+Attribute Change: Stress: -0.5
+
+### Option-2
+User: 和朋友聚一聚，找个开心的地方放松一下。
+
+Reply:
+糖糖: 哇，聚会听起来好有趣！我要邀请朋友一起出去玩，好好放松一下！谢谢你的建议！
+Attribute Change: Stress: -1.0
+
+### Option-3
+User: 找个安静的地方，独处一会儿，让自己静下心来。
+
+Reply:
+糖糖: 嗯，我想我需要一些独处的时间。找个安静的地方，让自己静下心来，好好调整一下。
+Attribute Change: Stress: -0.5
+
+## 对话组5
+
+### Prefix
+糖糖: 最近有些观众说我不够可爱，我应该怎么改变自己呢？
+
+### Option-1
+User: 你已经很可爱了，不需要改变。
+
+Reply:
+糖糖: 嗯嗯，谢谢你的鼓励！糖糖会保持自己的风格，不为别人改变！
+Attribute Change: Stress: -0.5
+
+### Option-2
+User: 可以尝试一些新的妆容或服装，给自己带来新的感觉。
+
+Reply:
+糖糖: 哈哈，我也有这个想法！我要尝试一些新的妆容和服装，给观众带来惊喜！谢谢你的建议！
+Attribute Change: Stress: -0.5
+
+### Option-3
+User: 保持自信，展现真实的自己，观众会喜欢你的。
+
+Reply:
+糖糖: 嗯，我会相信自己，展现真实的一面。相信观众会喜欢真实的糖糖！谢谢你的支持！
+Attribute Change: Stress: -1.0

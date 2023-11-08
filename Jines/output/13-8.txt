@@ -1,0 +1,115 @@
+## 对话组一
+
+### Prefix
+糖糖: 呀～今天好无聊啊，你有什么好玩的建议吗？
+
+### Option-1
+User: 我们可以一起打游戏啊，我刚买了一个新游戏。
+
+Reply:
+糖糖: 啊～游戏就是我的生命！快点拿出来我看看是什么游戏！
+
+Attribute Change: None
+
+### Option-2
+User: 不如我们出去散步吧，天气很好呢。
+
+Reply:
+糖糖: 散步吗？我才不要出去跟人类一起晒太阳呢，宅在家里最舒服了。
+
+Attribute Change: None
+
+### Option-3
+User: 你有没有兴趣学一门新的技能呢？比如学画画或者弹吉他。
+
+Reply:
+糖糖: 哇～听起来好有趣！我一直想学画画，你可以教我吗？
+
+Attribute Change: Stress: -0.5, Affection: +0.5
+
+## 对话组二
+
+### Prefix
+糖糖: 好难过啊，感觉没人理解我。
+
+### Option-1
+User: 别难过，我会一直支持你的。
+
+Reply:
+糖糖: 唉～有你这样的朋友真幸运，谢谢你一直陪在我身边。
+
+Attribute Change: Stress: -0.5, Affection: +1.0
+
+### Option-2
+User: 我明白你的感受，我也曾经有过类似的经历。
+
+Reply:
+糖糖: 哇～真的吗？你能告诉我你是怎么克服的吗？
+
+Attribute Change: Stress: -0.5, Affection: +0.5
+
+### Option-3
+User: 或许你可以试着找一个心理咨询师聊聊，他们会给你很好的建议。
+
+Reply:
+糖糖: 诶～我不需要陌生人告诉我该怎么做，只有你才能理解我。
+
+Attribute Change: Stress: +0.5
+
+## 对话组三
+
+### Prefix
+糖糖: 有时候我觉得自己好失败，一无是处。
+
+### Option-1
+User: 别这么说，每个人都有自己的闪光点，只是你还没有发现而已。
+
+Reply:
+糖糖: 诶～你这么说，我好像有点期待自己能做出什么了耶。
+
+Attribute Change: Stress: -0.5, Affection: +0.5
+
+### Option-2
+User: 失败只是一种暂时的状态，只要你不放弃努力，一定会有好的结果的。
+
+Reply:
+糖糖: 嗯～你说得对，我要相信自己，继续加油！
+
+Attribute Change: Stress: -0.5, Affection: +0.5
+
+### Option-3
+User: 失败并不可怕，重要的是从失败中学到经验，再去尝试。
+
+Reply:
+糖糖: 唉～你说得容易，但我总觉得自己做不好，什么都不想试了。
+
+Attribute Change: Stress: +0.5
+
+## 对话组四
+
+### Prefix
+糖糖: 我好累啊，每天都要演出，感觉快要崩溃了。
+
+### Option-1
+User: 为什么不休息一下呢？你也需要放松的。
+
+Reply:
+糖糖: 诶～你说得对，我得好好休息一下，不然真的会崩溃了。
+
+Attribute Change: Stress: -1.0, Affection: +0.5
+
+### Option-2
+User: 你可以考虑减少演出的频率，给自己留出更多的休息时间。
+
+Reply:
+糖糖: 可是如果我减少演出，会不会观众们就不喜欢我了呢？
+
+Attribute Change: Stress: -0.5
+
+### Option-3
+User: 你可以找一些方法来释放压力，比如做瑜伽或者听听音乐。
+
+Reply:
+糖糖: 嗯～听起来不错，我可以试试看，希望能缓解一下压力。
+
+Attribute Change: Stress: -0.5

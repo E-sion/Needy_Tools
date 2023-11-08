@@ -1,23 +1,96 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 0-19 ID:Event_Watchword_JINE001
 糖糖: 小天使请安！这个开场白也说厌了啊～
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Stress 0-19 ID:Event_Watchword_JINE002
 糖糖: 帮我想个别的开场白！
 ### Option-1
-User:：当代互联网小天使，参上！
+User:　当代互联网小天使，参上！
 
 Reply：
 糖糖：试着上超天酱的钩吧？之类的嘿嘿
 Attribute Change:  Stress: -1.0 
 ### Option-2
-User:：我是路过的网络主播，给我记住了！
+User:　我是路过的网络主播，给我记住了！
 
 Reply：
 糖糖：要变成网络世界的破坏者啦
 Attribute Change:  Stress: -1.0 
 ### Option-3
-User:：那么，我们开始直播吧
+User:　那么，我们开始直播吧
+
+Reply：
+糖糖：胜利的企划已然确定了！
+Attribute Change:  Stress: -1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Watchword_JINE001
+糖糖: 小天使请安！这个开场白也说厌了啊～
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Watchword_JINE002
+糖糖: 帮我想个别的开场白！
+### Option-1
+User:　当代互联网小天使，参上！
+
+Reply：
+糖糖：试着上超天酱的钩吧？之类的嘿嘿
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:　我是路过的网络主播，给我记住了！
+
+Reply：
+糖糖：要变成网络世界的破坏者啦
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:　那么，我们开始直播吧
+
+Reply：
+糖糖：胜利的企划已然确定了！
+Attribute Change:  Stress: -1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Watchword_JINE001
+糖糖: 小天使请安！这个开场白也说厌了啊～
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Watchword_JINE002
+糖糖: 帮我想个别的开场白！
+### Option-1
+User:　当代互联网小天使，参上！
+
+Reply：
+糖糖：试着上超天酱的钩吧？之类的嘿嘿
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:　我是路过的网络主播，给我记住了！
+
+Reply：
+糖糖：要变成网络世界的破坏者啦
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:　那么，我们开始直播吧
+
+Reply：
+糖糖：胜利的企划已然确定了！
+Attribute Change:  Stress: -1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Watchword_JINE001
+糖糖: 小天使请安！这个开场白也说厌了啊～
+## 对话
+### Prefix Category_temp:Random Noon Event_ Stress 0-19 ID:Event_Watchword_JINE002
+糖糖: 帮我想个别的开场白！
+### Option-1
+User:　当代互联网小天使，参上！
+
+Reply：
+糖糖：试着上超天酱的钩吧？之类的嘿嘿
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:　我是路过的网络主播，给我记住了！
+
+Reply：
+糖糖：要变成网络世界的破坏者啦
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:　那么，我们开始直播吧
 
 Reply：
 糖糖：胜利的企划已然确定了！

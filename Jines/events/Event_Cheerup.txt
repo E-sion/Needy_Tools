@@ -1,15 +1,60 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Darkness 0-39 ID:Event_Cheerup_JINE001
 糖糖: 我今后也会努力加油的，你要支持我哦 还有阿P你自己也要加油哦！
 ### Option-1
-User:：哇 说的话跟偶像一样 好恶心哦
+User:　哇 说的话跟偶像一样 好恶心哦
 
 Reply：
 糖糖：是哦 我怎么会说这样的话呢 我又没有很想努力……
 Attribute Change:  Stress: -1.0 
 ### Option-2
-User:：为什么连我也要加油啊？
+User:　为什么连我也要加油啊？
+
+Reply：
+糖糖：确、确实……阿P还是在我身边保持阿P的样子最好了～；；
+Attribute Change:  Stress: -1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Darkness 0-39 ID:Event_Cheerup_JINE001
+糖糖: 我今后也会努力加油的，你要支持我哦 还有阿P你自己也要加油哦！
+### Option-1
+User:　哇 说的话跟偶像一样 好恶心哦
+
+Reply：
+糖糖：是哦 我怎么会说这样的话呢 我又没有很想努力……
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:　为什么连我也要加油啊？
+
+Reply：
+糖糖：确、确实……阿P还是在我身边保持阿P的样子最好了～；；
+Attribute Change:  Stress: -1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Darkness 0-39 ID:Event_Cheerup_JINE001
+糖糖: 我今后也会努力加油的，你要支持我哦 还有阿P你自己也要加油哦！
+### Option-1
+User:　哇 说的话跟偶像一样 好恶心哦
+
+Reply：
+糖糖：是哦 我怎么会说这样的话呢 我又没有很想努力……
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:　为什么连我也要加油啊？
+
+Reply：
+糖糖：确、确实……阿P还是在我身边保持阿P的样子最好了～；；
+Attribute Change:  Stress: -1.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Darkness 0-39 ID:Event_Cheerup_JINE001
+糖糖: 我今后也会努力加油的，你要支持我哦 还有阿P你自己也要加油哦！
+### Option-1
+User:　哇 说的话跟偶像一样 好恶心哦
+
+Reply：
+糖糖：是哦 我怎么会说这样的话呢 我又没有很想努力……
+Attribute Change:  Stress: -1.0 
+### Option-2
+User:　为什么连我也要加油啊？
 
 Reply：
 糖糖：确、确实……阿P还是在我身边保持阿P的样子最好了～；；

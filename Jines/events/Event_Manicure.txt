@@ -1,15 +1,60 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Affection 61+ ID:Event_Manicure_JINE001
 糖糖: 哎，你觉得我下次美甲做什么颜色好呢？
 ### Option-1
-User:：天蓝色
+User:　天蓝色
 
 ### Option-2
-User:：紫色
+User:　紫色
 
 ### Option-3
-User:：七彩色
+User:　七彩色
 
 ### Option-4
-User:：黑色
+User:　黑色
+
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_Manicure_JINE001
+糖糖: 哎，你觉得我下次美甲做什么颜色好呢？
+### Option-1
+User:　天蓝色
+
+### Option-2
+User:　紫色
+
+### Option-3
+User:　七彩色
+
+### Option-4
+User:　黑色
+
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_Manicure_JINE001
+糖糖: 哎，你觉得我下次美甲做什么颜色好呢？
+### Option-1
+User:　天蓝色
+
+### Option-2
+User:　紫色
+
+### Option-3
+User:　七彩色
+
+### Option-4
+User:　黑色
+
+## 对话
+### Prefix Category_temp:Random Noon Event_ Affection 61+ ID:Event_Manicure_JINE001
+糖糖: 哎，你觉得我下次美甲做什么颜色好呢？
+### Option-1
+User:　天蓝色
+
+### Option-2
+User:　紫色
+
+### Option-3
+User:　七彩色
+
+### Option-4
+User:　黑色

@@ -1,23 +1,45 @@
 
-##
-### Prefix 
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_Kurorekisi001
 糖糖: 阿P，你在读中学的时候有过什么黑历史吗？
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:nan
 糖糖: nan
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_Kurorekisi002
 糖糖: 诶～！糖糖啊，
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_Kurorekisi003
 糖糖: 当时会在匿名版发V家自设同人文哦
-##
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_Kurorekisi004
 糖糖: 我靠一想起来就差点要呕吐！
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_Kurorekisi005
+糖糖: 那读高中的时候咧？
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_Kurorekisi006
+糖糖: 谢谢有笑到！嗯，糖糖嘛～
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_Kurorekisi007
+糖糖: 搞过“#吐黑泥亲友扩列”之类的……
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_Kurorekisi008
+糖糖: 虽然最后只有想网恋的人来fo我……
+## 对话
+### Prefix Category_temp:Random Noon Event: Daily ID:Event_Kurorekisi009
+糖糖: 那现在有做什么蠢事咧？
 ### Option-3
-User:：跟糖糖交往
+User:　跟糖糖交往
 
 Reply：
 糖糖：QAQ……不过，算了。就用我自己纯洁无瑕的心灵来把你的黑历史抹白好了
 Attribute Change:  Stress: -1.0 
 ### Option-3
-User:：其实我有玩约约
+User:　其实我有玩约约
 
 Reply：
 糖糖：就算你说那是开玩笑的我也不会原谅你！
@@ -26,7 +48,178 @@ Reply：
 糖糖：把手机交出来！我马上给你砸了～！！
 Attribute Change:  Stress: -2.0 
 ### Option-3
-User:：割腕自残
+User:　割腕自残
+
+Reply：
+糖糖：怎么会……没想到连阿P都病得那么重……
+Attribute Change: None
+Reply：
+糖糖：草你这手腕不是平整得很吗！！！
+Attribute Change:  Stress: -2.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi001
+糖糖: 阿P，你在读中学的时候有过什么黑历史吗？
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi002
+糖糖: 诶～！糖糖啊，
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi003
+糖糖: 当时会在匿名版发V家自设同人文哦
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi004
+糖糖: 我靠一想起来就差点要呕吐！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi005
+糖糖: 那读高中的时候咧？
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi006
+糖糖: 谢谢有笑到！嗯，糖糖嘛～
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi007
+糖糖: 搞过“#吐黑泥亲友扩列”之类的……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi008
+糖糖: 虽然最后只有想网恋的人来fo我……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi009
+糖糖: 那现在有做什么蠢事咧？
+### Option-3
+User:　跟糖糖交往
+
+Reply：
+糖糖：QAQ……不过，算了。就用我自己纯洁无瑕的心灵来把你的黑历史抹白好了
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:　其实我有玩约约
+
+Reply：
+糖糖：就算你说那是开玩笑的我也不会原谅你！
+Attribute Change: None
+Reply：
+糖糖：把手机交出来！我马上给你砸了～！！
+Attribute Change:  Stress: -2.0 
+### Option-3
+User:　割腕自残
+
+Reply：
+糖糖：怎么会……没想到连阿P都病得那么重……
+Attribute Change: None
+Reply：
+糖糖：草你这手腕不是平整得很吗！！！
+Attribute Change:  Stress: -2.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi001
+糖糖: 阿P，你在读中学的时候有过什么黑历史吗？
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi002
+糖糖: 诶～！糖糖啊，
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi003
+糖糖: 当时会在匿名版发V家自设同人文哦
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi004
+糖糖: 我靠一想起来就差点要呕吐！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi005
+糖糖: 那读高中的时候咧？
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi006
+糖糖: 谢谢有笑到！嗯，糖糖嘛～
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi007
+糖糖: 搞过“#吐黑泥亲友扩列”之类的……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi008
+糖糖: 虽然最后只有想网恋的人来fo我……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi009
+糖糖: 那现在有做什么蠢事咧？
+### Option-3
+User:　跟糖糖交往
+
+Reply：
+糖糖：QAQ……不过，算了。就用我自己纯洁无瑕的心灵来把你的黑历史抹白好了
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:　其实我有玩约约
+
+Reply：
+糖糖：就算你说那是开玩笑的我也不会原谅你！
+Attribute Change: None
+Reply：
+糖糖：把手机交出来！我马上给你砸了～！！
+Attribute Change:  Stress: -2.0 
+### Option-3
+User:　割腕自残
+
+Reply：
+糖糖：怎么会……没想到连阿P都病得那么重……
+Attribute Change: None
+Reply：
+糖糖：草你这手腕不是平整得很吗！！！
+Attribute Change:  Stress: -2.0 
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi001
+糖糖: 阿P，你在读中学的时候有过什么黑历史吗？
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi002
+糖糖: 诶～！糖糖啊，
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi003
+糖糖: 当时会在匿名版发V家自设同人文哦
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi004
+糖糖: 我靠一想起来就差点要呕吐！
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi005
+糖糖: 那读高中的时候咧？
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:nan
+糖糖: nan
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi006
+糖糖: 谢谢有笑到！嗯，糖糖嘛～
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi007
+糖糖: 搞过“#吐黑泥亲友扩列”之类的……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi008
+糖糖: 虽然最后只有想网恋的人来fo我……
+## 对话
+### Prefix Category_temp:Random Noon Event_ Daily ID:Event_Kurorekisi009
+糖糖: 那现在有做什么蠢事咧？
+### Option-3
+User:　跟糖糖交往
+
+Reply：
+糖糖：QAQ……不过，算了。就用我自己纯洁无瑕的心灵来把你的黑历史抹白好了
+Attribute Change:  Stress: -1.0 
+### Option-3
+User:　其实我有玩约约
+
+Reply：
+糖糖：就算你说那是开玩笑的我也不会原谅你！
+Attribute Change: None
+Reply：
+糖糖：把手机交出来！我马上给你砸了～！！
+Attribute Change:  Stress: -2.0 
+### Option-3
+User:　割腕自残
 
 Reply：
 糖糖：怎么会……没想到连阿P都病得那么重……
